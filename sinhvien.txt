@@ -1,0 +1,2036 @@
+1020737,bui hoang kha,31-5-2000,TP. Ho Chi Minh,Thu ky y khoa,P@ssword135
+1021835,thach thi ngoc bich,19-9-2000,Lai Chau,Quan tri Nha hang va Dich vu an uong,P@ssword135
+1023054,le van thai,4-1-2000,Can Tho,Anh van thuong mai,P@ssword135
+1023097,ho hoang kiem,15-8-2000,Quang Ninh,Quan tri cong nghe truyen thong,P@ssword135
+1024288,phan quang tien,3-2-2000,Ben Tre,Kinh doanh quoc te,P@ssword135
+11020267,nguyen anh tuan,18-5-2000,Phu Yen,Quan tri nhan luc,P@ssword135
+11020783,hoang thi thu ha,13-12-1999,Dong Nai,He thong thong tin quan ly,P@ssword135
+11021133,hoang trong anh,15-5-1999,Bac Lieu,Thiet ke do hoa,P@ssword135
+11022512,vu van thanh,3-11-1998,Vinh Phuc,Quan ly Tai nguyen va moi truong,P@ssword135
+11022884,bui trung hieu,8-9-2000,Bac Ninh,Thu ky y khoa,P@ssword135
+11022952,nguyen thi kim ngan,19-2-1999,Binh Thuan,Kinh doanh quoc te,P@ssword135
+11023030,ba thi thien da,20-12-2000,Thua Thien - Hue,Quan tri Khach San,P@ssword135
+11023053,le sy khang,1-9-2000,Bac Lieu,Thiet ke do hoa,P@ssword135
+11023470,nguyen minh quan,30-4-2000,Khanh Hoa,Do hoa Multimedia,P@ssword135
+11023631,phan nguyen huy nhan,20-9-1999,Gia Lai,Anh van thuong mai,P@ssword135
+11023884,keomounty khonsavanh,27-5-2000,Lam Dong,Thu ky y khoa,P@ssword135
+21020002,bui pham anh tuan,30-7-2000,Gia Lai,Thiet ke thoi trang,P@ssword135
+21020011,ka thi,13-8-2000,Tra Vinh,Cong nghe thong tin,P@ssword135
+21020060,dieu phuong,9-2-2000,Ba Ria - Vung Tau,Quan ly Tai nguyen va moi truong,P@ssword135
+21020157,ka duyn,1-5-1999,Ha Giang,Thiet ke noi that,P@ssword135
+21020171,vo thi ngoc,26-11-1999,Binh Phuoc,Quan ly Tai nguyen va moi truong,P@ssword135
+21020278,nguyen hoang uyen phuong,10-12-1999,Quang Ngai,Quan tri cong nghe truyen thong,P@ssword135
+21020528,le thi tieu ny,19-5-2000,Lang Son,Thu ky van phong,P@ssword135
+21020702,pham thi kim chi,15-10-2000,Quang Nam,Thiet ke do hoa,P@ssword135
+21020718,le duc hieu,19-10-2000,Cao Bang,Thu ky van phong,P@ssword135
+21020730,pham minh duc,14-11-2000,Binh Dinh,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+21020733,nguyen cong viet,31-12-1998,Lai Chau,Quan tri van phong,P@ssword135
+21020758,le quang bac,14-5-2000,Vinh Phuc,Cong nghe thong tin,P@ssword135
+21020817,to thi thanh hien,7-10-2000,Thua Thien - Hue,Kinh doanh quoc te,P@ssword135
+21021060,nguyen thoi dung,18-10-2000,Lao Cai,Quan tri kinh doanh,P@ssword135
+21021174,pham huynh tan luc,7-4-1999,Lao Cai,Thu ky van phong,P@ssword135
+21021276,tran thi nhu nguyen,5-3-1997,Binh Duong,Thiet ke do hoa,P@ssword135
+21021349,le van thanh,19-1-2000,Binh Dinh,Toan ung dung,P@ssword135
+21021795,bui ngoc tan,16-12-2000,Kon Tum,Quan tri Du Lich & Lu hanh,P@ssword135
+21021872,dinh thi hong ngoc,27-8-2000,Quang Ngai,Quan tri Du Lich & Lu hanh,P@ssword135
+21021902,tran thanh sang,17-9-1999,Quang Binh,Cong nghe thong tin,P@ssword135
+21022145,nguyen thi mai phuong,17-8-2000,Ha Tinh,Cong nghe thong tin,P@ssword135
+21022160,ngo van dung,31-3-2000,Lao Cai,Quan tri cong nghe truyen thong,P@ssword135
+21022368,nguyen anh tu,4-5-1995,Tuyen Quang,Toan ung dung,P@ssword135
+21022384,le thi thuy trang,6-8-2000,Bac Kan,Do hoa Multimedia,P@ssword135
+21022413,nguyen thi thao ly,25-2-2000,Thua Thien - Hue,Thiet ke thoi trang,P@ssword135
+21022469,luong quang ha long,28-11-2000,Lang Son,Anh van thuong mai,P@ssword135
+21022497,phan thi thuy trang,26-6-2000,Quang Tri,Kinh doanh quoc te,P@ssword135
+21022530,nguyen phat nhat ha,21-3-2000,Khanh Hoa,Toan ung dung,P@ssword135
+21022677,bui van luong,4-9-2000,Tay Ninh,Quan tri Khach San,P@ssword135
+21022770,pham thi hong lien,22-9-1997,Long An,Quan tri Khach San,P@ssword135
+21022803,truong thao uyen,25-9-1999,Dong Nai,Quan tri nhan luc,P@ssword135
+21022833,ngo hoang phuc,9-9-1999,Ha Noi,Quan tri cong nghe truyen thong,P@ssword135
+21022839,tran van quuon,27-5-2000,Ba Ria - Vung Tau,Thu ky y khoa,P@ssword135
+21022853,vo quang linh,1-8-2000,Lang Son,Ngon ngu Anh,P@ssword135
+21022903,pham thi hoai trang,8-6-2000,Thai Nguyen,Kinh doanh quoc te,P@ssword135
+21022907,tran van bac,8-10-2000,Quang Ninh,Kinh doanh quoc te,P@ssword135
+21022965,nguyen quoc hung,30-9-1999,Ninh Thuan,Marketing,P@ssword135
+21023320,nguyen thi kim hang,28-4-2000,Hai Phong,Quan tri kinh doanh,P@ssword135
+21023384,huynh thi bich phuong,11-1-1999,Tien Giang,Quan tri nhan luc,P@ssword135
+21023496,pham thi thanh nhan,11-5-2000,Lao Cai,Kinh doanh quoc te,P@ssword135
+21023547,bui minh trung,1-8-2000,Nghe An,Quan tri van phong,P@ssword135
+31020006,nguyen thanh hien,4-7-1998,Tay Ninh,He thong thong tin quan ly,P@ssword135
+31020014,diep phuong trang,18-1-1999,Ha Noi,Quan ly Tai nguyen va moi truong,P@ssword135
+31020021,huynh ngoc thanh,14-8-1999,Ninh Binh,Quan tri nhan luc,P@ssword135
+31020037,tran thi van,26-4-1999,Cao Bang,Anh van thuong mai,P@ssword135
+31020058,nguyen minh tien,11-5-1999,Long An,Thu ky van phong,P@ssword135
+31020069,ho cong nghia,14-11-1999,Gia Lai,Quan tri Nha hang va Dich vu an uong,P@ssword135
+31020076,pham thi thao vi,26-7-1999,Binh Thuan,Quan tri Du Lich & Lu hanh,P@ssword135
+31020112,dinh thi khanh hong,3-2-2000,Long An,Kinh doanh quoc te,P@ssword135
+31020120,phan cao the quyen,28-9-1999,Lao Cai,Thiet ke noi that,P@ssword135
+31020125,pham ngoc hoang,27-12-1998,Ninh Binh,Quan tri Nha hang va Dich vu an uong,P@ssword135
+31020133,ngo dinh trong tri,3-10-2000,Gia Lai,Thu ky y khoa,P@ssword135
+31020141,doan thai duy,20-3-1999,Phu Tho,Quan tri kinh doanh,P@ssword135
+31020153,dang thuy dung,19-9-1998,Bac Lieu,Quan tri Khach San,P@ssword135
+31020170,tong hoang lam,8-4-1999,Ha Tinh,Thu ky y khoa,P@ssword135
+31020175,ta tuan anh,24-1-2000,Ha Tinh,Tai chinh ngan hang,P@ssword135
+31020177,tran tuan tu,11-12-1999,Phu Yen,Quan tri van phong,P@ssword135
+31020189,pham hoang long,14-4-1999,Ca Mau,Anh van thuong mai,P@ssword135
+31020190,phan duy hoang anh,3-3-2000,Bac Lieu,Thu ky van phong,P@ssword135
+31020191,nguyen thanh vinh,28-11-1999,Hai Duong,Do hoa Multimedia,P@ssword135
+31020224,pham hoang thai hiep,17-9-1999,Binh Duong,Quan tri nhan luc,P@ssword135
+31020237,tang nguyen thach thao,26-7-1999,TP. Ho Chi Minh,Thu ky y khoa,P@ssword135
+31020286,bui quoc truong,20-1-1999,Kon Tum,Thu ky y khoa,P@ssword135
+31020308,vo trung hieu,11-6-1999,Cao Bang,Thiet ke do hoa,P@ssword135
+31020335,pham huy cuong,11-9-1999,Ha Giang,Quan tri nhan luc,P@ssword135
+31020350,do bui nguyen hieu,13-3-2000,Kien Giang,Tai chinh ngan hang,P@ssword135
+31020358,dinh tran thu hien,9-9-1999,Vinh Phuc,Thiet ke do hoa,P@ssword135
+31020380,bui thi hong nhung,27-10-1999,Hoa Binh,Ky thuat phan mem,P@ssword135
+31020392,dang le huy,18-2-1999,Quang Binh,Truyen thong va Mang may tinh,P@ssword135
+31020440,nguyen thi my linh,1-3-1999,Soc Trang,Marketing,P@ssword135
+31020464,nguyen minh yen,16-8-1999,Khanh Hoa,Thiet ke thoi trang,P@ssword135
+31020476,tran xuan thu an,1-11-1999,Tay Ninh,Anh van thuong mai,P@ssword135
+31020483,pham khanh vy,27-2-1999,Dak Lak,Quan tri Nha hang va Dich vu an uong,P@ssword135
+31020517,le nguyen hai phung,20-11-1999,Can Tho,Quan tri cong nghe truyen thong,P@ssword135
+31020519,phan cao y ngoc,15-7-1998,Ninh Binh,Kinh doanh quoc te,P@ssword135
+31020527,nguyen thanh luan,9-4-1999,Kien Giang,Quan ly Tai nguyen va moi truong,P@ssword135
+31020538,tran thanh phuc,20-2-1999,Dong Thap,Thiet ke noi that,P@ssword135
+31020581,nguyen hoang tuan anh,5-10-1999,Hai Phong,Thu ky van phong,P@ssword135
+31020582,nguyen lam thanh ha,5-2-1999,Ha Nam,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+31020587,thai diep thanh ha,28-12-1999,Thua Thien - Hue,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+31020595,ngo hoang ngoc linh,17-8-1999,Bac Lieu,Thiet ke noi that,P@ssword135
+31020597,le hoai duc,31-8-1999,Binh Thuan,Ngon ngu Anh,P@ssword135
+31020604,le tien loc,17-10-1999,Hung Yen,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+31020608,bui thi thanh truc,8-9-1999,Dien Bien,Do hoa Multimedia,P@ssword135
+31020609,duong huynh nhi,3-4-1999,Nghe An,Quan tri cong nghe truyen thong,P@ssword135
+31020615,vo uyen dung,26-4-1997,Lao Cai,Quan tri cong nghe truyen thong,P@ssword135
+31020632,nguyen thi long huong,15-10-1999,Tien Giang,Do hoa Multimedia,P@ssword135
+31020639,le thi phuong vi,19-7-1999,Lang Son,Marketing,P@ssword135
+31020658,nguyen thi diem thuong,29-11-1999,Vinh Phuc,Cong nghe thong tin,P@ssword135
+31020659,ngo thi thuy trang,27-2-2000,Tra Vinh,Kinh doanh quoc te,P@ssword135
+31020664,nguyen thi huong quynh,12-5-1999,Quang Binh,Thu ky van phong,P@ssword135
+31020667,nguyen le phuong anh,30-12-1999,Gia Lai,Do hoa Multimedia,P@ssword135
+31020674,ho thi my kieu,11-2-2000,Cao Bang,Thiet ke thoi trang,P@ssword135
+31020679,truong ngoc thinh,14-3-1999,Ca Mau,Marketing,P@ssword135
+31020713,nguyen tran minh thuy,15-3-2000,Ha Tinh,Ky thuat phan mem,P@ssword135
+31020722,le dang phong,20-8-1999,Hoa Binh,Do hoa Multimedia,P@ssword135
+31020727,le thi bao nhi,21-8-1999,Nghe An,Ngon ngu Anh,P@ssword135
+31020730,tong khanh linh,19-6-1999,Dong Nai,Thiet ke noi that,P@ssword135
+31020751,luong hong lam thuyen,28-8-1999,Tay Ninh,Quan tri Du Lich & Lu hanh,P@ssword135
+31020758,nguyen hoang anh kien,7-10-2000,Dong Thap,Toan ung dung,P@ssword135
+31020779,nguyen quoc duy,9-11-1999,Ninh Thuan,Ke toan,P@ssword135
+31020790,nguyen le hoang an,16-5-1999,Quang Binh,Thiet ke noi that,P@ssword135
+31020793,huynh manh tien,4-5-1999,Hoa Binh,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+31020798,huynh ngoc minh,1-1-1999,Ninh Binh,Quan tri Du Lich & Lu hanh,P@ssword135
+31020804,tran thi thanh thuy,14-12-1999,Bac Giang,Ngon ngu Anh,P@ssword135
+31020818,van my huyen linh,15-3-1999,Ninh Thuan,Quan tri cong nghe truyen thong,P@ssword135
+31020841,nguyen chi cuong,24-8-1999,Soc Trang,Ky thuat phan mem,P@ssword135
+31020862,hong ba vuong,1-4-1999,Ba Ria - Vung Tau,Quan ly Tai nguyen va moi truong,P@ssword135
+31020867,le chon quynh nhu,25-5-1998,Kon Tum,Quan tri Nha hang va Dich vu an uong,P@ssword135
+31020881,nguyen thi hoa,17-1-2000,Quang Tri,Thu ky van phong,P@ssword135
+31020882,dang ngoc tri,28-9-1999,Can Tho,Quan tri Nha hang va Dich vu an uong,P@ssword135
+31020903,hoang van khanh,6-8-1999,Dong Nai,Quan ly Tai nguyen va moi truong,P@ssword135
+31020938,nguyen thi ngoc suong,7-11-1999,Ha Nam,Thiet ke do hoa,P@ssword135
+31020960,nguyen cao lam,13-9-1999,Quang Nam,Ky thuat phan mem,P@ssword135
+31020982,huynh ngoc viet,24-8-1998,An Giang,Marketing,P@ssword135
+31021028,dang thuy dung,30-1-1999,Vinh Long,Thiet ke thoi trang,P@ssword135
+31021030,pham vu thuy linh,26-7-1999,Khanh Hoa,Quan tri Nha hang va Dich vu an uong,P@ssword135
+31021072,huynh thi mai huong,8-4-1999,Vinh Long,Quan tri nhan luc,P@ssword135
+31021098,nguyen quoc thao nguyen,30-3-1999,Ninh Binh,Quan tri kinh doanh,P@ssword135
+31021100,nguyen thi nha phuong,29-10-2000,Kon Tum,Toan ung dung,P@ssword135
+31021115,nguyen thi my ha,3-2-1997,Dak Nong,Thiet ke thoi trang,P@ssword135
+31021128,huynh luong hung,14-6-1995,Soc Trang,Thiet ke do hoa,P@ssword135
+31021140,nguyen binh nhut vy,4-1-1999,Bac Ninh,Thu ky van phong,P@ssword135
+31021141,pham truong giang,4-3-1999,Ninh Binh,He thong thong tin quan ly,P@ssword135
+31021149,le phu thinh,27-4-1998,Quang Nam,Quan tri Nha hang va Dich vu an uong,P@ssword135
+31021171,phan thi thuy duong,23-3-1999,An Giang,Thu ky van phong,P@ssword135
+31021175,vu thi thuy dung,14-11-1999,Ninh Thuan,Ngon ngu Anh,P@ssword135
+31021184,le tran khanh thy,19-8-1999,Thua Thien - Hue,Quan tri nhan luc,P@ssword135
+31021203,tran nguyen thuy duong,30-6-1999,Dong Nai,Cong nghe thong tin,P@ssword135
+31021233,do nhat minh,25-9-1999,Nghe An,Quan tri van phong,P@ssword135
+31021234,hoang thi thanh thuy,4-10-1999,Lam Dong,He thong thong tin quan ly,P@ssword135
+31021266,do van ngoc duc,19-10-1999,TP. Ho Chi Minh,Tai chinh ngan hang,P@ssword135
+31021269,vuong thi my huynh,20-6-1999,Binh Duong,Thu ky van phong,P@ssword135
+31021281,vo thi phuc,23-10-2000,Tay Ninh,Ke toan,P@ssword135
+31021301,nguyen tu thanh tu,1-12-1999,Yen Bai,Quan tri Nha hang va Dich vu an uong,P@ssword135
+31021310,pham van anh,3-5-1999,Tay Ninh,Thu ky y khoa,P@ssword135
+31021331,nguyen ngoc thanh trang,9-7-1999,Bac Ninh,He thong thong tin quan ly,P@ssword135
+31021337,pham quoc tien,9-12-1998,Lao Cai,Quan tri Nha hang va Dich vu an uong,P@ssword135
+31021338,pham thi quynh nhu,18-10-1999,Binh Phuoc,Kinh doanh quoc te,P@ssword135
+31021360,le quang duy,24-6-1999,Soc Trang,Cong nghe thong tin,P@ssword135
+31021364,tang thi lan huong,30-8-1999,Hai Duong,Truyen thong va Mang may tinh,P@ssword135
+31021366,bui thanh long,8-9-1999,Phu Yen,Thu ky van phong,P@ssword135
+31021371,nguyen tuan anh,3-3-1999,Can Tho,Thu ky van phong,P@ssword135
+31021378,tran doan phuong uyen,19-2-1999,Bac Kan,Thu ky y khoa,P@ssword135
+31021380,dang trung truc,8-12-1999,Son La,Thiet ke do hoa,P@ssword135
+31021402,nguyen quang anh,27-1-1999,Can Tho,Quan tri nhan luc,P@ssword135
+31021420,nguyen minh nhat,30-11-1999,Bac Lieu,Anh van thuong mai,P@ssword135
+31021435,vo thanh phuong,1-7-2000,Cao Bang,Quan ly Tai nguyen va moi truong,P@ssword135
+31021437,dang thi minh huong,18-6-1999,Bac Lieu,Do hoa Multimedia,P@ssword135
+31021441,trinh dinh duy,31-10-2000,Lao Cai,Anh van thuong mai,P@ssword135
+31021470,nguyen thanh thuy,29-10-1999,Khanh Hoa,Marketing,P@ssword135
+31021491,nguyen ly kim ngan,31-10-1999,Binh Phuoc,Quan tri cong nghe truyen thong,P@ssword135
+31021562,le nguyen kha loan,25-4-1999,Bac Giang,Quan tri kinh doanh,P@ssword135
+31021568,hoang nu hong an,4-6-1999,Bac Ninh,Thu ky van phong,P@ssword135
+31021574,nguyen xuan minh,28-7-1999,Thanh Hoa,Marketing,P@ssword135
+31021589,tran nghia dung,27-7-1999,Thai Binh,Thu ky y khoa,P@ssword135
+31021610,nguyen thi phuong thao,28-10-1999,Tuyen Quang,Anh van thuong mai,P@ssword135
+31021612,do thanh luc,7-6-1999,Thanh Hoa,Quan tri kinh doanh,P@ssword135
+31021617,nguyen viet ha,27-3-1999,Dong Nai,Thu ky y khoa,P@ssword135
+31021619,nguyen nguyet dan,13-5-1999,Ninh Binh,Do hoa Multimedia,P@ssword135
+31021624,phan thanh huong,26-12-1999,Ninh Thuan,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+31021645,pham thi huong,25-2-2000,Ca Mau,Quan tri Du Lich & Lu hanh,P@ssword135
+31021679,pham huy thong,19-6-1999,Thai Binh,Quan tri cong nghe truyen thong,P@ssword135
+31021687,do nguyen ngan khanh,16-12-1999,Ninh Thuan,Quan tri kinh doanh,P@ssword135
+31021696,le cong quoc tuan,11-5-1999,Quang Ngai,Cong nghe thong tin,P@ssword135
+31021716,nguyen thu ha,23-9-1999,Hoa Binh,Quan tri nhan luc,P@ssword135
+31021722,phung quoc viet,31-12-1999,Kon Tum,Quan ly Tai nguyen va moi truong,P@ssword135
+31021738,nguyen tuyet nga,25-5-1999,Son La,Thu ky van phong,P@ssword135
+31021744,le thi hoang oanh,23-12-2000,Bac Kan,Thiet ke do hoa,P@ssword135
+31021758,truong thi khanh linh,7-10-1999,Hai Phong,Thu ky van phong,P@ssword135
+31021759,nguyen thi son tuyen,17-8-1999,Gia Lai,Quan tri nhan luc,P@ssword135
+31021764,nguyen kim ngan,24-10-1999,Ninh Binh,Quan ly Tai nguyen va moi truong,P@ssword135
+31021791,luu phuong thao,24-8-1999,Phu Tho,Thiet ke noi that,P@ssword135
+31021798,ha thi kim hue,18-8-1999,Tien Giang,Quan tri cong nghe truyen thong,P@ssword135
+31021805,nguyen minh tien,16-1-1998,TP. Ho Chi Minh,Toan ung dung,P@ssword135
+31021826,bui quynh nhu,24-3-1999,Bac Lieu,Thiet ke noi that,P@ssword135
+31021850,vo cuong,11-1-1999,Dak Lak,Quan tri van phong,P@ssword135
+31021876,nguyen thi thu an,27-11-1999,Tra Vinh,Toan ung dung,P@ssword135
+31021890,vo thu hang,14-4-1999,Quang Binh,Quan tri nhan luc,P@ssword135
+31021891,nguyen thai nhat bau,9-11-1999,Ha Giang,Thu ky van phong,P@ssword135
+31021918,nguyen thi phuong uyen,4-11-1999,Quang Tri,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+31021975,vuong thi mai trinh,26-5-1999,Binh Duong,Quan ly Tai nguyen va moi truong,P@ssword135
+31021976,ngo thi thanh thao,23-7-1999,Thai Binh,Quan tri kinh doanh,P@ssword135
+31021989,vu thi thanh hien,2-11-1997,Kon Tum,Anh van thuong mai,P@ssword135
+31022018,nguyen vu xuan an,15-9-1999,Vinh Long,Thiet ke noi that,P@ssword135
+31022073,nguyen hoang anh thu,12-9-1999,Quang Ngai,Cong nghe thong tin,P@ssword135
+31022085,mai pham anh duy,11-12-1999,Ben Tre,Do hoa Multimedia,P@ssword135
+31022094,truong minh hien,8-11-1999,Quang Ninh,Quan tri Khach San,P@ssword135
+31022101,nguyen van nam,19-10-1999,Thai Nguyen,Truyen thong va Mang may tinh,P@ssword135
+31022134,pham quoc vuong,21-4-2000,Vinh Long,Anh van thuong mai,P@ssword135
+31022141,huynh ngoc phuong thao,17-10-1999,Bac Ninh,Do hoa Multimedia,P@ssword135
+31022170,nguyen thi huong tra,11-5-1999,TP. Ho Chi Minh,Quan tri cong nghe truyen thong,P@ssword135
+31022171,nguyen sinh hieu,22-1-1999,Gia Lai,Ngon ngu Anh,P@ssword135
+31022205,le duy tan,1-1-1999,Vinh Phuc,Thu ky y khoa,P@ssword135
+31022214,nguyen ngoc thach,16-10-1999,Dak Lak,Thu ky van phong,P@ssword135
+31022227,nguyen duc toan,27-11-2000,Ca Mau,Quan ly Tai nguyen va moi truong,P@ssword135
+31022235,trinh truong kieu ngoc,26-1-1999,Cao Bang,Ngon ngu Anh,P@ssword135
+31022240,huynh dang minh hao,22-9-1999,Lai Chau,Quan ly Tai nguyen va moi truong,P@ssword135
+31022246,nguyen thi thu thanh,24-11-2000,Bac Kan,Ngon ngu Anh,P@ssword135
+31022253,lam buu tran,16-6-1999,Yen Bai,Thu ky y khoa,P@ssword135
+31022261,nguyen le hai anh,5-10-1999,Hoa Binh,He thong thong tin quan ly,P@ssword135
+31022267,hoang ngoc minh thu,20-1-2000,Dak Lak,Thiet ke do hoa,P@ssword135
+31022275,nguyen thi huyen trang,27-1-1999,Dak Lak,Ky thuat phan mem,P@ssword135
+31022291,nghiem tuan hao,26-11-1999,Hai Phong,Quan tri kinh doanh,P@ssword135
+31022298,nguyen huu thang,31-1-1999,Bac Giang,Cong nghe thong tin,P@ssword135
+31022303,nguyen cam huong,18-7-1999,Ben Tre,Cong nghe thong tin,P@ssword135
+31022331,ha quang duy,28-8-1999,Ninh Binh,Quan tri van phong,P@ssword135
+31022332,pham thi minh thu,1-4-1999,Gia Lai,Quan tri Nha hang va Dich vu an uong,P@ssword135
+31022333,nguyen thi yen nhi,3-2-1999,Thai Binh,He thong thong tin quan ly,P@ssword135
+31022396,nguyen bach yen nhi,13-12-1999,Thua Thien - Hue,Ke toan,P@ssword135
+31022401,mai ho bich thuy,14-4-1999,Ha Giang,Anh van thuong mai,P@ssword135
+31022423,pham hai trieu,30-6-2000,Tay Ninh,Ngon ngu Anh,P@ssword135
+31022444,tran le tuyet van,14-3-1999,Hai Duong,Thu ky y khoa,P@ssword135
+31022445,tran le anh van,17-8-1999,Ca Mau,Toan ung dung,P@ssword135
+31022487,tran ngoc du,15-6-1999,Lang Son,Thu ky van phong,P@ssword135
+31022494,nguyen ngoc nguyen,14-5-1999,Tra Vinh,Cong nghe thong tin,P@ssword135
+31022507,tran duy phuc,7-1-2000,Hai Duong,Toan ung dung,P@ssword135
+31022508,nguyen dang kien,2-10-1999,Binh Dinh,Anh van thuong mai,P@ssword135
+31022521,pham gia huy,24-7-1999,Kien Giang,Kinh doanh quoc te,P@ssword135
+31022547,tran vinh giang,21-9-1999,Tien Giang,Quan tri nhan luc,P@ssword135
+31022555,nguyen thanh giang,9-12-1999,Lam Dong,Anh van thuong mai,P@ssword135
+31022561,hang my ngoc,7-6-1999,Bac Lieu,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+31022589,nguyen ba vuong,16-1-1999,Lang Son,Quan tri cong nghe truyen thong,P@ssword135
+31022606,tran bao chau,3-3-1999,Quang Ngai,He thong thong tin quan ly,P@ssword135
+31022619,nguyen tran hoang phu,26-8-1998,Binh Duong,Ky thuat phan mem,P@ssword135
+31022620,tran nhu yen,21-3-1999,Soc Trang,Quan tri van phong,P@ssword135
+31022626,nguyen thi hong nhung,13-2-1997,Ninh Thuan,Thiet ke thoi trang,P@ssword135
+31022633,ngo hoang xuan khanh,2-9-1997,An Giang,Ke toan,P@ssword135
+31022655,chau minh phuong,22-7-1999,Lao Cai,Quan tri cong nghe truyen thong,P@ssword135
+31022659,nguyen thien thanh,4-4-1999,Phu Yen,Cong nghe thong tin,P@ssword135
+31022680,nguyen thi anh hong,14-9-1999,Thai Nguyen,Do hoa Multimedia,P@ssword135
+31022681,le duc anh,13-2-1999,Dak Lak,Anh van thuong mai,P@ssword135
+31022732,tieu thi khanh linh,26-7-1999,Hai Duong,Anh van thuong mai,P@ssword135
+31022743,le hoang phuc,8-11-1999,Thai Nguyen,Thu ky van phong,P@ssword135
+31022757,doan khanh linh,2-5-1999,Hung Yen,Quan tri cong nghe truyen thong,P@ssword135
+31022759,pham vu tri dung,27-6-1999,Lai Chau,Thu ky van phong,P@ssword135
+31022771,hoang thi hai yen,4-5-1999,Ha Giang,Thiet ke noi that,P@ssword135
+31022773,doan minh tuan,19-2-1999,Thua Thien - Hue,Quan tri van phong,P@ssword135
+31022774,nguyen viet thang,18-10-1995,Lam Dong,Thiet ke do hoa,P@ssword135
+31022792,nguyen ngoc hong trang,20-4-2000,Son La,Thiet ke noi that,P@ssword135
+31022807,bui thai quang,4-11-1999,Quang Tri,Quan tri Nha hang va Dich vu an uong,P@ssword135
+31022813,nguyen hoang truc ha,15-5-1999,Cao Bang,Quan tri nhan luc,P@ssword135
+31022827,nguyen thi anh na,4-8-2000,Hung Yen,Truyen thong va Mang may tinh,P@ssword135
+31022835,nguyen tri tin,7-8-1999,Thai Binh,Quan ly Tai nguyen va moi truong,P@ssword135
+31022841,pham tien phuc,22-3-1999,Kon Tum,Quan tri kinh doanh,P@ssword135
+31022851,le tan loc,18-2-2000,Tay Ninh,Marketing,P@ssword135
+31022877,nguyen ba nhut,18-8-2000,Nghe An,Quan tri kinh doanh,P@ssword135
+31022892,nguyen van thanh,9-4-2000,Kien Giang,Thu ky van phong,P@ssword135
+31022897,nguyen huynh ngoc hoa,28-2-1999,Khanh Hoa,Anh van thuong mai,P@ssword135
+31022907,bach do ngoc loi,10-6-2000,Kon Tum,Thiet ke thoi trang,P@ssword135
+31022933,le duy anh kiet,25-1-1999,Hai Duong,Quan tri kinh doanh,P@ssword135
+31022934,nguyen anh dung,15-10-2000,TP. Ho Chi Minh,Quan tri Du Lich & Lu hanh,P@ssword135
+31022941,truong thi my huyen,26-11-1999,Binh Phuoc,Thiet ke do hoa,P@ssword135
+31022962,nguyen thi thuy trang,12-10-2000,Hai Duong,Thu ky y khoa,P@ssword135
+31022977,trinh hung minh,1-12-2000,Dong Thap,Toan ung dung,P@ssword135
+31022983,vo trung hau,19-12-1999,Ha Giang,Ky thuat phan mem,P@ssword135
+31023016,nguyen thi kim chi,21-3-1999,Ben Tre,Marketing,P@ssword135
+31023037,tran quoc binh,30-3-1998,Ben Tre,Quan tri Du Lich & Lu hanh,P@ssword135
+31023052,tran dang khoi nguyen,4-9-1999,Tien Giang,Thiet ke noi that,P@ssword135
+31023059,pham quang thien,15-10-1999,Tien Giang,Tai chinh ngan hang,P@ssword135
+31023067,vu phuong hanh,4-11-1999,Phu Yen,Thiet ke noi that,P@ssword135
+31023082,tran ngoc han,15-9-1999,Phu Tho,Thu ky van phong,P@ssword135
+31023087,phan nhat minh,15-5-2000,Ha Giang,Thiet ke noi that,P@ssword135
+31023089,truong thi tuong vi,8-1-1999,Ca Mau,Do hoa Multimedia,P@ssword135
+31023102,nguyen phung van anh,23-5-1999,Ha Noi,Quan tri van phong,P@ssword135
+31023142,dang thi hong hanh,24-12-1999,Quang Ninh,Tai chinh ngan hang,P@ssword135
+31023144,phan duc anh,17-8-1999,Thai Binh,Kinh doanh quoc te,P@ssword135
+31023158,nguyen trong nghia,15-7-2000,Soc Trang,Marketing,P@ssword135
+31023159,hoang ngoc bui,12-7-1999,Thanh Hoa,Anh van thuong mai,P@ssword135
+31023199,truong thuy trang,18-10-1999,Binh Thuan,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+31023240,ngo thi my duyen,27-4-1999,Hai Duong,Quan ly Tai nguyen va moi truong,P@ssword135
+31023242,lai ngoc dieu,8-10-2000,Can Tho,Do hoa Multimedia,P@ssword135
+31023243,phan phi nhat kha,26-9-1999,Ha Nam,He thong thong tin quan ly,P@ssword135
+31023247,hoang thanh thuy tien,5-1-1999,Ninh Thuan,Do hoa Multimedia,P@ssword135
+31023254,tran ngoc linh loi,18-10-1999,Quang Ninh,Marketing,P@ssword135
+31023276,pham thi hong minh,9-6-1999,Quang Ninh,Truyen thong va Mang may tinh,P@ssword135
+31023304,nguyen thanh thao phuong,27-12-1999,Nam Dinh,Thiet ke do hoa,P@ssword135
+31023306,ho thi anh thu,3-11-1999,Hai Duong,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+31023339,nguyen hoang duy,18-12-1999,Binh Thuan,Quan tri van phong,P@ssword135
+31023402,nguyen thi hoang dung,16-1-2000,Binh Thuan,Cong nghe thong tin,P@ssword135
+31023411,le khac binh,18-3-1999,Gia Lai,Quan tri van phong,P@ssword135
+31023429,nguyen thi dieu ai,3-4-1999,Thua Thien - Hue,Thiet ke noi that,P@ssword135
+31023436,nguyen duy bach,8-1-1997,Thanh Hoa,Anh van thuong mai,P@ssword135
+31023450,dao ngoc anh khoa,27-10-1999,Ba Ria - Vung Tau,Tai chinh ngan hang,P@ssword135
+31023481,nguyen bui dieu my,18-6-1999,Lao Cai,Tai chinh ngan hang,P@ssword135
+31023507,nguyen thi quynh huong,28-9-1999,Phu Yen,Thu ky y khoa,P@ssword135
+31023516,le thi yen nhi,21-2-1999,Gia Lai,Cong nghe thong tin,P@ssword135
+31023529,nguyen hoang thang,6-2-1999,Tra Vinh,Do hoa Multimedia,P@ssword135
+31023530,ngo nguyen ky tran,1-6-1999,Quang Tri,Quan tri Nha hang va Dich vu an uong,P@ssword135
+31023556,pham bao thai,5-4-1999,Binh Thuan,Ke toan,P@ssword135
+31023565,bui thi hoang yen,17-11-2000,Tien Giang,Toan ung dung,P@ssword135
+31023598,duong thi thanh truc,14-10-1999,Quang Ngai,Quan ly Tai nguyen va moi truong,P@ssword135
+31023606,pham thi thao,31-10-1997,Dong Nai,Quan tri Khach San,P@ssword135
+31023632,nguyen trung nghia,26-3-1999,Ben Tre,Thu ky y khoa,P@ssword135
+31023641,le thi hong ngoc,26-10-1999,Dong Nai,Thiet ke noi that,P@ssword135
+31023655,huynh dang tu,2-1-2000,Bac Kan,Quan tri nhan luc,P@ssword135
+31023661,trinh minh tho,4-12-1999,Khanh Hoa,Thiet ke do hoa,P@ssword135
+31023698,pham thi ngoc ven,12-6-2000,Phu Yen,Quan tri cong nghe truyen thong,P@ssword135
+31023710,le dinh vinh thinh,21-11-1999,Ninh Binh,Quan ly Tai nguyen va moi truong,P@ssword135
+31023772,pham quoc anh,30-9-2000,Bac Lieu,Thiet ke noi that,P@ssword135
+31023773,dinh van thong,20-5-1999,Quang Binh,Tai chinh ngan hang,P@ssword135
+31023780,nguyen thi phuong thao,20-12-1999,Vinh Long,He thong thong tin quan ly,P@ssword135
+31023788,xayyasane choulaphon,21-1-2000,Ha Nam,Cong nghe thong tin,P@ssword135
+31023789,nguyen thi hien luong,31-1-1999,Lang Son,Quan tri Du Lich & Lu hanh,P@ssword135
+41020004,phan ngoc bao han,26-9-2000,Bac Giang,Thu ky y khoa,P@ssword135
+41020010,dang ngoc thuy dung,9-5-2000,Binh Thuan,Thu ky y khoa,P@ssword135
+41020011,nguyen thanh nhan,13-11-2000,Kien Giang,Cong nghe thong tin,P@ssword135
+41020012,tran thi kim ngan,6-10-2000,Thai Nguyen,Marketing,P@ssword135
+41020017,chau uyen nhi,18-4-2000,Lang Son,Quan ly Tai nguyen va moi truong,P@ssword135
+41020018,to lan phuong,26-6-2000,Long An,Ngon ngu Anh,P@ssword135
+41020019,huynh thien vinh,19-1-2000,Phu Yen,Ky thuat phan mem,P@ssword135
+41020020,chu thi thanh tam,7-5-2000,Gia Lai,Toan ung dung,P@ssword135
+41020024,ngo thi thu hieu,26-2-2000,Ha Giang,Tai chinh ngan hang,P@ssword135
+41020025,bui thi thao trinh,10-9-2000,Ninh Thuan,Cong nghe thong tin,P@ssword135
+41020027,ho thi kieu yen,18-9-2000,Phu Yen,Thiet ke do hoa,P@ssword135
+41020033,dau thi phuc hien,3-1-2000,Can Tho,Thiet ke do hoa,P@ssword135
+41020038,pham thi hoai thuong,7-11-2000,Ha Giang,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41020040,phang ngoc linh,20-3-2000,Ha Giang,Marketing,P@ssword135
+41020041,ha thi bich chi,13-1-2000,Thai Binh,Quan tri cong nghe truyen thong,P@ssword135
+41020046,nguyen thi ngoc trinh,20-10-2000,Binh Dinh,Ke toan,P@ssword135
+41020047,vi thanh xuan,24-10-1990,Dong Nai,Do hoa Multimedia,P@ssword135
+41020048,cheng da thuy vi,4-10-2000,Ha Tinh,Do hoa Multimedia,P@ssword135
+41020052,ngo phuong thao,4-4-1999,Hai Phong,He thong thong tin quan ly,P@ssword135
+41020053,ly thi thu nga,6-2-2000,Lai Chau,Thu ky van phong,P@ssword135
+41020054,du pham thanh xuan,16-7-2000,Ha Tinh,Quan tri kinh doanh,P@ssword135
+41020055,do ngoc thien huong,28-6-2000,Quang Nam,Quan tri cong nghe truyen thong,P@ssword135
+41020060,ha luong bich tam,29-6-1999,Can Tho,Quan tri nhan luc,P@ssword135
+41020062,nguyen quoc chuyen,21-10-2000,Phu Yen,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41020066,do thuy giang,26-8-1998,Ninh Binh,Quan tri Du Lich & Lu hanh,P@ssword135
+41020067,doan thi ha,21-5-2000,Thai Nguyen,Kinh doanh quoc te,P@ssword135
+41020068,cai thi my hien,18-11-2000,Lao Cai,Do hoa Multimedia,P@ssword135
+41020069,nguyen thi yen nhi,9-2-2000,Tay Ninh,Thiet ke noi that,P@ssword135
+41020073,phuong the dan,29-3-2000,Thai Nguyen,Tai chinh ngan hang,P@ssword135
+41020074,hoang le vy,24-6-2000,Ben Tre,Thiet ke noi that,P@ssword135
+41020075,nguyen thi kim phuong,9-10-2000,Dong Nai,Kinh doanh quoc te,P@ssword135
+41020080,tran thi huyen tran,2-3-2000,Khanh Hoa,Kinh doanh quoc te,P@ssword135
+41020081,nguyen trung nhon,13-7-2000,Tien Giang,Thiet ke noi that,P@ssword135
+41020082,nguyen thi diem,21-12-1999,Ha Giang,Thiet ke do hoa,P@ssword135
+41020083,le thi mai chinh,2-7-2000,Hoa Binh,Thiet ke noi that,P@ssword135
+41020087,ngo thi phuc hoa,5-11-2000,Bac Kan,Quan ly Tai nguyen va moi truong,P@ssword135
+41020088,vo thi huynh nhu,12-3-2000,Lao Cai,Thiet ke noi that,P@ssword135
+41020089,tran thi hoai nhung,6-7-2000,Thua Thien - Hue,Thu ky y khoa,P@ssword135
+41020090,nguyen thi mong tuyen,13-6-2000,Tien Giang,Quan tri van phong,P@ssword135
+41020094,nguyen thi ngoc lan,5-7-2000,Quang Ninh,Cong nghe thong tin,P@ssword135
+41020095,cao le yen nhi,3-9-2000,Nghe An,Thiet ke noi that,P@ssword135
+41020096,duong thuy linh,4-11-2000,Bac Kan,He thong thong tin quan ly,P@ssword135
+41020097,lai nhut phong,25-1-2000,Ha Noi,Quan tri cong nghe truyen thong,P@ssword135
+41020101,ngo hong quynh uyen,18-2-1999,Dong Nai,Kinh doanh quoc te,P@ssword135
+41020102,trinh trung khang,31-7-2000,Hai Phong,Quan tri cong nghe truyen thong,P@ssword135
+41020103,huynh tinh nhan,6-6-2000,Bac Giang,Tai chinh ngan hang,P@ssword135
+41020104,ngo vinh toan,25-1-2000,Thanh Hoa,Ngon ngu Anh,P@ssword135
+41020109,lam trieu phong,8-4-2000,Tay Ninh,Ngon ngu Anh,P@ssword135
+41020110,tran thi my tram,10-8-2000,Dong Thap,Toan ung dung,P@ssword135
+41020111,de thi kim trang,2-2-2000,Long An,Quan tri Du Lich & Lu hanh,P@ssword135
+41020115,le dang thuy quyen,5-9-2000,Soc Trang,Thu ky van phong,P@ssword135
+41020116,tran thi kieu thanh,3-8-2000,Dak Nong,Ke toan,P@ssword135
+41020117,tran dinh minh nguyet,12-5-2000,Ben Tre,Quan tri Khach San,P@ssword135
+41020122,nguyen dang khoa,4-2-1999,TP. Ho Chi Minh,Toan ung dung,P@ssword135
+41020123,ly anh dieu,14-7-2000,Ninh Thuan,Quan tri nhan luc,P@ssword135
+41020124,ha pham ngoc diep,22-1-1998,Ha Noi,Quan tri Khach San,P@ssword135
+41020125,quang ngoc quynh tran,27-11-2000,Ben Tre,Ngon ngu Anh,P@ssword135
+41020129,pham ngoc tan,8-8-2000,Ha Giang,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41020130,ngo thi thu than,9-10-2000,Kien Giang,Thiet ke noi that,P@ssword135
+41020132,tran thi binh,14-9-2000,Kien Giang,He thong thong tin quan ly,P@ssword135
+41020138,nguyen nhat thanh,26-3-2000,Bac Kan,Quan tri Khach San,P@ssword135
+41020139,nguyen huy khoa,5-2-2000,Hung Yen,Quan ly Tai nguyen va moi truong,P@ssword135
+41020143,pham my huong,5-12-2000,Lang Son,Thiet ke noi that,P@ssword135
+41020144,nguyen thi thuy nga,16-12-1998,Thua Thien - Hue,Thiet ke do hoa,P@ssword135
+41020146,do thi ut tien,7-5-2000,Bac Kan,Ky thuat phan mem,P@ssword135
+41020150,lu tran chi dung,20-12-2000,Tien Giang,Toan ung dung,P@ssword135
+41020151,duong phung lien,11-9-2000,Vinh Phuc,Thiet ke thoi trang,P@ssword135
+41020152,dip lam phat,17-10-2000,Can Tho,Ky thuat phan mem,P@ssword135
+41020153,nguyen thi bich sang,17-6-2000,Long An,Tai chinh ngan hang,P@ssword135
+41020157,cao tuan anh,9-9-2000,Can Tho,Cong nghe thong tin,P@ssword135
+41020158,le thi hoa,17-3-2000,Bac Giang,Marketing,P@ssword135
+41020159,lo thi yen nhi,19-8-2000,Binh Dinh,Quan tri kinh doanh,P@ssword135
+41020160,doan cong hau,11-9-2000,Long An,Thiet ke thoi trang,P@ssword135
+41020164,ly ngoc huong,25-9-2000,Dong Thap,Ky thuat phan mem,P@ssword135
+41020165,nguyen hoai nhi,29-1-2000,Can Tho,Quan tri Du Lich & Lu hanh,P@ssword135
+41020166,thai hai,27-7-2000,Tra Vinh,Thiet ke noi that,P@ssword135
+41020167,nguyen thi tinh tuyen,15-4-2000,Thua Thien - Hue,Quan tri Du Lich & Lu hanh,P@ssword135
+41020172,nguyen thi anh nguyet,6-1-2000,Lao Cai,Ky thuat phan mem,P@ssword135
+41020173,nguyen thi doan trinh,28-10-2000,Lai Chau,Ky thuat phan mem,P@ssword135
+41020174,le nhat minh,29-8-1998,Thai Nguyen,Thiet ke do hoa,P@ssword135
+41020178,nguyen thi minh hue,11-1-2000,Vinh Long,Ky thuat phan mem,P@ssword135
+41020179,nguyen thi kim oanh,1-10-2000,Binh Phuoc,Thu ky y khoa,P@ssword135
+41020180,tran thi my tram,1-2-2000,Ha Nam,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41020181,le thu hien,9-10-2000,Dong Thap,Anh van thuong mai,P@ssword135
+41020186,nguyen ngoc ha phuong,8-8-2000,Quang Tri,Quan tri Khach San,P@ssword135
+41020187,pham thi ngoc tuyen,20-7-2000,Hoa Binh,Quan ly Tai nguyen va moi truong,P@ssword135
+41020188,tran nhat le,17-9-2000,Tra Vinh,Quan ly Tai nguyen va moi truong,P@ssword135
+41020193,tran mai nguyen huong,31-5-1997,Soc Trang,Anh van thuong mai,P@ssword135
+41020194,nguyen thi kieu oanh,1-10-1999,Phu Yen,Cong nghe thong tin,P@ssword135
+41020195,tran nhu kim su,11-10-1995,Bac Lieu,Cong nghe thong tin,P@ssword135
+41020199,nguyen trong tuan,10-3-2000,Phu Yen,Toan ung dung,P@ssword135
+41020201,lam hoang huy,22-3-2000,Bac Ninh,Quan tri nhan luc,P@ssword135
+41020206,nguyen thi kim hieu,6-6-2000,Quang Ninh,Quan tri kinh doanh,P@ssword135
+41020207,luu luong nhat tuong vy,6-7-2000,Bac Lieu,Thu ky van phong,P@ssword135
+41020208,tran thi huong quynh,3-4-2000,Lang Son,Quan tri van phong,P@ssword135
+41020209,nguyen thi thu hang,17-8-2000,Lam Dong,Quan tri kinh doanh,P@ssword135
+41020213,loan thanh hoai,29-3-2000,Cao Bang,Quan tri Khach San,P@ssword135
+41020216,hoang van dat,15-1-2000,Dong Nai,Thu ky y khoa,P@ssword135
+41020220,nguyen dieu my,23-1-2000,Binh Dinh,Quan tri van phong,P@ssword135
+41020221,truong van hao,9-10-2000,Thai Binh,Marketing,P@ssword135
+41020222,lu thi ngoan,24-7-2000,Ben Tre,Thu ky van phong,P@ssword135
+41020223,huynh thi thanh tuyen,24-12-1998,Phu Tho,Quan tri kinh doanh,P@ssword135
+41020227,lam tien dien long,10-1-2000,Binh Phuoc,Kinh doanh quoc te,P@ssword135
+41020228,tran duong nhu thao,19-8-2000,Dien Bien,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41020229,dang thi thanh thao,10-4-2000,Bac Kan,Toan ung dung,P@ssword135
+41020230,huynh thi thu trang,29-9-2000,Dong Nai,Truyen thong va Mang may tinh,P@ssword135
+41020235,nguyen ngoc phuong quyen,24-7-2000,Thanh Hoa,Ky thuat phan mem,P@ssword135
+41020236,pham thuy quyen,15-10-2000,Cao Bang,Truyen thong va Mang may tinh,P@ssword135
+41020237,luong quoc minh,5-5-2000,Bac Giang,Anh van thuong mai,P@ssword135
+41020241,vuong hong vu,12-2-2000,Dak Lak,Do hoa Multimedia,P@ssword135
+41020242,trinh tran thu suong,14-5-2000,Dak Nong,Anh van thuong mai,P@ssword135
+41020244,nguyen thi quynh nhu,23-2-2000,Phu Yen,Ke toan,P@ssword135
+41020248,nguyen huy thong,26-4-2000,Binh Phuoc,Do hoa Multimedia,P@ssword135
+41020249,nguyen thi kieu oanh,14-7-2000,Hung Yen,Thu ky van phong,P@ssword135
+41020250,tran dinh son,5-5-2000,Dong Nai,Quan tri Khach San,P@ssword135
+41020251,ho bich tien,20-5-2000,Phu Tho,Kinh doanh quoc te,P@ssword135
+41020256,chau huynh khang,8-1-2000,Lao Cai,Cong nghe thong tin,P@ssword135
+41020257,tran thi diem huong,8-3-2000,Long An,Kinh doanh quoc te,P@ssword135
+41020262,ngo thi lua,25-4-2000,Ca Mau,Quan tri nhan luc,P@ssword135
+41020263,le nguyen minh thy,11-1-2000,Quang Ninh,Marketing,P@ssword135
+41020264,luu quoc bao,25-4-1999,Ba Ria - Vung Tau,Tai chinh ngan hang,P@ssword135
+41020269,ngo thi thuc nhu,12-2-2000,Son La,Thiet ke noi that,P@ssword135
+41020270,pham thi thu quy,17-5-2000,Binh Phuoc,Thu ky van phong,P@ssword135
+41020271,nguyen ha tuan anh,24-12-2000,Ninh Thuan,Toan ung dung,P@ssword135
+41020276,ly thanh thanh,19-9-2000,Dak Nong,Thiet ke thoi trang,P@ssword135
+41020277,nguyen thi kieu trinh,13-8-2000,Bac Ninh,Quan tri cong nghe truyen thong,P@ssword135
+41020278,vuong thien khanh,18-8-2000,Vinh Phuc,Ngon ngu Anh,P@ssword135
+41020279,nguyen minh hong lan,19-8-2000,Lang Son,Tai chinh ngan hang,P@ssword135
+41020283,ho luong duc,21-11-2000,Binh Duong,Truyen thong va Mang may tinh,P@ssword135
+41020284,tran thi thuy hang,20-12-2000,Lam Dong,Quan tri nhan luc,P@ssword135
+41020285,nim khanh linh,11-8-2000,Phu Yen,Thu ky y khoa,P@ssword135
+41020286,nguyen bich khuyen,1-9-2000,Kon Tum,Marketing,P@ssword135
+41020290,lang gia lam,16-6-2000,Bac Giang,Ngon ngu Anh,P@ssword135
+41020292,truong quynh nhu,6-12-2000,Binh Phuoc,He thong thong tin quan ly,P@ssword135
+41020293,bui thi kieu ni,17-6-2000,Ba Ria - Vung Tau,Do hoa Multimedia,P@ssword135
+41020297,pham thi hong linh,19-11-2000,Thanh Hoa,Do hoa Multimedia,P@ssword135
+41020298,doan thi to nhu,11-8-1998,Ninh Binh,Thu ky y khoa,P@ssword135
+41020300,nguyen thi thu ha,29-9-2000,Tien Giang,Quan tri Du Lich & Lu hanh,P@ssword135
+41020305,nguyen thi thu hien,14-12-2000,Ben Tre,Quan tri Khach San,P@ssword135
+41020306,kim bach khoi,9-3-2000,Hai Duong,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41020307,nguyen thi thu hien,7-6-1999,Kien Giang,Quan tri nhan luc,P@ssword135
+41020312,vuong hieu dang,1-7-2000,Bac Kan,Truyen thong va Mang may tinh,P@ssword135
+41020313,nguyen thi ngoc tu,17-1-2000,Lao Cai,Quan tri cong nghe truyen thong,P@ssword135
+41020314,nguyen hoang yen,18-1-2000,Binh Phuoc,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41020318,do minh tan,14-10-2000,Son La,Kinh doanh quoc te,P@ssword135
+41020319,tran thanh huong,12-6-1998,Hai Phong,Kinh doanh quoc te,P@ssword135
+41020320,nguyen thi oanh,21-11-2000,Cao Bang,Ngon ngu Anh,P@ssword135
+41020321,le hoang thao vy,29-8-1999,Ben Tre,Ky thuat phan mem,P@ssword135
+41020325,le phuong dan thu,15-2-1999,Lam Dong,Thiet ke noi that,P@ssword135
+41020326,le pham ngoc han,15-10-2000,Gia Lai,Thu ky van phong,P@ssword135
+41020327,vo thuy uyen my,24-9-2000,Dak Nong,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41020328,vuong thi ngoc phuong,24-12-2000,Thua Thien - Hue,Kinh doanh quoc te,P@ssword135
+41020332,pham thi ngoc duyen,25-5-2000,Ha Giang,Quan tri van phong,P@ssword135
+41020333,nguyen huynh kim xuyen,1-9-2000,Ha Giang,Quan tri Du Lich & Lu hanh,P@ssword135
+41020335,pham thi kim thu,19-5-2000,Hai Duong,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41020339,nguyen cao ky duyen,3-8-1997,Lam Dong,Thiet ke do hoa,P@ssword135
+41020341,nguyen van long,1-2-2000,Dak Lak,Marketing,P@ssword135
+41020342,vo thi van,15-11-1999,Long An,Do hoa Multimedia,P@ssword135
+41020346,le ngoc phuong linh,24-10-2000,Ca Mau,Quan tri nhan luc,P@ssword135
+41020347,luu hoang thinh,7-12-2000,Binh Duong,Thu ky van phong,P@ssword135
+41020349,phan thi hong diem,7-10-2000,Dien Bien,Ke toan,P@ssword135
+41020354,nguyen duy khang,1-4-2000,Ha Giang,Quan ly Tai nguyen va moi truong,P@ssword135
+41020355,tran thi kim phuong,26-8-2000,Ha Giang,Quan tri van phong,P@ssword135
+41020356,pham thi kim anh,20-2-2000,Kon Tum,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41020360,tran minh nhan,11-12-2000,Thai Nguyen,Thu ky y khoa,P@ssword135
+41020361,hoang quoc dung,21-10-1997,Ba Ria - Vung Tau,Toan ung dung,P@ssword135
+41020362,dang thi kim huyen,3-4-2000,Cao Bang,Thu ky van phong,P@ssword135
+41020363,le thi ha trang,16-9-2000,Ben Tre,Thu ky y khoa,P@ssword135
+41020367,pham thi minh thu,7-3-2000,Gia Lai,Ky thuat phan mem,P@ssword135
+41020368,nguyen thi thao lan,13-11-2000,Binh Phuoc,Quan tri cong nghe truyen thong,P@ssword135
+41020369,dinh xuan hoang,5-4-2000,Quang Ngai,Quan tri Khach San,P@ssword135
+41020370,le thi phuong,2-9-2000,Phu Yen,Marketing,P@ssword135
+41020376,hoang thi thanh quy,8-9-2000,Can Tho,Toan ung dung,P@ssword135
+41020377,nguyen thi hai yen,22-4-2000,Long An,Thu ky van phong,P@ssword135
+41020381,nguyen thi huong,14-3-2000,Dak Nong,Ngon ngu Anh,P@ssword135
+41020382,nguyen van hoai trung,12-6-2000,Tay Ninh,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41020383,ha tran van anh,9-8-2000,Binh Phuoc,Quan tri cong nghe truyen thong,P@ssword135
+41020384,do truong nam thanh,14-6-2000,Lao Cai,Thiet ke do hoa,P@ssword135
+41020388,nguyen thi hong xuan,17-9-2000,Nghe An,Toan ung dung,P@ssword135
+41020390,tran cong luan,1-9-2000,Quang Tri,Thu ky van phong,P@ssword135
+41020395,nguyen thi thanh huyen,29-7-2000,Binh Dinh,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41020396,le nguyen hung,10-5-2000,Bac Lieu,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41020397,vo thi ngoc loan,9-12-2000,Hung Yen,Toan ung dung,P@ssword135
+41020398,nguyen thao nhi,5-8-1999,Phu Yen,Quan tri cong nghe truyen thong,P@ssword135
+41020405,vuong tran nhu hao,7-7-2000,Khanh Hoa,Thiet ke do hoa,P@ssword135
+41020409,nguyen truc vy,31-12-1998,Lang Son,Ke toan,P@ssword135
+41020410,pham thi diem trang,25-10-2000,Lam Dong,Quan tri cong nghe truyen thong,P@ssword135
+41020411,tran vu phuong nam,11-9-2000,Bac Ninh,Quan tri Khach San,P@ssword135
+41020412,van thi phuong thuy,5-9-2000,Ha Giang,Thu ky y khoa,P@ssword135
+41020418,nguyen bich hang,12-4-2000,Vinh Long,Quan tri kinh doanh,P@ssword135
+41020419,phan xuan mai,5-7-2000,Gia Lai,Cong nghe thong tin,P@ssword135
+41020423,le thi hong phuc,5-2-2000,Can Tho,Ngon ngu Anh,P@ssword135
+41020424,phan tung duong,10-4-2000,Ninh Thuan,Tai chinh ngan hang,P@ssword135
+41020425,vo nguyen yen nhi,17-2-2000,Tien Giang,Anh van thuong mai,P@ssword135
+41020426,nguyen tran hoang thinh,31-5-2000,Dong Nai,Quan tri Du Lich & Lu hanh,P@ssword135
+41020430,le thi lan anh,10-3-2000,Tuyen Quang,Thu ky y khoa,P@ssword135
+41020432,huynh thi thuy trang,9-2-2000,Vinh Phuc,Quan tri Khach San,P@ssword135
+41020433,nguyen tri thien,29-3-1998,Bac Lieu,Truyen thong va Mang may tinh,P@ssword135
+41020437,dinh gia phu,6-7-2000,Binh Phuoc,Thiet ke noi that,P@ssword135
+41020439,tran dieu linh,20-9-2000,Son La,Quan tri cong nghe truyen thong,P@ssword135
+41020440,nguyen thanh phuoc hai,29-2-2000,Tay Ninh,Quan ly Tai nguyen va moi truong,P@ssword135
+41020444,tran van hoang,1-10-2000,Thua Thien - Hue,Quan tri kinh doanh,P@ssword135
+41020445,bui thi tuong vy,29-5-2000,Kon Tum,Quan tri Du Lich & Lu hanh,P@ssword135
+41020446,dang huu dat,2-5-2000,Dak Nong,Kinh doanh quoc te,P@ssword135
+41020447,hap tien linh,23-12-2000,Ba Ria - Vung Tau,Cong nghe thong tin,P@ssword135
+41020451,luu tuyet ngan,2-10-1999,Quang Ninh,Anh van thuong mai,P@ssword135
+41020452,tran trieu tien,1-9-2000,TP. Ho Chi Minh,Ngon ngu Anh,P@ssword135
+41020453,tran thi thanh huyen,25-2-2000,Dien Bien,Thiet ke do hoa,P@ssword135
+41020454,huynh thi ngoc uyen,3-9-1999,TP. Ho Chi Minh,Anh van thuong mai,P@ssword135
+41020458,tu lien huong,1-4-2000,Gia Lai,Do hoa Multimedia,P@ssword135
+41020459,nguyen ngoc hue,9-1-2000,Tuyen Quang,Thiet ke thoi trang,P@ssword135
+41020461,vo thi luu tu hau,11-7-2000,Ca Mau,Quan tri van phong,P@ssword135
+41020465,dang thi huynh ngan,11-5-2000,Can Tho,Tai chinh ngan hang,P@ssword135
+41020466,lam quang sang,21-12-1999,Ha Nam,Quan ly Tai nguyen va moi truong,P@ssword135
+41020467,le nguyen nguyen binh,25-3-2000,Tuyen Quang,Marketing,P@ssword135
+41020468,nguyen hong thoa,6-5-2000,Long An,He thong thong tin quan ly,P@ssword135
+41020473,tran thi ngoc linh,23-1-1997,Ninh Thuan,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41020475,tran my duyen,25-9-2000,Bac Ninh,Thiet ke do hoa,P@ssword135
+41020480,khuong thuy quynh,27-4-1996,Dong Nai,Ky thuat phan mem,P@ssword135
+41020482,nguyen thi thu ha,10-1-2000,Lai Chau,Truyen thong va Mang may tinh,P@ssword135
+41020486,nguyen thien an,17-8-2000,Quang Nam,Anh van thuong mai,P@ssword135
+41020487,nguyen hoang thien,2-12-1999,Vinh Long,Quan tri kinh doanh,P@ssword135
+41020489,tran ngoc phuong uyen,9-7-1999,Ha Tinh,Thu ky y khoa,P@ssword135
+41020494,nguyen thi ngoc thu,15-9-2000,Phu Tho,Ke toan,P@ssword135
+41020495,pham bao an,3-12-2000,Dong Thap,Kinh doanh quoc te,P@ssword135
+41020496,le thi huong,9-11-2000,Yen Bai,Quan tri Du Lich & Lu hanh,P@ssword135
+41020500,le thi thanh hang,11-3-2000,Thai Binh,Toan ung dung,P@ssword135
+41020501,ho thi thanh hang,21-3-2000,Bac Kan,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41020502,ho thuy tien,4-11-2000,Lang Son,Quan tri kinh doanh,P@ssword135
+41020503,nguyen huynh bao tram,4-6-2000,Nam Dinh,Toan ung dung,P@ssword135
+41020507,ho thi yen my,16-10-2000,Dien Bien,Quan tri Du Lich & Lu hanh,P@ssword135
+41020510,nguyen minh tai,3-4-2000,Quang Nam,Thiet ke thoi trang,P@ssword135
+41020514,nguyen thi lan huong,8-11-2000,Kon Tum,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41020521,ho truc quynh anh,23-3-1998,Binh Thuan,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41020522,nguyen thi bich ngoc,3-8-2000,Tien Giang,Thu ky y khoa,P@ssword135
+41020523,bui thi my linh,7-1-2000,Tra Vinh,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41020524,tu kim truc,25-12-2000,Bac Lieu,Truyen thong va Mang may tinh,P@ssword135
+41020528,le thi my hanh,25-3-2000,Hung Yen,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41020529,nguyen thi kien giang,9-10-2000,Dien Bien,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41020530,nguyen thi bao ngoc,18-9-2000,Phu Yen,Kinh doanh quoc te,P@ssword135
+41020535,nguyen dinh toan,19-2-2000,Tien Giang,Thiet ke noi that,P@ssword135
+41020536,nguyen tien tu,16-1-2000,Ha Giang,Cong nghe thong tin,P@ssword135
+41020537,dang thi dieu hien,20-7-2000,Bac Lieu,Tai chinh ngan hang,P@ssword135
+41020542,dang nguyen cong nguyen,5-11-2000,Bac Lieu,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41020543,ngo hong hanh,3-5-2000,Ha Nam,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41020544,luong gia bao,15-2-2000,Lam Dong,Tai chinh ngan hang,P@ssword135
+41020545,nguyen thi thuy tien,17-9-2000,Ha Tinh,Truyen thong va Mang may tinh,P@ssword135
+41020549,le thi bao uyen,7-3-2000,TP. Ho Chi Minh,Quan ly Tai nguyen va moi truong,P@ssword135
+41020550,giang anh tu,15-10-1999,Binh Dinh,Quan tri kinh doanh,P@ssword135
+41020551,vay bich ngoc,20-8-2000,Phu Tho,He thong thong tin quan ly,P@ssword135
+41020552,doan thien kim,14-10-2000,Dak Nong,Quan tri Du Lich & Lu hanh,P@ssword135
+41020556,mai thi kim yen,24-5-2000,Ha Giang,Ke toan,P@ssword135
+41020557,do duc vy,14-11-2000,Hung Yen,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41020558,nguyen thanh tuong,28-3-2000,Bac Lieu,Kinh doanh quoc te,P@ssword135
+41020559,nguyen thi thuy an,10-4-2000,Binh Thuan,Quan tri Khach San,P@ssword135
+41020564,bui thuy dung,11-10-2000,Thanh Hoa,Ke toan,P@ssword135
+41020565,pham nhat quynh anh,11-4-2000,Quang Nam,Thu ky y khoa,P@ssword135
+41020566,le thanh thao ly,13-7-2000,Bac Giang,Thu ky y khoa,P@ssword135
+41020571,nguyen thi phuong dung,11-10-2000,An Giang,Thu ky y khoa,P@ssword135
+41020572,nguyen gia linh,9-10-1999,Dong Nai,Thiet ke thoi trang,P@ssword135
+41020577,luong thi ha,23-12-2000,Tay Ninh,Thiet ke thoi trang,P@ssword135
+41020578,mai thi kim oanh,10-5-2000,Hai Duong,Quan tri nhan luc,P@ssword135
+41020579,tran thi minh thu,20-10-2000,Dong Thap,Quan tri nhan luc,P@ssword135
+41020580,lam quang phuoc,23-8-2000,Lao Cai,Quan ly Tai nguyen va moi truong,P@ssword135
+41020584,than thi yen vy,16-1-2000,Thai Binh,Quan tri nhan luc,P@ssword135
+41020585,nguyen thi thu thanh,3-5-2000,Son La,Toan ung dung,P@ssword135
+41020586,luc thi thu uyen,3-7-1999,Thanh Hoa,Quan tri kinh doanh,P@ssword135
+41020587,tran thi bach phi,24-11-2000,Thai Binh,Thiet ke thoi trang,P@ssword135
+41020591,huynh ba thong,31-7-2000,Ha Giang,Cong nghe thong tin,P@ssword135
+41020593,mai tuan kiet,1-4-2000,Son La,Ngon ngu Anh,P@ssword135
+41020594,tran cong trung,5-5-2000,Hoa Binh,Thiet ke do hoa,P@ssword135
+41020598,thi be hien,28-5-2000,Dong Nai,Thiet ke thoi trang,P@ssword135
+41020599,tran thi bich thao,30-3-2000,Phu Yen,He thong thong tin quan ly,P@ssword135
+41020605,le thi huynh nhu,6-11-2000,Quang Ngai,Quan ly Tai nguyen va moi truong,P@ssword135
+41020606,tran thi thuy dung,11-2-1999,Lao Cai,Marketing,P@ssword135
+41020607,nguyen hoang son,2-8-2000,Bac Giang,Quan tri van phong,P@ssword135
+41020608,vu thi thuy uyen,8-6-2000,Quang Ngai,Ngon ngu Anh,P@ssword135
+41020612,nguyen thi hien,21-5-2000,Tuyen Quang,Kinh doanh quoc te,P@ssword135
+41020613,pham thai dang,6-8-2000,Dak Nong,Cong nghe thong tin,P@ssword135
+41020614,ha minh thanh,24-11-2000,Ca Mau,Quan tri kinh doanh,P@ssword135
+41020615,nguyen thi thanh nhi,3-12-2000,Yen Bai,Truyen thong va Mang may tinh,P@ssword135
+41020619,huynh thi ngoc tien,6-8-2000,Lai Chau,Toan ung dung,P@ssword135
+41020621,bui duc tuan,26-1-2000,Tra Vinh,Ky thuat phan mem,P@ssword135
+41020622,le thi ngoc dung,23-10-2000,Lai Chau,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41020626,nguyen minh nhat,6-4-1998,Tay Ninh,Quan tri nhan luc,P@ssword135
+41020627,nguyen thi ha thanh,27-10-1998,Cao Bang,Truyen thong va Mang may tinh,P@ssword135
+41020628,le thi tuong vy,13-2-2000,Quang Ninh,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41020629,ho thanh thuy,26-10-1999,Ca Mau,Thiet ke do hoa,P@ssword135
+41020633,pham thi ngoc hanh,23-8-2000,Kon Tum,Quan tri van phong,P@ssword135
+41020634,chu diem tran,23-11-2000,Dong Nai,Quan tri Du Lich & Lu hanh,P@ssword135
+41020635,pham thi duyen,24-2-2000,TP. Ho Chi Minh,Quan tri Du Lich & Lu hanh,P@ssword135
+41020636,trieu thai binh,7-4-2000,Thai Binh,Kinh doanh quoc te,P@ssword135
+41020640,vo thi kim ngan,30-3-2000,Hai Duong,Do hoa Multimedia,P@ssword135
+41020641,le hong thao linh,11-6-1998,Hoa Binh,Quan tri van phong,P@ssword135
+41020642,tran trieu man,24-12-2000,Quang Ngai,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41020647,cao thi nhat le,16-4-2000,Lam Dong,Kinh doanh quoc te,P@ssword135
+41020648,nguyen thi nhu ngoc,22-7-2000,Ca Mau,Thiet ke do hoa,P@ssword135
+41020649,to ngoc tran,3-5-2000,Ben Tre,Ngon ngu Anh,P@ssword135
+41020650,vo xuan tam,7-10-1996,Khanh Hoa,Quan ly Tai nguyen va moi truong,P@ssword135
+41020654,bui thi kim phuong,16-12-2000,Ninh Thuan,Quan ly Tai nguyen va moi truong,P@ssword135
+41020655,thai thanh doan,15-6-2000,Ha Tinh,Ky thuat phan mem,P@ssword135
+41020656,pham thy van anh,10-4-2000,Dien Bien,Thiet ke thoi trang,P@ssword135
+41020657,tran hong phuc,7-1-2000,Hoa Binh,Anh van thuong mai,P@ssword135
+41020661,le anh tuan,29-4-2000,Quang Nam,Thu ky y khoa,P@ssword135
+41020662,vu hoang phuong thao,1-12-2000,Nghe An,Thiet ke do hoa,P@ssword135
+41020663,nguyen thi thanh my,31-1-1998,Bac Lieu,Quan tri Khach San,P@ssword135
+41020664,dong van cam tien,17-12-1997,Lam Dong,Truyen thong va Mang may tinh,P@ssword135
+41020668,nguyen van pho,27-1-2000,Cao Bang,Marketing,P@ssword135
+41020669,pham van tan,27-10-2000,TP. Ho Chi Minh,Ke toan,P@ssword135
+41020671,vo thi quynh,2-12-2000,Ha Giang,Thiet ke noi that,P@ssword135
+41020675,duong quoc khanh,1-1-2000,Bac Ninh,Ke toan,P@ssword135
+41020676,nguyen tuan anh,18-11-2000,Bac Lieu,Ke toan,P@ssword135
+41020677,bui thanh loc,27-10-2000,Dien Bien,Kinh doanh quoc te,P@ssword135
+41020678,dong thi my thao,19-10-1989,Son La,Quan tri van phong,P@ssword135
+41020682,chau thi ngoc quyen,31-3-2000,Bac Ninh,Tai chinh ngan hang,P@ssword135
+41020683,huynh kim uyen,2-9-1999,Ben Tre,Ngon ngu Anh,P@ssword135
+41020684,nguyen ha minh thanh,19-6-2000,Dien Bien,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41020689,nguyen dinh bao tran,21-1-2000,Can Tho,Tai chinh ngan hang,P@ssword135
+41020691,nguyen thi hong nhung,3-2-2000,Binh Duong,Quan tri cong nghe truyen thong,P@ssword135
+41020692,tran thi tu linh,25-8-2000,Dak Lak,Cong nghe thong tin,P@ssword135
+41020696,ngo bich chau,16-8-2000,Vinh Long,Quan ly Tai nguyen va moi truong,P@ssword135
+41020697,pham thi thu thao,25-7-2000,Nghe An,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41020698,tran van khai,2-6-2000,Soc Trang,He thong thong tin quan ly,P@ssword135
+41020699,le thi phuong my,29-5-1999,Dak Nong,Ky thuat phan mem,P@ssword135
+41020703,phan thi diem trinh,31-1-1998,Binh Duong,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41020704,mai hoang bao tram,6-5-2000,Phu Tho,He thong thong tin quan ly,P@ssword135
+41020705,nguyen thanh uyen,11-6-2000,Quang Binh,Marketing,P@ssword135
+41020706,tran ngoc chau,19-2-2000,Thua Thien - Hue,Quan tri van phong,P@ssword135
+41020710,le thi kim nhi,28-11-2000,Dak Nong,He thong thong tin quan ly,P@ssword135
+41020711,bui ha phuong,29-8-1999,Can Tho,Anh van thuong mai,P@ssword135
+41020712,pham hoang thien,12-12-2000,Ninh Binh,Thiet ke do hoa,P@ssword135
+41020713,tran da thanh,4-6-2000,Long An,Thiet ke noi that,P@ssword135
+41020717,truong thi minh thu,14-1-2000,Lang Son,Cong nghe thong tin,P@ssword135
+41020718,phong ha nhu,8-2-1998,Tien Giang,He thong thong tin quan ly,P@ssword135
+41020719,nguyen minh trung,6-10-2000,Dien Bien,Quan tri Du Lich & Lu hanh,P@ssword135
+41020724,nguyen hong nhien,14-11-2000,Thai Nguyen,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41020725,nguyen thi huyen,2-8-2000,Tien Giang,Quan tri Du Lich & Lu hanh,P@ssword135
+41020726,nguyen thanh thanh,21-2-2000,Nghe An,Truyen thong va Mang may tinh,P@ssword135
+41020727,pham nguyen le quyen,2-7-2000,Vinh Phuc,Tai chinh ngan hang,P@ssword135
+41020731,le thi bich tram,30-4-2000,Thai Nguyen,Quan tri cong nghe truyen thong,P@ssword135
+41020732,pham van giang,7-8-2000,Thanh Hoa,Cong nghe thong tin,P@ssword135
+41020733,ly thi ngoc tram,6-3-2000,Ba Ria - Vung Tau,Kinh doanh quoc te,P@ssword135
+41020734,huynh thi dieu hien,1-3-2000,Nghe An,Quan tri Du Lich & Lu hanh,P@ssword135
+41020738,cao thi ai,15-4-2000,Tra Vinh,Quan tri cong nghe truyen thong,P@ssword135
+41020740,nguyen xuan khang,27-9-2000,Phu Yen,Ke toan,P@ssword135
+41020745,nguyen thi kim tha,19-1-2000,Lao Cai,Quan tri Du Lich & Lu hanh,P@ssword135
+41020746,nguyen thi kim thoa,21-11-2000,Ninh Binh,Thiet ke do hoa,P@ssword135
+41020747,vo thi ngoc tam,24-6-2000,Binh Dinh,Quan tri kinh doanh,P@ssword135
+41020748,nguyen phu phuong trang,6-7-2000,Quang Nam,Toan ung dung,P@ssword135
+41020752,ho thi kim ngan,18-1-2000,Vinh Long,Quan tri van phong,P@ssword135
+41020753,tran le thi thanh thanh,5-7-2000,Lao Cai,Ke toan,P@ssword135
+41020754,nguyen thi hoai thuong,6-9-2000,Hoa Binh,Quan ly Tai nguyen va moi truong,P@ssword135
+41020755,nguyen nguyen,20-10-2000,Thua Thien - Hue,Thu ky y khoa,P@ssword135
+41020759,le thi ngoc duyen,19-7-2000,Hoa Binh,Quan tri Khach San,P@ssword135
+41020760,phan thi thu tai,18-4-2000,Bac Kan,Quan tri nhan luc,P@ssword135
+41020761,vo thao my,12-4-2000,Tuyen Quang,Anh van thuong mai,P@ssword135
+41020762,thach thi thanh hang,1-2-1999,Ba Ria - Vung Tau,Toan ung dung,P@ssword135
+41020766,pham thi phan,30-12-2000,Thua Thien - Hue,Cong nghe thong tin,P@ssword135
+41020767,nguyen van anh trung,28-4-2000,Dong Nai,Toan ung dung,P@ssword135
+41020768,le nguyen hao,24-10-2000,Dien Bien,Cong nghe thong tin,P@ssword135
+41020769,nguyen thi hong thu,11-4-2000,Dong Thap,Ke toan,P@ssword135
+41020773,chu thi my le,1-7-2000,Soc Trang,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41020774,doan thi nhu hang,17-3-2000,Quang Binh,Cong nghe thong tin,P@ssword135
+41020775,trieu tieu linh,7-10-2000,Quang Binh,Quan tri Du Lich & Lu hanh,P@ssword135
+41020776,phan hai dang,17-6-2000,Phu Yen,Quan tri cong nghe truyen thong,P@ssword135
+41020780,nguyen thi my duyen,19-12-2000,Thai Binh,Truyen thong va Mang may tinh,P@ssword135
+41020782,nguyen huu khuong,7-9-2000,Quang Ngai,He thong thong tin quan ly,P@ssword135
+41020783,vo huu phuc,8-3-2000,Ha Noi,Thiet ke noi that,P@ssword135
+41020787,vo thi phuong hang,4-4-2000,Binh Thuan,Thiet ke thoi trang,P@ssword135
+41020788,diep que lam,25-4-1999,Thai Binh,Quan tri Khach San,P@ssword135
+41020790,tran thi my,29-7-2000,Long An,Thiet ke thoi trang,P@ssword135
+41020794,nguyen duc trung,6-7-2000,Quang Ngai,Thu ky y khoa,P@ssword135
+41020797,tran thi phuong quyen,25-11-2000,Tuyen Quang,Kinh doanh quoc te,P@ssword135
+41020802,tran thi nhi,29-4-2000,Quang Ninh,Thiet ke thoi trang,P@ssword135
+41020803,nguyen ngoc son,24-3-2000,Son La,Quan tri kinh doanh,P@ssword135
+41020804,le thi minh anh,29-8-2000,Dak Nong,Kinh doanh quoc te,P@ssword135
+41020808,do thi ngoc hieu,21-1-1998,Bac Giang,Quan tri Khach San,P@ssword135
+41020809,nguyen ngoc han,27-8-2000,Phu Tho,Quan ly Tai nguyen va moi truong,P@ssword135
+41020810,dang hoai viet,11-2-2000,Ninh Thuan,Truyen thong va Mang may tinh,P@ssword135
+41020811,huynh thi diem chau,14-2-2000,Cao Bang,Toan ung dung,P@ssword135
+41020815,le thi viet ha,8-2-2000,Thai Nguyen,Quan ly Tai nguyen va moi truong,P@ssword135
+41020816,ho thi quyen,9-8-2000,Quang Ngai,Ke toan,P@ssword135
+41020817,nguyen cam tu,7-10-2000,Ha Noi,Quan tri Du Lich & Lu hanh,P@ssword135
+41020818,pham kieu anh,28-1-2000,Tuyen Quang,Ngon ngu Anh,P@ssword135
+41020822,ly huynh to nhu,14-10-1999,Ha Noi,Truyen thong va Mang may tinh,P@ssword135
+41020823,vo thi ngoc tuyet,27-5-2000,Ha Noi,Quan ly Tai nguyen va moi truong,P@ssword135
+41020825,nguyen vu phong,23-8-2000,Son La,Thiet ke thoi trang,P@ssword135
+41020830,le hoang yen,26-6-2000,Binh Duong,Quan ly Tai nguyen va moi truong,P@ssword135
+41020831,hoang thi my duyen,29-1-2000,Lang Son,Anh van thuong mai,P@ssword135
+41020832,vu thi quyen di,26-2-2000,Ba Ria - Vung Tau,Quan tri Du Lich & Lu hanh,P@ssword135
+41020836,tran thuy thuy tien,25-11-2000,Binh Thuan,Do hoa Multimedia,P@ssword135
+41020837,nguyen binh kim thuong,7-3-2000,Bac Lieu,Anh van thuong mai,P@ssword135
+41020838,dang thi hoai thuong,19-8-2000,Soc Trang,Tai chinh ngan hang,P@ssword135
+41020843,tran ngoc nhu quynh,7-10-2000,Tra Vinh,Marketing,P@ssword135
+41020844,le do bao quyen,3-3-2000,Lai Chau,Ke toan,P@ssword135
+41020845,phan truong huu tin,29-1-2000,Nam Dinh,Truyen thong va Mang may tinh,P@ssword135
+41020846,ngo thi ngoc,13-11-2000,Phu Tho,Do hoa Multimedia,P@ssword135
+41020851,nguyen ngoc thanh huyen,22-10-1999,Lang Son,Thu ky van phong,P@ssword135
+41020852,le duc nhat huy,27-2-2000,Hoa Binh,Thiet ke do hoa,P@ssword135
+41020853,hoang lan huong,15-12-2000,Lai Chau,Marketing,P@ssword135
+41020857,hoang minh canh,10-11-2000,Ha Tinh,Do hoa Multimedia,P@ssword135
+41020858,ngo thu ngan,16-12-2000,Ben Tre,Toan ung dung,P@ssword135
+41020859,dinh le ngoc thao,26-9-2000,Bac Giang,Thu ky y khoa,P@ssword135
+41020860,truong thi cam tu,20-10-2000,Bac Lieu,Do hoa Multimedia,P@ssword135
+41020864,ly thi tien,6-10-1999,Bac Lieu,Quan tri cong nghe truyen thong,P@ssword135
+41020865,hoang ngoc diep,13-5-2000,Dong Nai,Anh van thuong mai,P@ssword135
+41020866,nguyen thi thanh dat,6-6-2000,Quang Ninh,Truyen thong va Mang may tinh,P@ssword135
+41020867,nguyen thi thu uyen,2-4-1999,Lai Chau,Quan tri Khach San,P@ssword135
+41020871,lam van be,22-10-2000,Ha Tinh,Quan tri van phong,P@ssword135
+41020873,truong thi huong,3-10-2000,Can Tho,Quan ly Tai nguyen va moi truong,P@ssword135
+41020878,hoang minh quy,14-8-2000,Tay Ninh,Anh van thuong mai,P@ssword135
+41020879,ha thi thu uyen,22-11-2000,TP. Ho Chi Minh,Truyen thong va Mang may tinh,P@ssword135
+41020880,phan thi ngoc trinh,19-12-2000,Can Tho,Marketing,P@ssword135
+41020881,tong my linh,11-12-2000,Ha Tinh,Marketing,P@ssword135
+41020885,tran my linh,11-3-2000,Thanh Hoa,Quan tri Khach San,P@ssword135
+41020886,tran thi thanh tram,16-3-2000,Nghe An,Kinh doanh quoc te,P@ssword135
+41020887,tran thi phuong hoai,19-6-2000,Can Tho,Ky thuat phan mem,P@ssword135
+41020888,phan thi thuy tien,3-5-2000,Nam Dinh,Thu ky van phong,P@ssword135
+41020892,kieu nhat ha,28-11-2000,Ha Tinh,Quan tri nhan luc,P@ssword135
+41020893,nguyen minh tram,21-10-2000,Dak Nong,Cong nghe thong tin,P@ssword135
+41020894,huynh thi thao vy,21-3-2000,Dien Bien,Quan tri cong nghe truyen thong,P@ssword135
+41020895,truong quan bao,17-7-2000,Lao Cai,Quan tri cong nghe truyen thong,P@ssword135
+41020899,dang thanh phung,25-3-2000,Kien Giang,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41020900,son thi cam dien,9-6-2000,Binh Phuoc,Quan tri Khach San,P@ssword135
+41020901,nguyen xuan bach,7-2-1999,Binh Thuan,Thu ky van phong,P@ssword135
+41020902,nguyen kim nhi,3-7-2000,Ha Giang,He thong thong tin quan ly,P@ssword135
+41020906,vo thi hai nghi,19-7-1997,Dak Lak,Thu ky van phong,P@ssword135
+41020907,ngo thi ngoc thanh,11-5-2000,Dong Thap,Thiet ke thoi trang,P@ssword135
+41020908,nguyen thi thuy hien,30-4-1999,Dong Nai,Marketing,P@ssword135
+41020909,danh thi tuyet nhi,13-7-1999,Dong Nai,Tai chinh ngan hang,P@ssword135
+41020913,nguyen phan my ngoc,18-11-2000,Lam Dong,Quan tri cong nghe truyen thong,P@ssword135
+41020914,nguyen kieu yen nhi,6-5-2000,Soc Trang,Quan tri cong nghe truyen thong,P@ssword135
+41020915,nguyen thi ngoc hoang,5-7-1999,Ha Giang,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41020916,nguyen mong cam tien,8-2-2000,Vinh Long,Quan tri Du Lich & Lu hanh,P@ssword135
+41020921,nguyen thi ngoc loan,22-10-2000,Kon Tum,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41020922,nguyen ha khanh linh,21-8-1999,Yen Bai,Ky thuat phan mem,P@ssword135
+41020923,vo thi ngoc tham,31-10-2000,Ha Giang,Ngon ngu Anh,P@ssword135
+41020927,le hoang minh,31-12-1999,Thua Thien - Hue,Marketing,P@ssword135
+41020928,vo hoai thuong,24-6-2000,Nghe An,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41020929,truong hoang tuan,2-1-2000,Ninh Binh,Tai chinh ngan hang,P@ssword135
+41020930,nguyen thi quynh trang,31-10-2000,Tay Ninh,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41020934,le minh huan,27-2-2000,Quang Ninh,Thiet ke thoi trang,P@ssword135
+41020935,tran thi ngoc huyen,14-8-2000,Son La,Do hoa Multimedia,P@ssword135
+41020937,huynh phuong chi,19-5-1999,Kon Tum,Quan tri Du Lich & Lu hanh,P@ssword135
+41020941,tran tieu bao,4-10-2000,Kon Tum,Toan ung dung,P@ssword135
+41020942,nguyen nhat quynh huong,22-10-2000,Can Tho,Quan tri cong nghe truyen thong,P@ssword135
+41020943,dinh tan lam,28-10-2000,Kon Tum,Anh van thuong mai,P@ssword135
+41020948,tong khanh dung,1-10-1999,TP. Ho Chi Minh,Toan ung dung,P@ssword135
+41020950,tran van hoang,7-7-2000,Dak Lak,Tai chinh ngan hang,P@ssword135
+41020951,bui thi cam ly,12-12-2000,Phu Tho,Thiet ke do hoa,P@ssword135
+41020955,tran thi duc,31-12-1999,An Giang,Marketing,P@ssword135
+41020956,nguyen khoa,26-7-2000,Dien Bien,Ngon ngu Anh,P@ssword135
+41020957,nguyen thi kim dung,30-1-2000,Cao Bang,Thiet ke noi that,P@ssword135
+41020958,nguyen tuan anh,24-8-2000,Soc Trang,Quan tri van phong,P@ssword135
+41020962,nguyen thi bich hien,10-7-2000,Bac Ninh,Do hoa Multimedia,P@ssword135
+41020963,hoang thi nhung,14-3-2000,Can Tho,Quan ly Tai nguyen va moi truong,P@ssword135
+41020964,tran thi hoang vy,31-5-2000,Long An,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41020965,thi kim tien,30-12-1999,Can Tho,Ke toan,P@ssword135
+41020969,nguyen ngoc tuong vy,29-9-2000,Quang Tri,Quan tri van phong,P@ssword135
+41020970,pham tran anh thu,7-10-1999,Ha Nam,Ke toan,P@ssword135
+41020971,doan thi my hanh,11-5-2000,Lai Chau,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41020972,nguyen danh thang,25-1-2000,Nam Dinh,Quan tri kinh doanh,P@ssword135
+41020976,vu thi tuyet dung,3-2-2000,Long An,Truyen thong va Mang may tinh,P@ssword135
+41020977,pham thao nguyen,19-9-2000,Ca Mau,Toan ung dung,P@ssword135
+41020978,tran vu nhat oanh,11-12-2000,Yen Bai,Quan tri Du Lich & Lu hanh,P@ssword135
+41020984,dau thien thanh,5-4-2000,An Giang,Thiet ke noi that,P@ssword135
+41020985,tran thi kim trang,17-8-2000,Binh Thuan,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41020986,nguyen thi my hanh,2-8-2000,Ha Tinh,Quan tri nhan luc,P@ssword135
+41020991,duong nguyen long nhi,25-2-2000,Hai Phong,Truyen thong va Mang may tinh,P@ssword135
+41020992,nguyen viet tuong vy,7-8-2000,Ha Giang,Do hoa Multimedia,P@ssword135
+41020993,kieu quoc tho,11-8-2000,Binh Dinh,Ngon ngu Anh,P@ssword135
+41020997,nguyen thanh tuan,25-1-2000,Khanh Hoa,Quan tri van phong,P@ssword135
+41020998,nguyen van phap,2-6-2000,Long An,Thiet ke thoi trang,P@ssword135
+41021004,nguyen thi minh phuong,29-4-2000,Ba Ria - Vung Tau,Marketing,P@ssword135
+41021005,mai gia linh,8-11-2000,Bac Lieu,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41021006,au my linh,18-4-2000,Ha Giang,Quan tri cong nghe truyen thong,P@ssword135
+41021007,nguyen thi thuy duy,17-10-1999,Thua Thien - Hue,Thu ky y khoa,P@ssword135
+41021011,nguyen thanh danh,29-6-2000,TP. Ho Chi Minh,Tai chinh ngan hang,P@ssword135
+41021012,nguyen thuy y,9-3-1997,Hoa Binh,Thu ky y khoa,P@ssword135
+41021014,pham hong duong,9-8-2000,Can Tho,Quan ly Tai nguyen va moi truong,P@ssword135
+41021018,mai duy thanh,27-9-2000,Cao Bang,Thiet ke noi that,P@ssword135
+41021019,phan hung tinh,28-6-2000,Quang Ninh,Truyen thong va Mang may tinh,P@ssword135
+41021020,vo thuy bao ngan,5-10-2000,Tra Vinh,Ngon ngu Anh,P@ssword135
+41021021,nguyen xuan khanh,8-1-2000,Binh Thuan,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41021025,vu thi ngoc yen,11-11-2000,Dong Nai,Truyen thong va Mang may tinh,P@ssword135
+41021026,nguyen thi cam tien,20-6-2000,Thanh Hoa,Kinh doanh quoc te,P@ssword135
+41021028,hoang trong quy,2-11-2000,Lam Dong,Marketing,P@ssword135
+41021032,pham nguyen mai ngoc,11-11-2000,Bac Lieu,Cong nghe thong tin,P@ssword135
+41021033,dinh thi khanh thien,31-10-2000,Hai Duong,Ngon ngu Anh,P@ssword135
+41021035,pham tien,1-8-2000,An Giang,Quan tri nhan luc,P@ssword135
+41021039,vo thi minh thuy,31-3-2000,Binh Dinh,Cong nghe thong tin,P@ssword135
+41021040,do nguyen hoai thuong,2-4-2000,Son La,Quan tri Du Lich & Lu hanh,P@ssword135
+41021042,pham hong nhung,11-8-2000,Dak Lak,Ky thuat phan mem,P@ssword135
+41021046,vo thi uyen thao,29-4-2000,An Giang,Thu ky y khoa,P@ssword135
+41021047,nguyen thao linh,18-11-2000,Binh Dinh,Kinh doanh quoc te,P@ssword135
+41021048,tran anh suong,2-10-2000,Lam Dong,Quan tri van phong,P@ssword135
+41021049,vuong bao thinh,7-10-2000,Hung Yen,Quan tri Khach San,P@ssword135
+41021053,le thi hien,31-12-1999,Binh Phuoc,Quan tri van phong,P@ssword135
+41021054,ngo thi xuan diep,21-3-2000,Thua Thien - Hue,Anh van thuong mai,P@ssword135
+41021055,lac le kien quoc,15-12-2000,Thai Nguyen,Tai chinh ngan hang,P@ssword135
+41021056,le minh nhat,11-8-2000,Bac Giang,Quan tri Khach San,P@ssword135
+41021060,le hoang yen nhi,12-11-2000,Lai Chau,Marketing,P@ssword135
+41021061,tu phuc thien loc,16-5-2000,Dien Bien,Quan tri Khach San,P@ssword135
+41021063,hoang thuy tien,16-3-2000,Quang Ngai,Ngon ngu Anh,P@ssword135
+41021067,ho thi thu giang,23-6-2000,Lai Chau,Quan ly Tai nguyen va moi truong,P@ssword135
+41021068,vo nguyen sa,1-1-2000,Lao Cai,Truyen thong va Mang may tinh,P@ssword135
+41021069,bui quang bach,25-11-2000,Quang Binh,Quan tri van phong,P@ssword135
+41021070,bui thu trang,18-10-1999,Nghe An,Truyen thong va Mang may tinh,P@ssword135
+41021074,pham thi le anh,4-11-2000,Thai Nguyen,Quan tri cong nghe truyen thong,P@ssword135
+41021075,trinh duc phu,20-12-2000,Quang Binh,Tai chinh ngan hang,P@ssword135
+41021077,nguyen thi yen,18-3-2000,Tuyen Quang,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41021081,tran kim anh dung,30-9-2000,Dong Thap,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41021082,nguyen thi minh thu,28-4-2000,Tien Giang,Thiet ke do hoa,P@ssword135
+41021088,pham thi trung nhan,3-2-2000,Vinh Phuc,Thu ky van phong,P@ssword135
+41021089,tran ngoc uyen thy,13-5-2000,Kien Giang,Quan tri cong nghe truyen thong,P@ssword135
+41021090,ngo thi hai huynh,25-11-2000,Long An,Quan tri kinh doanh,P@ssword135
+41021091,tran thi phuong vy,10-3-2000,Kien Giang,Anh van thuong mai,P@ssword135
+41021095,vo nguyen tien dat,29-5-1999,TP. Ho Chi Minh,Ngon ngu Anh,P@ssword135
+41021096,phan van chuc,30-10-2000,Dong Thap,Quan tri cong nghe truyen thong,P@ssword135
+41021097,doan pham le nhi,9-7-2000,Nam Dinh,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41021098,nguyen thi nhu thao,9-2-2000,Quang Ninh,Cong nghe thong tin,P@ssword135
+41021102,vo thi kim quyen,5-8-2000,Soc Trang,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41021103,huynh thi yen nhi,12-7-2000,Dien Bien,Tai chinh ngan hang,P@ssword135
+41021104,vo thi quynh trang,27-6-2000,Quang Nam,Quan tri kinh doanh,P@ssword135
+41021105,nguyen thi le linh,29-4-1999,Ha Noi,Quan tri Khach San,P@ssword135
+41021110,nguyen thi kim thoa,9-11-2000,Ha Giang,Quan tri kinh doanh,P@ssword135
+41021112,ly tu quynh,7-4-2000,Ha Giang,Thiet ke do hoa,P@ssword135
+41021117,nguyen xuan son,30-11-2000,Soc Trang,He thong thong tin quan ly,P@ssword135
+41021118,vo thi thuy nga,11-9-2000,Lai Chau,Thiet ke thoi trang,P@ssword135
+41021123,nguyen thi cham,27-4-2000,Kien Giang,Truyen thong va Mang may tinh,P@ssword135
+41021124,nguyen thi man,28-11-2000,Lai Chau,Ky thuat phan mem,P@ssword135
+41021125,nguyen do hao,4-2-1997,Ha Giang,Toan ung dung,P@ssword135
+41021126,tran ngoc anh thu,11-8-2000,Ha Noi,Ngon ngu Anh,P@ssword135
+41021130,phan ngoc khanh quynh,15-4-2000,Ha Tinh,Kinh doanh quoc te,P@ssword135
+41021132,duong thi thao,4-11-2000,Thai Binh,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41021133,nguyen dao ngoc tram,13-9-2000,Binh Dinh,Quan tri Du Lich & Lu hanh,P@ssword135
+41021137,huynh long phuc,19-9-2000,Ben Tre,Thiet ke thoi trang,P@ssword135
+41021138,vo thi huyen trang,13-3-2000,Ha Nam,Thiet ke do hoa,P@ssword135
+41021139,nguyen ngoc khai thu,14-10-2000,Hai Duong,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41021144,nguyen thi quynh hoa,2-1-1999,Hai Phong,Quan tri Du Lich & Lu hanh,P@ssword135
+41021145,nguyen tran thien trang,10-3-2000,Thanh Hoa,He thong thong tin quan ly,P@ssword135
+41021146,tran quoc tuan,5-2-2000,Dong Nai,Quan tri cong nghe truyen thong,P@ssword135
+41021147,nguyen thi kim lien,18-10-2000,Son La,Thiet ke thoi trang,P@ssword135
+41021151,phan thi thao nhi,12-4-2000,Ninh Thuan,Ky thuat phan mem,P@ssword135
+41021152,tran yen nhi,20-9-2000,Bac Kan,Marketing,P@ssword135
+41021153,tran nam huong,11-2-2000,Binh Thuan,Do hoa Multimedia,P@ssword135
+41021154,le doan bach diep,15-1-2000,Ninh Binh,Quan ly Tai nguyen va moi truong,P@ssword135
+41021158,truong my han,25-6-2000,Can Tho,Quan tri Khach San,P@ssword135
+41021159,do van minh,3-6-2000,Ben Tre,Ky thuat phan mem,P@ssword135
+41021160,tran thi ly,23-5-2000,Ba Ria - Vung Tau,Quan tri van phong,P@ssword135
+41021161,pham hong vi,12-11-2000,Hai Phong,Thu ky y khoa,P@ssword135
+41021165,nguyen thi thuy vi,7-8-2000,Can Tho,Ky thuat phan mem,P@ssword135
+41021166,tran le ngoc trinh,4-7-2000,Kon Tum,Quan tri Khach San,P@ssword135
+41021167,vo thi thuy hong,11-12-2000,Tay Ninh,Quan tri kinh doanh,P@ssword135
+41021173,phan thi ngoc giau,16-4-2000,Dong Nai,Thu ky van phong,P@ssword135
+41021174,trinh thi huyen,9-10-2000,Hung Yen,Quan tri nhan luc,P@ssword135
+41021175,hoang my duyen,22-4-2000,Dong Nai,Ky thuat phan mem,P@ssword135
+41021179,ho phan huyen tran,25-12-2000,Nghe An,Quan tri nhan luc,P@ssword135
+41021180,pham thi quynh thi,19-10-2000,Hai Duong,Quan tri cong nghe truyen thong,P@ssword135
+41021181,tran ngoc bich tram,19-11-2000,Hai Phong,Tai chinh ngan hang,P@ssword135
+41021182,trang thanh thuy tien,28-5-2000,Bac Kan,Quan tri Khach San,P@ssword135
+41021186,ha thanh thao,2-1-2001,Hoa Binh,Thiet ke do hoa,P@ssword135
+41021187,phan thi hong loan,1-1-2000,Ha Giang,Do hoa Multimedia,P@ssword135
+41021189,nguyen thi ngoc huyen,4-8-2000,Thai Nguyen,Marketing,P@ssword135
+41021193,tran thi thuy an,10-11-2000,Ninh Binh,Quan tri Du Lich & Lu hanh,P@ssword135
+41021194,ha thi thao nhi,15-3-2000,Ba Ria - Vung Tau,Quan tri kinh doanh,P@ssword135
+41021202,le viet hieu,4-11-2000,Lai Chau,Thu ky van phong,P@ssword135
+41021203,nguyen trong nghia,13-10-1999,Binh Duong,Cong nghe thong tin,P@ssword135
+41021207,huynh thi bich ngoc,1-12-2000,Lang Son,Quan tri kinh doanh,P@ssword135
+41021208,tran quoc cuong,9-12-1999,Ha Tinh,Truyen thong va Mang may tinh,P@ssword135
+41021209,pham minh toan,12-5-2000,Quang Nam,Quan tri Khach San,P@ssword135
+41021210,tran ngoc son,20-10-2000,Lam Dong,Marketing,P@ssword135
+41021215,su wai shing,3-2-2000,Quang Ninh,He thong thong tin quan ly,P@ssword135
+41021216,nguyen thi mai trinh,5-3-2000,Gia Lai,Quan ly Tai nguyen va moi truong,P@ssword135
+41021217,nguyen ngoc trong,14-9-2000,Dien Bien,Quan tri van phong,P@ssword135
+41021221,vu nam thanh,27-4-2000,Yen Bai,Toan ung dung,P@ssword135
+41021223,tran thi thu thao,5-8-2000,An Giang,Anh van thuong mai,P@ssword135
+41021224,dao thi xuan mai,19-2-2000,Bac Ninh,Quan tri cong nghe truyen thong,P@ssword135
+41021229,nguyen kim thoa,19-6-2000,Quang Binh,Thiet ke thoi trang,P@ssword135
+41021230,le hong thuy tien,1-8-2000,Tuyen Quang,Thiet ke thoi trang,P@ssword135
+41021231,giap thi my tho,22-1-2000,Yen Bai,Truyen thong va Mang may tinh,P@ssword135
+41021235,ngo duong kim minh,8-8-2000,Tay Ninh,Marketing,P@ssword135
+41021237,tran thi hieu,23-10-2000,Tuyen Quang,Quan tri nhan luc,P@ssword135
+41021238,le thanh the,2-9-2000,Bac Ninh,Thu ky van phong,P@ssword135
+41021242,truong duc trung,2-9-2000,Ca Mau,Quan tri cong nghe truyen thong,P@ssword135
+41021243,nguyen thi duyen,2-2-1998,Hai Phong,Quan ly Tai nguyen va moi truong,P@ssword135
+41021244,nguyen thi ngoc linh,21-1-2000,Khanh Hoa,Thiet ke do hoa,P@ssword135
+41021245,ho thi kim xuan,6-2-1999,Tay Ninh,Thiet ke noi that,P@ssword135
+41021249,pham thi phuong loan,26-8-2000,Ninh Binh,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41021251,hoang thi nguyen trang,12-11-2000,Dong Nai,Ke toan,P@ssword135
+41021252,nguyen thi minh sao,8-10-2000,Ha Tinh,Quan tri Khach San,P@ssword135
+41021257,nguyen ngoc thao nhi,10-6-2000,Tay Ninh,Thu ky y khoa,P@ssword135
+41021258,nguyen hoang to nhu,5-2-2000,Binh Thuan,Quan tri nhan luc,P@ssword135
+41021259,vu thi ngat,4-10-2000,Phu Yen,He thong thong tin quan ly,P@ssword135
+41021263,tran duy minh,1-1-2000,Quang Tri,Ngon ngu Anh,P@ssword135
+41021264,chung anh duy,5-10-1999,Binh Duong,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41021266,nguyen thi tuyet,5-8-1999,Gia Lai,Quan tri nhan luc,P@ssword135
+41021270,chau tuan kiet,22-1-2000,Ha Giang,Quan ly Tai nguyen va moi truong,P@ssword135
+41021271,nguyen thi diem my,4-11-1999,Quang Binh,Cong nghe thong tin,P@ssword135
+41021272,huynh thi yen linh,7-3-2000,Ben Tre,Marketing,P@ssword135
+41021273,mai nguyen thi ngoc diep,1-1-2000,Kien Giang,Do hoa Multimedia,P@ssword135
+41021278,nguyen thi ngoc trinh,30-1-2000,Bac Giang,Marketing,P@ssword135
+41021279,dang thi trung hieu,9-5-2000,Bac Kan,Quan tri Khach San,P@ssword135
+41021280,lam thi thu uyen,15-1-1999,Cao Bang,Quan tri van phong,P@ssword135
+41021284,le thi to uyen,16-1-2000,Hai Phong,Ke toan,P@ssword135
+41021285,tran thi kim cuong,1-4-2000,Hung Yen,Tai chinh ngan hang,P@ssword135
+41021286,nguyen thi ngoc yen,24-2-2000,Tra Vinh,Quan tri van phong,P@ssword135
+41021287,tra thi xuan,15-10-1999,Binh Phuoc,Quan tri cong nghe truyen thong,P@ssword135
+41021292,nguyen viet duc,13-2-2000,Ninh Thuan,Ngon ngu Anh,P@ssword135
+41021293,nguyen thanh nghiem,17-11-2000,Kon Tum,Thiet ke thoi trang,P@ssword135
+41021298,tran thuy hoang vy,23-1-2000,Ha Giang,Kinh doanh quoc te,P@ssword135
+41021300,phan thi minh uyen,7-10-2000,Lao Cai,Tai chinh ngan hang,P@ssword135
+41021301,xa thi ngoc bich,10-9-2000,Bac Kan,Quan tri nhan luc,P@ssword135
+41021305,vo thanh nhan,5-8-2000,Thai Binh,Do hoa Multimedia,P@ssword135
+41021306,vo thi ngoc my,4-6-2000,TP. Ho Chi Minh,Thu ky van phong,P@ssword135
+41021307,nguyen thi minh nhat,18-6-1999,Ha Nam,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41021308,le thi phuong thuy,19-9-2000,Quang Binh,Ngon ngu Anh,P@ssword135
+41021312,nguyen thuy duong,23-4-1999,An Giang,Do hoa Multimedia,P@ssword135
+41021313,tran le dung,10-9-1999,Ha Giang,Quan tri Du Lich & Lu hanh,P@ssword135
+41021314,nguyen hoang dieu quy,7-7-2000,Dong Nai,Marketing,P@ssword135
+41021319,tran thai xuan mai,19-8-2000,Quang Nam,Thu ky y khoa,P@ssword135
+41021320,bui thi tuyet vi nhan,20-3-1998,Thai Nguyen,Tai chinh ngan hang,P@ssword135
+41021322,nguyen thi quynh nhu,29-5-2000,Lam Dong,Thu ky y khoa,P@ssword135
+41021327,tran viet anh,29-10-2000,Ha Giang,Quan tri van phong,P@ssword135
+41021328,nguyen vo thi ngoc huong,9-10-2000,Binh Thuan,Toan ung dung,P@ssword135
+41021329,phung thi theu,8-5-1999,Soc Trang,Thu ky y khoa,P@ssword135
+41021333,nong thi lien,18-2-1999,Binh Phuoc,Cong nghe thong tin,P@ssword135
+41021334,vu thi yen,18-5-2000,Thua Thien - Hue,Marketing,P@ssword135
+41021336,bui thi kieu nga,21-9-2000,Nghe An,Quan tri nhan luc,P@ssword135
+41021340,nguyen thi hanh quyen,28-4-2000,Ha Noi,Quan tri kinh doanh,P@ssword135
+41021341,le xuan mai,28-7-2000,Hai Duong,Ky thuat phan mem,P@ssword135
+41021342,le thi phuc chau,20-10-2000,Lai Chau,Quan ly Tai nguyen va moi truong,P@ssword135
+41021343,nguyen anh khoa,17-1-2000,Nam Dinh,Ke toan,P@ssword135
+41021348,nguyen thi hong,20-11-2000,Phu Tho,Ky thuat phan mem,P@ssword135
+41021349,le thao duyen,31-3-2000,Bac Lieu,Ke toan,P@ssword135
+41021350,nguyen thi phuong,12-12-2000,Quang Ngai,Marketing,P@ssword135
+41021354,pham thi thanh nga,25-11-2000,An Giang,Anh van thuong mai,P@ssword135
+41021355,cao phuong thanh,17-5-2000,Ha Giang,Ke toan,P@ssword135
+41021356,nguyen ngoc truc chi,7-7-1999,Son La,Toan ung dung,P@ssword135
+41021357,nguyen thi kieu hue,6-5-2000,Ha Noi,Kinh doanh quoc te,P@ssword135
+41021362,le thi kieu nhi,15-2-2000,Lao Cai,Truyen thong va Mang may tinh,P@ssword135
+41021363,nguyen dinh dang khoa,20-12-1998,Nam Dinh,Thiet ke thoi trang,P@ssword135
+41021364,nguyen xuan thao,4-3-2000,Tien Giang,Quan ly Tai nguyen va moi truong,P@ssword135
+41021368,le my kim,20-1-1999,An Giang,Anh van thuong mai,P@ssword135
+41021369,nguyen thi nhung,27-12-2000,Tay Ninh,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41021370,le thi tuyet suong,28-8-2000,Binh Phuoc,Thiet ke thoi trang,P@ssword135
+41021371,tran huynh nguyen pa le,5-3-2000,Hung Yen,Quan tri van phong,P@ssword135
+41021375,phan thi xuan hang,19-9-2000,Dong Nai,Quan tri Khach San,P@ssword135
+41021376,nguyen thi chi,9-11-2000,Tay Ninh,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41021378,do nhat thanh,27-4-2000,Phu Yen,Quan tri nhan luc,P@ssword135
+41021382,nguyen hoai ngoc khuyen,11-4-2000,Ha Nam,Ky thuat phan mem,P@ssword135
+41021383,tran dang phuc nguyen,25-8-2000,Bac Lieu,Thiet ke noi that,P@ssword135
+41021384,doan thi phuong dung,22-6-2000,Phu Yen,Ky thuat phan mem,P@ssword135
+41021389,vo nguyen thuy vy,11-4-2000,Nam Dinh,Toan ung dung,P@ssword135
+41021390,trinh ngoc nhan,17-11-2000,Ha Giang,Anh van thuong mai,P@ssword135
+41021391,phan thi my ly,14-1-2000,Ba Ria - Vung Tau,Thiet ke noi that,P@ssword135
+41021392,nguyen thai duong,23-11-2000,Tra Vinh,Ngon ngu Anh,P@ssword135
+41021396,tu thi nhan,20-3-2000,Quang Ngai,Quan ly Tai nguyen va moi truong,P@ssword135
+41021397,pham thi bao tran,15-3-2000,Dien Bien,Do hoa Multimedia,P@ssword135
+41021398,doan thi phuong thao,10-7-2000,Gia Lai,Thiet ke noi that,P@ssword135
+41021399,nguyen yen vi,15-3-2000,Phu Yen,Cong nghe thong tin,P@ssword135
+41021404,le quynh chi,4-7-2000,Cao Bang,Thiet ke do hoa,P@ssword135
+41021405,duong thi thanh nguyet,1-11-2000,Dak Lak,Ke toan,P@ssword135
+41021406,hoang thi thanh mai,5-11-2000,Nam Dinh,Kinh doanh quoc te,P@ssword135
+41021410,vo dinh anh,11-2-2000,Dong Nai,He thong thong tin quan ly,P@ssword135
+41021411,nguyen quoc luong,6-3-2000,Binh Dinh,Kinh doanh quoc te,P@ssword135
+41021413,luu thuy ngan,6-1-2000,Nghe An,Thiet ke noi that,P@ssword135
+41021417,ho quyet bao,27-3-1999,Phu Tho,Quan ly Tai nguyen va moi truong,P@ssword135
+41021418,dinh thi phuong uyen,31-10-1998,Quang Ninh,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41021419,nguyen thi thuy duong,5-8-2000,Dong Nai,Anh van thuong mai,P@ssword135
+41021424,cai thi phuc lanh,22-8-2000,Bac Giang,Quan tri nhan luc,P@ssword135
+41021425,tran thi kim thuy,1-2-1999,Soc Trang,Quan tri kinh doanh,P@ssword135
+41021427,bui thi bich huong,30-6-2000,Hung Yen,Quan tri nhan luc,P@ssword135
+41021431,nguyen ha thien thu,3-7-1997,Ha Giang,Quan tri Du Lich & Lu hanh,P@ssword135
+41021432,nguyen thi kim nhi,10-6-2000,Hai Phong,Tai chinh ngan hang,P@ssword135
+41021433,nguyen tran phuong thu,17-4-2000,Hai Duong,Quan tri cong nghe truyen thong,P@ssword135
+41021434,nguyen thi thanh thuan,18-9-2000,Ben Tre,Cong nghe thong tin,P@ssword135
+41021438,vo pham thanh hang,12-3-2000,Quang Tri,Thiet ke do hoa,P@ssword135
+41021439,tran hoang tran le,27-2-2000,Binh Duong,Cong nghe thong tin,P@ssword135
+41021440,tran le quynh diem,6-10-2000,Lai Chau,Quan tri cong nghe truyen thong,P@ssword135
+41021446,nguyen hoang le,20-12-2000,Tra Vinh,Thiet ke noi that,P@ssword135
+41021447,nguyen anh tuan,28-5-2000,Lang Son,Thu ky y khoa,P@ssword135
+41021448,nguyen vu phuong thao,1-9-2000,Ha Tinh,Marketing,P@ssword135
+41021452,tran van truc,18-8-1999,Thai Binh,Quan tri Du Lich & Lu hanh,P@ssword135
+41021453,nguyen thi nu tin,17-12-2000,Hai Phong,Thu ky y khoa,P@ssword135
+41021454,bui thi nhi,21-2-2000,TP. Ho Chi Minh,Thiet ke noi that,P@ssword135
+41021460,luu thi thuy ha,11-12-2000,Dak Nong,Truyen thong va Mang may tinh,P@ssword135
+41021461,nguyen huong giang,15-11-2000,Binh Phuoc,Quan tri nhan luc,P@ssword135
+41021462,do duc le hang,19-10-2000,Vinh Phuc,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41021466,le thi kim lien,11-11-2000,Dak Lak,Cong nghe thong tin,P@ssword135
+41021467,nguyen thi thuy dieu,28-11-1996,Tien Giang,Quan tri nhan luc,P@ssword135
+41021468,vo duy luan,31-12-1999,Binh Duong,Quan tri kinh doanh,P@ssword135
+41021469,dieu hoang tuan,26-3-1999,Dien Bien,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41021473,nguyen thi nhu mai,9-5-1999,Binh Phuoc,Toan ung dung,P@ssword135
+41021475,nguyen thi kim thoa,19-8-2000,Ha Nam,Thiet ke thoi trang,P@ssword135
+41021476,vo thi thuy ha,10-1-2000,Dak Nong,Thiet ke do hoa,P@ssword135
+41021480,doan bao tran,8-7-2000,Bac Giang,Quan tri kinh doanh,P@ssword135
+41021482,nguyen nguyen khoi,11-12-2000,Quang Ninh,Thiet ke thoi trang,P@ssword135
+41021483,nguyen thi tuyet nhung,9-10-2000,Phu Tho,Tai chinh ngan hang,P@ssword135
+41021487,le thi hoai truc,19-11-2000,Binh Phuoc,He thong thong tin quan ly,P@ssword135
+41021488,dinh giang hoai nghia,15-11-2000,Nghe An,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41021489,nguyen thi thu thuan,19-1-2000,Cao Bang,Truyen thong va Mang may tinh,P@ssword135
+41021490,phung thanh thao,10-7-2000,Ca Mau,Quan tri Khach San,P@ssword135
+41021494,truong kim ngan,15-5-2000,Kien Giang,Cong nghe thong tin,P@ssword135
+41021495,ha thi my diem,19-1-2000,Quang Tri,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41021496,duong nguyen kim tuyen,26-10-2000,Tuyen Quang,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41021497,nguyen huu nghia,16-9-1998,Lao Cai,Quan tri nhan luc,P@ssword135
+41021502,hoang thanh tung,12-3-2000,Ben Tre,Thiet ke do hoa,P@ssword135
+41021503,tu lan vi,16-1-2000,Ha Noi,Thu ky van phong,P@ssword135
+41021504,nguyen ly tu vi,21-3-2000,Lam Dong,Thu ky van phong,P@ssword135
+41021508,nguyen tran phong vu,24-2-2000,Phu Yen,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41021509,le thi kim tuyet,28-2-2000,Dong Nai,Thiet ke noi that,P@ssword135
+41021510,nguyen quynh nhu,19-1-2000,Binh Phuoc,Quan tri Khach San,P@ssword135
+41021515,tran ngoc thu,15-1-2000,Binh Duong,Anh van thuong mai,P@ssword135
+41021516,do nguyen thanh thuy,19-11-2000,Nam Dinh,Quan tri cong nghe truyen thong,P@ssword135
+41021518,do thi phuong trinh,31-1-2000,An Giang,Ke toan,P@ssword135
+41021522,le thi hai tu,18-7-1998,Hoa Binh,Thiet ke do hoa,P@ssword135
+41021523,tran ngoc phuong nga,26-5-2000,Dak Lak,Thu ky van phong,P@ssword135
+41021524,do nguyen thien tien,31-12-1999,Nam Dinh,Anh van thuong mai,P@ssword135
+41021525,do duc binh,21-2-2000,Ninh Binh,He thong thong tin quan ly,P@ssword135
+41021529,nguyen quang khoa,7-10-2000,Son La,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41021530,tran phuong trang,20-2-2000,Phu Tho,Marketing,P@ssword135
+41021531,truong thi nhu quyen,7-3-2000,Ninh Binh,Quan tri cong nghe truyen thong,P@ssword135
+41021532,le thi truc ha,17-3-2000,Ca Mau,Thiet ke do hoa,P@ssword135
+41021536,tieu xuong quy,20-10-2000,Ha Giang,Quan tri nhan luc,P@ssword135
+41021537,le hoang tu duy,13-9-2000,Khanh Hoa,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41021538,pham thi hang,22-7-2000,Quang Ngai,Thu ky y khoa,P@ssword135
+41021539,an hong son,18-1-2000,Lai Chau,Anh van thuong mai,P@ssword135
+41021544,huynh thai huy,9-12-2000,Hung Yen,Thiet ke noi that,P@ssword135
+41021545,nguyen thi minh phuc,31-12-1993,Quang Binh,Toan ung dung,P@ssword135
+41021546,phan my han,8-1-2000,Ninh Binh,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41021550,nguyen tran tuong vi,19-3-2000,Bac Lieu,Thu ky van phong,P@ssword135
+41021551,nguyen thanh uyen,20-10-2000,Lai Chau,Thiet ke do hoa,P@ssword135
+41021553,hoang manh hung,26-10-2000,Khanh Hoa,Ky thuat phan mem,P@ssword135
+41021557,nguyen dang khoa,18-2-2000,Bac Kan,Ky thuat phan mem,P@ssword135
+41021559,doan thi chau ngoc,30-8-1998,Ben Tre,Ngon ngu Anh,P@ssword135
+41021560,pham duy phuoc,15-12-2000,Soc Trang,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41021564,tran huu tri,28-3-2000,Khanh Hoa,Quan tri cong nghe truyen thong,P@ssword135
+41021565,nguyen thi y nhi,16-12-1999,Quang Nam,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41021566,nguyen tuong vi,3-4-2000,Can Tho,Quan tri van phong,P@ssword135
+41021567,pham thi thanh dung,10-8-2000,Thai Nguyen,Marketing,P@ssword135
+41021571,nguyen thi thuy duong,1-11-2000,Ha Giang,He thong thong tin quan ly,P@ssword135
+41021572,to quoc dung,10-12-2000,Ca Mau,Quan tri kinh doanh,P@ssword135
+41021573,pham huu dong,21-2-2000,Gia Lai,Kinh doanh quoc te,P@ssword135
+41021574,pham doan anh hao,1-12-2000,Ha Noi,He thong thong tin quan ly,P@ssword135
+41021578,tran thi yen lan,28-4-2000,Long An,Quan tri cong nghe truyen thong,P@ssword135
+41021580,nguyen hoang cam tu,21-5-2000,Hung Yen,Thu ky y khoa,P@ssword135
+41021581,nguyen huu le,23-10-2000,Ha Tinh,Quan tri kinh doanh,P@ssword135
+41021586,nguyen tu anh,21-2-2000,Ninh Thuan,Do hoa Multimedia,P@ssword135
+41021587,tran thanh thanh,15-1-2000,Bac Ninh,Thiet ke noi that,P@ssword135
+41021588,nguyen thi hong ly,9-5-2000,Dak Nong,Marketing,P@ssword135
+41021593,nguyen thi thuy nhung,24-10-2000,Ha Tinh,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41021594,nguyen ngoc tan,31-12-1999,Ba Ria - Vung Tau,Tai chinh ngan hang,P@ssword135
+41021595,phan van thien,7-11-2000,Lai Chau,Ngon ngu Anh,P@ssword135
+41021599,vo thanh nhan,24-3-2000,Tra Vinh,Anh van thuong mai,P@ssword135
+41021600,nguyen thi quyen,9-11-2000,Hung Yen,Thu ky y khoa,P@ssword135
+41021607,nguyen thi mong diem,6-11-2000,Khanh Hoa,Cong nghe thong tin,P@ssword135
+41021608,chau thi hong hoa,6-6-2000,Can Tho,Tai chinh ngan hang,P@ssword135
+41021609,tran ngoc linh,4-4-2000,Ninh Binh,Quan tri van phong,P@ssword135
+41021613,nguyen trong minh tin,19-5-2000,Nam Dinh,Kinh doanh quoc te,P@ssword135
+41021614,tran xuan thao,30-11-2000,Dak Lak,Tai chinh ngan hang,P@ssword135
+41021615,vo thi bich nga,23-6-2000,Khanh Hoa,Quan tri cong nghe truyen thong,P@ssword135
+41021616,dinh thi thuy,19-12-2000,Quang Tri,Quan tri nhan luc,P@ssword135
+41021620,mai hai nam,26-1-2000,Phu Yen,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41021621,hoang duong bao phuc,22-1-2000,Ha Giang,Kinh doanh quoc te,P@ssword135
+41021622,do thi nga,12-7-2000,Cao Bang,Ngon ngu Anh,P@ssword135
+41021623,nguyen cong huan,8-9-2000,Tay Ninh,Truyen thong va Mang may tinh,P@ssword135
+41021627,nguyen thi kim lien,11-7-2000,Bac Giang,Do hoa Multimedia,P@ssword135
+41021628,do thi tra giang,10-4-2000,Hung Yen,Quan tri kinh doanh,P@ssword135
+41021629,dang thi thuy giang,23-10-2000,Phu Yen,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41021630,nguyen thi kim en,4-11-1999,Quang Tri,Kinh doanh quoc te,P@ssword135
+41021634,truong thi huong lan,9-6-2000,Binh Phuoc,Thu ky y khoa,P@ssword135
+41021635,nguyen thi hong ngoc,25-3-2000,Son La,Thiet ke thoi trang,P@ssword135
+41021637,tran thi thao,3-1-1999,Thai Nguyen,Toan ung dung,P@ssword135
+41021641,nguyen tran kien,27-4-2000,Dong Nai,Truyen thong va Mang may tinh,P@ssword135
+41021643,le thi thuy linh,29-9-2000,TP. Ho Chi Minh,Quan tri Du Lich & Lu hanh,P@ssword135
+41021644,nguyen thi thuy trang,21-6-2000,Cao Bang,Quan tri van phong,P@ssword135
+41021648,au ngoc anh,11-3-2000,Quang Tri,Ky thuat phan mem,P@ssword135
+41021649,huynh thi tien my,15-2-2000,Binh Thuan,Ke toan,P@ssword135
+41021651,quang thi ngoc duyen,19-3-2000,An Giang,Thu ky y khoa,P@ssword135
+41021656,ngo huynh chanh,14-12-2000,TP. Ho Chi Minh,Ky thuat phan mem,P@ssword135
+41021657,bui nhu thanh minh,18-11-2000,Ha Tinh,Thiet ke do hoa,P@ssword135
+41021662,nguyen thi ngoc thao,15-3-1999,Ha Giang,Do hoa Multimedia,P@ssword135
+41021663,nguyen ha quynh mai,13-8-2000,Tuyen Quang,Quan tri kinh doanh,P@ssword135
+41021664,cao thi thanh thuy,1-3-2000,Hai Phong,Quan tri nhan luc,P@ssword135
+41021669,nguyen thi my linh,13-7-2000,Ha Giang,Ke toan,P@ssword135
+41021670,nguyen tran minh thai,25-11-2000,Bac Ninh,Quan ly Tai nguyen va moi truong,P@ssword135
+41021671,nguyen thi thuy tien,8-1-2000,Hung Yen,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41021676,nguyen duy vuong,15-1-1998,Lang Son,Ngon ngu Anh,P@ssword135
+41021677,sam ngoc linh,24-10-2000,Ha Noi,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41021678,tran thi huyen trang,16-12-2000,Quang Binh,Thiet ke noi that,P@ssword135
+41021679,tran ngoc nhu y,1-6-2000,Ha Tinh,Thu ky y khoa,P@ssword135
+41021683,doan thi anh thu,22-1-2000,Lang Son,Quan tri nhan luc,P@ssword135
+41021684,tran thi trang nha,23-6-2000,Phu Yen,Quan tri nhan luc,P@ssword135
+41021685,nguyen thanh vuong,22-9-1997,Thai Binh,Thu ky van phong,P@ssword135
+41021686,nguyen thi yen linh,20-9-1995,Khanh Hoa,Quan tri van phong,P@ssword135
+41021690,mai le toan dinh,19-2-1999,Binh Thuan,Tai chinh ngan hang,P@ssword135
+41021691,van thao my,16-9-2000,Thua Thien - Hue,Ke toan,P@ssword135
+41021692,do thanh duy,29-7-2000,Thai Binh,He thong thong tin quan ly,P@ssword135
+41021693,bui duc moc,9-2-2000,Binh Phuoc,Toan ung dung,P@ssword135
+41021697,truong nhat giang,12-1-2000,Hung Yen,Marketing,P@ssword135
+41021698,vo thi an binh,9-2-2000,Dien Bien,He thong thong tin quan ly,P@ssword135
+41021700,pham ngoc huynh,10-1-2000,Thua Thien - Hue,Thiet ke do hoa,P@ssword135
+41021704,nguyen le thanh vy,27-1-2000,Long An,Quan ly Tai nguyen va moi truong,P@ssword135
+41021705,nguyen quoc huy,9-5-2000,Quang Nam,Thu ky van phong,P@ssword135
+41021706,ly anh thu,14-1-2000,Bac Kan,Toan ung dung,P@ssword135
+41021707,tran khanh huyen,17-11-2000,Kien Giang,Quan tri nhan luc,P@ssword135
+41021711,duong phu thinh,31-1-1999,Bac Kan,Marketing,P@ssword135
+41021712,le thi thuy diem,8-2-2000,Bac Kan,Toan ung dung,P@ssword135
+41021714,bui thi lan anh,8-4-2000,Binh Phuoc,Thu ky y khoa,P@ssword135
+41021719,nguyen thi kim hong,6-9-2000,Long An,Quan tri kinh doanh,P@ssword135
+41021720,huynh huy hoa,24-6-2000,Dak Nong,Cong nghe thong tin,P@ssword135
+41021721,tran thi hoai thuong,24-10-2000,TP. Ho Chi Minh,Tai chinh ngan hang,P@ssword135
+41021725,bui di hung,5-2-2000,Cao Bang,Thiet ke thoi trang,P@ssword135
+41021726,trang my duyen,13-3-2000,Ha Giang,He thong thong tin quan ly,P@ssword135
+41021728,nguyen gia han,10-8-2000,Dien Bien,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41021732,nguyen manh ham,27-4-2000,Khanh Hoa,Kinh doanh quoc te,P@ssword135
+41021733,le hang thuy vy,16-1-2000,Ninh Binh,Kinh doanh quoc te,P@ssword135
+41021739,le nguyen thanh hien,20-3-2000,Lai Chau,Quan tri cong nghe truyen thong,P@ssword135
+41021740,pham van thinh,18-7-2000,Nam Dinh,Marketing,P@ssword135
+41021741,nguyen thi ngoc bich,16-1-2000,Son La,Ky thuat phan mem,P@ssword135
+41021742,nguyen minh duc,7-5-2000,Vinh Phuc,Toan ung dung,P@ssword135
+41021747,dinh tran doan trang,7-11-2000,Son La,Kinh doanh quoc te,P@ssword135
+41021749,luong thi ngoc thanh,2-4-2000,Son La,Quan tri Khach San,P@ssword135
+41021753,phan thi trinh,19-10-1999,Thai Binh,Quan tri Khach San,P@ssword135
+41021754,trinh thi my le,13-8-2000,Dien Bien,Truyen thong va Mang may tinh,P@ssword135
+41021755,nguyen thi kim yen,15-2-2000,Nghe An,Ky thuat phan mem,P@ssword135
+41021760,le quynh ngan,5-11-2000,Thua Thien - Hue,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41021763,nguyen nhat duy,4-5-2000,Phu Tho,Thiet ke do hoa,P@ssword135
+41021767,khong hong ngoc,22-2-1998,Lam Dong,Ky thuat phan mem,P@ssword135
+41021769,tran thi cam quyen,13-8-2000,Binh Thuan,Do hoa Multimedia,P@ssword135
+41021776,le thi ngoc diep,10-4-2000,Ninh Binh,Quan tri kinh doanh,P@ssword135
+41021777,dang thi diem tien,7-4-2000,Lai Chau,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41021781,nguyen hong phuong thuy,11-1-2000,Binh Thuan,Thu ky van phong,P@ssword135
+41021783,nguyen xuan ha,17-11-2000,Ba Ria - Vung Tau,Thu ky van phong,P@ssword135
+41021784,nguyen hoang phuc,24-1-2000,Nghe An,Thu ky van phong,P@ssword135
+41021788,nguyen thi thu thuy,3-2-2000,Kien Giang,Anh van thuong mai,P@ssword135
+41021789,bui ngoc khanh trinh,18-4-2000,Ha Tinh,Thu ky y khoa,P@ssword135
+41021790,huynh ngoc nhu y,19-8-2000,Dong Nai,Quan tri Du Lich & Lu hanh,P@ssword135
+41021791,duong tien dat,12-1-2000,Tien Giang,Ngon ngu Anh,P@ssword135
+41021796,nguyen huu tai,14-7-2000,TP. Ho Chi Minh,He thong thong tin quan ly,P@ssword135
+41021797,pham thi phu,1-9-2000,Can Tho,Thiet ke thoi trang,P@ssword135
+41021798,nguyen thi xuan vy,2-2-2000,Thua Thien - Hue,He thong thong tin quan ly,P@ssword135
+41021802,truong hoang yen,31-12-1999,Phu Tho,Quan tri van phong,P@ssword135
+41021803,nguyen huynh nhu ngoc,24-1-2000,Lang Son,Thiet ke do hoa,P@ssword135
+41021804,huynh the thi my duyen,17-10-2000,Dak Lak,Quan tri Du Lich & Lu hanh,P@ssword135
+41021805,doan nguyen tu anh,14-8-2000,Dong Nai,Toan ung dung,P@ssword135
+41021809,vo thi thu lieu,15-6-2000,Ba Ria - Vung Tau,Quan tri kinh doanh,P@ssword135
+41021811,nguyen thi ngoc hien,18-8-2000,Binh Thuan,Quan tri Khach San,P@ssword135
+41021812,phan thi phung,3-11-2000,Can Tho,Quan tri kinh doanh,P@ssword135
+41021816,nguyen thi thu tra,14-8-1999,Lao Cai,Anh van thuong mai,P@ssword135
+41021819,nguyen thi thu hoa,19-5-2000,Tra Vinh,Thiet ke thoi trang,P@ssword135
+41021823,nguyen au ngoc huyen,27-10-2000,Dak Lak,Ngon ngu Anh,P@ssword135
+41021824,tran thi minh thuc,8-7-2000,Thanh Hoa,Thiet ke do hoa,P@ssword135
+41021826,le nguyen hoang quoc,15-9-1999,Vinh Phuc,Quan tri kinh doanh,P@ssword135
+41021830,nguyen thi yen xuan,8-11-2000,Ha Giang,Marketing,P@ssword135
+41021833,tran minh hieu,3-5-2000,Thai Nguyen,Quan ly Tai nguyen va moi truong,P@ssword135
+41021837,le quynh thuy tien,31-7-2000,Ca Mau,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41021838,nguyen phuong uyen,22-7-2000,Hai Phong,Kinh doanh quoc te,P@ssword135
+41021839,phan quynh anh,11-7-2000,Nam Dinh,Ngon ngu Anh,P@ssword135
+41021844,nguyen lam ngoc bich,5-10-2000,Hai Duong,Truyen thong va Mang may tinh,P@ssword135
+41021845,huynh nhat anh,11-12-2000,Can Tho,Thu ky y khoa,P@ssword135
+41021846,phan thao anh,5-1-1999,Nghe An,Thu ky van phong,P@ssword135
+41021847,luong thanh tieu ngoc,11-11-2000,Hai Phong,Quan tri Khach San,P@ssword135
+41021851,nguyen thi hong huong,4-5-1998,Thua Thien - Hue,Marketing,P@ssword135
+41021852,ngo gia an,6-11-2000,Lai Chau,Ky thuat phan mem,P@ssword135
+41021854,le thi nhu y,1-2-2000,Binh Thuan,He thong thong tin quan ly,P@ssword135
+41021858,bui thi nhat tam,27-5-2000,Binh Duong,Quan tri kinh doanh,P@ssword135
+41021859,doan thi ha thu,5-5-2000,Soc Trang,Quan tri Du Lich & Lu hanh,P@ssword135
+41021860,nguyen thi phuong trinh,7-12-2000,Quang Ninh,Quan tri Khach San,P@ssword135
+41021865,nguyen van nhim,25-6-2000,Soc Trang,Anh van thuong mai,P@ssword135
+41021866,tran phuong thanh,29-11-2000,Quang Binh,Thiet ke do hoa,P@ssword135
+41021867,tran xuan thanh,13-10-2000,Quang Ngai,Quan tri cong nghe truyen thong,P@ssword135
+41021868,nguyen linh thao,11-11-2000,Nam Dinh,Quan tri Khach San,P@ssword135
+41021872,nguyen tran kim ngan,22-2-2000,Thai Nguyen,Do hoa Multimedia,P@ssword135
+41021873,le thi hien,1-6-2000,Ha Giang,Kinh doanh quoc te,P@ssword135
+41021874,la thi tuyet xuan,14-4-2000,Tuyen Quang,Quan tri cong nghe truyen thong,P@ssword135
+41021879,doan thanh hoang,30-11-1999,Binh Dinh,Do hoa Multimedia,P@ssword135
+41021880,nguyen khanh doan,29-11-2000,Tien Giang,Quan tri cong nghe truyen thong,P@ssword135
+41021881,nguyen khoa tran anh tu,20-2-2000,TP. Ho Chi Minh,Kinh doanh quoc te,P@ssword135
+41021882,huynh kim hong,9-2-2000,Phu Yen,Anh van thuong mai,P@ssword135
+41021886,nguyen tien hung,26-1-2000,Hai Phong,Ke toan,P@ssword135
+41021888,pham thi thu ha,26-9-2000,Dak Nong,Cong nghe thong tin,P@ssword135
+41021889,tran lam hoang,21-6-1999,An Giang,Tai chinh ngan hang,P@ssword135
+41021893,bui ngoc thang,28-11-2000,Tuyen Quang,Thu ky van phong,P@ssword135
+41021894,pham thi kim chi,26-9-1999,Khanh Hoa,Quan tri Du Lich & Lu hanh,P@ssword135
+41021896,ngo ha vy,7-8-2000,Quang Ngai,Ke toan,P@ssword135
+41021901,le thi y lan,3-6-2000,Hoa Binh,Quan tri kinh doanh,P@ssword135
+41021902,trinh ngoc thuy thuong,31-8-2000,Tuyen Quang,Marketing,P@ssword135
+41021907,nguyen van ngoc,7-2-1999,Phu Tho,Cong nghe thong tin,P@ssword135
+41021908,dau van hoang hoan,30-12-2000,Nam Dinh,Do hoa Multimedia,P@ssword135
+41021909,nguyen duc tai,18-5-2000,Gia Lai,Thu ky van phong,P@ssword135
+41021910,phan anh dung,9-10-2000,Quang Ngai,Do hoa Multimedia,P@ssword135
+41021915,tran dat,8-10-1999,Dong Nai,Ky thuat phan mem,P@ssword135
+41021916,bui khanh my,15-12-2000,Phu Tho,Truyen thong va Mang may tinh,P@ssword135
+41021917,huynh phuong anh,3-10-2000,Dien Bien,Quan tri kinh doanh,P@ssword135
+41021921,nguyen yen nhi,20-1-2000,Dien Bien,Thiet ke noi that,P@ssword135
+41021922,nguyen thi cam van,12-10-2000,Phu Tho,Quan ly Tai nguyen va moi truong,P@ssword135
+41021923,vu kieu trang,1-9-2000,Phu Tho,Anh van thuong mai,P@ssword135
+41021924,pham thi ni,7-3-2000,Hung Yen,Anh van thuong mai,P@ssword135
+41021928,truong thi hong hanh,16-3-2000,Binh Thuan,Quan tri van phong,P@ssword135
+41021929,pham thi huong,19-11-2000,Ha Nam,Quan tri Khach San,P@ssword135
+41021930,vo thanh long,14-1-2000,Ha Tinh,Toan ung dung,P@ssword135
+41021931,pham thanh dat,9-5-2000,Cao Bang,Marketing,P@ssword135
+41021935,duong buu san,14-2-1999,Soc Trang,Quan tri Du Lich & Lu hanh,P@ssword135
+41021936,le thi kim ngon,25-10-2000,Lai Chau,Quan tri cong nghe truyen thong,P@ssword135
+41021937,nguyen truong thong,5-10-2000,Kien Giang,Thiet ke noi that,P@ssword135
+41021942,phan dinh tien,25-9-2000,Cao Bang,Ke toan,P@ssword135
+41021943,dinh thanh an,3-8-2000,Dong Nai,Quan tri van phong,P@ssword135
+41021945,nguyen thi tuyet nhung,29-10-2000,Lao Cai,Anh van thuong mai,P@ssword135
+41021950,duong thi xuan mai,7-6-2000,Cao Bang,Thu ky van phong,P@ssword135
+41021951,pham cong danh,22-1-2000,Binh Phuoc,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41021952,tran thi hong thao,30-11-2000,Thua Thien - Hue,Quan tri van phong,P@ssword135
+41021956,lam tran thanh tam,6-10-2000,Lang Son,Quan ly Tai nguyen va moi truong,P@ssword135
+41021957,ngo thi kim hoang,16-3-2000,Ba Ria - Vung Tau,Quan ly Tai nguyen va moi truong,P@ssword135
+41021958,phan thi van,22-3-2000,Vinh Phuc,Thiet ke do hoa,P@ssword135
+41021959,huynh thanh tu,20-8-1999,Quang Ninh,Thu ky y khoa,P@ssword135
+41021963,nguyen ngoc diem my,13-11-2000,Kon Tum,Marketing,P@ssword135
+41021964,nguyen thi ngan ha,6-3-2000,Vinh Long,Thu ky van phong,P@ssword135
+41021965,vu thi thuy trang,8-11-2000,Binh Thuan,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41021966,nguyen duc duy,26-10-2000,Vinh Long,Thu ky y khoa,P@ssword135
+41021970,trinh gia phu,4-9-2000,Dak Nong,Quan tri nhan luc,P@ssword135
+41021971,le manh hoan,4-11-2000,Lam Dong,Cong nghe thong tin,P@ssword135
+41021972,nguyen huu dao,19-2-2000,Lao Cai,Quan tri Khach San,P@ssword135
+41021973,le nguyen thi truc thuy,10-6-2000,Lang Son,Quan tri nhan luc,P@ssword135
+41021978,nguyen thi thuy trang,1-5-2000,Binh Dinh,Ngon ngu Anh,P@ssword135
+41021980,dang thi nhat le,27-8-1999,Ha Giang,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41021984,vu thu ha,3-10-1999,Hai Duong,Ke toan,P@ssword135
+41021985,quach tu van,26-3-2000,Ca Mau,Marketing,P@ssword135
+41021986,nguyen thi thao nguyen,26-9-2000,Dong Nai,Quan tri nhan luc,P@ssword135
+41021987,pham thi nha phuong,12-11-2000,Ha Giang,Anh van thuong mai,P@ssword135
+41021991,pham duc huy,20-10-2000,Dak Nong,Thiet ke do hoa,P@ssword135
+41021992,nguyen thi ngoc,29-10-2000,Gia Lai,Quan ly Tai nguyen va moi truong,P@ssword135
+41021993,bui nha thanh truc,16-3-2000,Yen Bai,Cong nghe thong tin,P@ssword135
+41021994,mai anh tuan,30-7-1998,Ninh Binh,Cong nghe thong tin,P@ssword135
+41021998,mai thi thanh hang,2-3-2000,Ha Giang,Kinh doanh quoc te,P@ssword135
+41022001,vo thi nhung ngoc,25-5-2000,Ha Noi,He thong thong tin quan ly,P@ssword135
+41022005,nguyen duong hoang dung,1-1-2000,Ha Giang,He thong thong tin quan ly,P@ssword135
+41022006,nguyen hong thien phu,9-12-2000,Bac Kan,Ky thuat phan mem,P@ssword135
+41022007,trinh ngoc xuong,26-3-2000,Son La,Marketing,P@ssword135
+41022012,phung duy bao,16-8-2000,Lang Son,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41022013,tran viet anh kiet,7-9-2000,Nam Dinh,Quan tri Du Lich & Lu hanh,P@ssword135
+41022015,dang thi ngoc,29-10-1999,An Giang,Quan tri Du Lich & Lu hanh,P@ssword135
+41022019,trinh mai thuong,22-9-2000,Lao Cai,Quan tri van phong,P@ssword135
+41022021,ngo ngoc bang chau,23-12-1998,Kien Giang,Ngon ngu Anh,P@ssword135
+41022022,tran nguyen ai nhan,15-1-2000,Binh Phuoc,Cong nghe thong tin,P@ssword135
+41022026,truong kieu diem khoi,11-8-1999,Ha Giang,Toan ung dung,P@ssword135
+41022027,phan huynh yen nhi,1-3-2000,Binh Phuoc,Thiet ke noi that,P@ssword135
+41022028,pham ngoc tam anh,3-10-1999,An Giang,Quan tri Khach San,P@ssword135
+41022033,dao thi xuan thi,3-2-2000,Hung Yen,Do hoa Multimedia,P@ssword135
+41022034,le duc tri,16-12-2000,Dak Lak,Quan ly Tai nguyen va moi truong,P@ssword135
+41022035,trinh thi hang,19-7-2000,Ba Ria - Vung Tau,Tai chinh ngan hang,P@ssword135
+41022036,huynh du tue quan,10-4-2000,Hung Yen,Thiet ke noi that,P@ssword135
+41022040,che tran to uyen,9-1-2000,Lao Cai,Thiet ke thoi trang,P@ssword135
+41022041,nguyen thi kim ngoc,2-10-2000,Yen Bai,Ky thuat phan mem,P@ssword135
+41022043,kieu viet anh,3-5-2000,Ben Tre,Thu ky van phong,P@ssword135
+41022047,le thi huong giang,5-2-2000,Bac Kan,Quan tri cong nghe truyen thong,P@ssword135
+41022048,huynh thi bich huyen,31-12-1999,Gia Lai,Toan ung dung,P@ssword135
+41022049,mai tien dat,11-10-2000,Bac Kan,Quan tri Du Lich & Lu hanh,P@ssword135
+41022050,tran vu anh thu,21-12-2000,An Giang,Quan tri Du Lich & Lu hanh,P@ssword135
+41022054,luong tuan khang,3-12-2000,Ca Mau,Toan ung dung,P@ssword135
+41022055,nguyen pham my duyen,13-4-2000,Lam Dong,Marketing,P@ssword135
+41022056,mai thi thao,29-8-2000,Ninh Binh,Truyen thong va Mang may tinh,P@ssword135
+41022061,nguyen thi hao,29-5-1998,Yen Bai,He thong thong tin quan ly,P@ssword135
+41022062,dinh thi thuong thuong,9-8-2000,Ha Noi,Thu ky y khoa,P@ssword135
+41022063,nguyen thi thao nguyen,6-2-2000,Son La,Quan tri kinh doanh,P@ssword135
+41022064,bui ngoc song quynh,14-7-2000,Can Tho,Quan tri cong nghe truyen thong,P@ssword135
+41022068,nguyen thi hong trinh,21-10-1999,Son La,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41022069,mai thi thao,16-1-2000,Dong Thap,Ky thuat phan mem,P@ssword135
+41022070,le duc toan,17-3-2000,Quang Binh,He thong thong tin quan ly,P@ssword135
+41022071,vu thi tuyet anh,3-7-2000,Thai Nguyen,Kinh doanh quoc te,P@ssword135
+41022076,nguyen thi ngoc quynh,17-11-2000,Phu Tho,Quan tri cong nghe truyen thong,P@ssword135
+41022077,nguyen thi le,9-11-2000,Ha Giang,Quan tri nhan luc,P@ssword135
+41022078,nguyen gia nguyen,19-5-1999,Dien Bien,Thiet ke noi that,P@ssword135
+41022082,thai dinh thi ly ly,26-12-1999,Ha Noi,Thu ky y khoa,P@ssword135
+41022083,nguyen thi thu hang,14-3-2000,Hai Duong,Quan tri nhan luc,P@ssword135
+41022084,nguyen truong ngoc nu,29-4-2000,Nam Dinh,Ke toan,P@ssword135
+41022085,pham thi ngoc,19-4-2000,Binh Phuoc,Thu ky y khoa,P@ssword135
+41022089,dang duy tuan,25-2-1999,Thai Nguyen,Quan tri Khach San,P@ssword135
+41022090,doan thi thuy quynh,9-4-2000,Nghe An,Quan tri Du Lich & Lu hanh,P@ssword135
+41022091,nguyen ngoc dang khoa,7-12-2000,Dak Nong,Quan tri van phong,P@ssword135
+41022092,nguyen thi ngoc huyen,6-4-2000,Hung Yen,Ngon ngu Anh,P@ssword135
+41022096,mai truc chi,6-4-1999,Ninh Binh,Quan tri Du Lich & Lu hanh,P@ssword135
+41022097,huynh phoi my,31-7-2000,Soc Trang,Marketing,P@ssword135
+41022098,tran nguyen vu,31-7-2000,Phu Yen,Anh van thuong mai,P@ssword135
+41022099,ho thi ngoc lien,28-10-2000,Tay Ninh,He thong thong tin quan ly,P@ssword135
+41022103,tran minh hoang,4-10-1998,Bac Ninh,He thong thong tin quan ly,P@ssword135
+41022105,nguyen vuong tung,7-10-1998,Lao Cai,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41022106,nguyen luong thuy tien,23-11-2000,Thua Thien - Hue,Quan ly Tai nguyen va moi truong,P@ssword135
+41022111,luu cong huy,17-10-2000,Dong Thap,Tai chinh ngan hang,P@ssword135
+41022112,nguyen dang ngoc lan chi,9-9-2000,Binh Dinh,Quan tri kinh doanh,P@ssword135
+41022113,to phan dinh nguyen,3-7-2000,Quang Nam,Thiet ke do hoa,P@ssword135
+41022118,hoang gia han,30-10-1999,TP. Ho Chi Minh,Do hoa Multimedia,P@ssword135
+41022119,le phan cam quynh,13-9-1999,Tien Giang,Quan tri nhan luc,P@ssword135
+41022120,hoang ngoc canh,8-11-2000,Dong Nai,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41022124,van thi my nguyen,4-1-2000,Ha Giang,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41022127,nguyen viet hung,5-3-2000,Gia Lai,Cong nghe thong tin,P@ssword135
+41022132,tran my linh,25-8-2000,Bac Kan,Ke toan,P@ssword135
+41022133,pham ngoc xuan nhi,20-11-1997,Vinh Phuc,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41022138,vo thi thu thao,23-7-2000,An Giang,Thiet ke noi that,P@ssword135
+41022139,le hoang thuy vy,1-1-2000,An Giang,Quan tri Khach San,P@ssword135
+41022140,tran thi thu giang,1-9-2000,Binh Phuoc,Toan ung dung,P@ssword135
+41022146,ha ngoc huynh,29-7-2000,Dong Thap,Marketing,P@ssword135
+41022148,tran ha my,29-7-1999,Dong Thap,Anh van thuong mai,P@ssword135
+41022153,nguyen van su,1-9-2000,Lang Son,Thiet ke noi that,P@ssword135
+41022154,nguyen anh duc,6-7-2000,Lao Cai,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41022155,hoang chan thien my,19-10-2000,Lam Dong,Anh van thuong mai,P@ssword135
+41022159,nguyen thi my nga,28-3-2000,Hai Phong,Ngon ngu Anh,P@ssword135
+41022160,truong ngoc kim ngan,13-6-2000,Nghe An,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41022161,dao vinh han,22-1-2000,Dak Nong,Quan tri Khach San,P@ssword135
+41022162,nguyen vu ngoc lien,29-12-1999,TP. Ho Chi Minh,Tai chinh ngan hang,P@ssword135
+41022167,khuong lan uyen,1-11-2000,Hai Duong,Thu ky van phong,P@ssword135
+41022169,nguyen phuong hoa,4-4-2000,Dong Nai,Ngon ngu Anh,P@ssword135
+41022174,vu thanh xuan,16-7-2000,Nghe An,Quan tri Du Lich & Lu hanh,P@ssword135
+41022175,nguyen huynh phuong anh,28-10-1999,Vinh Phuc,Ke toan,P@ssword135
+41022181,le tuan doanh,9-4-2000,Bac Ninh,Quan tri nhan luc,P@ssword135
+41022182,truong quynh huong,24-2-2000,Hai Phong,Quan tri Du Lich & Lu hanh,P@ssword135
+41022187,tran thi thuy duong,6-2-2000,An Giang,Thiet ke do hoa,P@ssword135
+41022188,tran quoc uy,27-12-2000,Hung Yen,Toan ung dung,P@ssword135
+41022189,le phuc tam anh,4-12-2000,Ha Noi,Quan tri kinh doanh,P@ssword135
+41022190,hua van anh,26-9-2000,Lang Son,Toan ung dung,P@ssword135
+41022194,vu thi hong duyen,11-7-2000,Bac Kan,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41022195,nguyen minh hung,7-4-2000,Tien Giang,Toan ung dung,P@ssword135
+41022196,le nguyen dan thanh,6-11-2000,Gia Lai,Quan tri Khach San,P@ssword135
+41022197,nguyen thanh nga,31-1-2000,Ha Nam,Quan tri van phong,P@ssword135
+41022201,nguyen hoai bao uyen,28-1-2000,Hai Duong,Quan tri kinh doanh,P@ssword135
+41022202,hoang thuy tien,2-1-2000,Ha Giang,Quan tri Khach San,P@ssword135
+41022203,le ngoc kim cuong,14-3-2000,Thua Thien - Hue,Thiet ke thoi trang,P@ssword135
+41022204,to hoang phuc,8-4-2000,Can Tho,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41022208,nguyen thi my nu,23-12-1999,Dak Lak,Thu ky van phong,P@ssword135
+41022209,nguyen thi hoai nhu,14-4-2000,Hung Yen,Thiet ke thoi trang,P@ssword135
+41022210,tran hai anh,4-7-2000,Long An,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41022211,nguyen thi ngoc nha,27-9-2000,Ninh Binh,Anh van thuong mai,P@ssword135
+41022215,le thi mien thao,31-12-1999,Ninh Thuan,Thu ky van phong,P@ssword135
+41022216,nguyen thi thuy trang,31-10-1999,Quang Nam,Thiet ke do hoa,P@ssword135
+41022217,khuu thi ngoc my,18-9-2000,Dong Nai,Quan tri Khach San,P@ssword135
+41022222,nguyen thi thien kieu,20-1-2000,Hai Duong,Toan ung dung,P@ssword135
+41022223,tran dinh nghia,10-5-2000,Thua Thien - Hue,Toan ung dung,P@ssword135
+41022224,truong thanh thao,20-3-2000,Lam Dong,Tai chinh ngan hang,P@ssword135
+41022225,nguyen kim ngoc,19-8-2000,Binh Thuan,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41022229,le my hoang,9-8-1999,Yen Bai,Quan tri kinh doanh,P@ssword135
+41022230,le tu quyen,31-12-1999,Ha Noi,Quan ly Tai nguyen va moi truong,P@ssword135
+41022231,tran doan hai yen,7-4-2000,Phu Yen,Quan tri Khach San,P@ssword135
+41022232,vo thi bich lien,15-1-2000,An Giang,Thu ky van phong,P@ssword135
+41022238,pham thi anh ly,7-11-2000,Bac Lieu,Quan tri nhan luc,P@ssword135
+41022239,nguyen dinh thien,19-8-2000,Vinh Phuc,Do hoa Multimedia,P@ssword135
+41022243,le hoang tuyet van,25-7-2000,Ha Tinh,Do hoa Multimedia,P@ssword135
+41022244,ha thi thuy hang,7-4-2000,Gia Lai,Quan tri Khach San,P@ssword135
+41022245,huynh minh ngoc,23-11-2000,Thanh Hoa,Thiet ke thoi trang,P@ssword135
+41022250,nguyen thi ha,19-8-2000,Dong Nai,Kinh doanh quoc te,P@ssword135
+41022251,cao thi tuyet hoa,1-8-2000,Son La,Anh van thuong mai,P@ssword135
+41022252,do van kiet,19-11-2000,Phu Yen,Thiet ke do hoa,P@ssword135
+41022253,nguyen vo hoang tram,9-3-2000,Son La,Quan tri Du Lich & Lu hanh,P@ssword135
+41022257,pham thi hieu,25-11-1999,Ben Tre,Toan ung dung,P@ssword135
+41022258,ly kim thi,14-2-2000,Binh Phuoc,Truyen thong va Mang may tinh,P@ssword135
+41022259,phan duc huy,1-2-2000,Ha Nam,Quan tri van phong,P@ssword135
+41022260,le huyen nhat tan,15-12-2000,An Giang,Truyen thong va Mang may tinh,P@ssword135
+41022264,man thi nhi,24-8-2000,Thai Nguyen,Thu ky van phong,P@ssword135
+41022265,le thi kieu,18-7-2000,Kon Tum,Thiet ke do hoa,P@ssword135
+41022266,nguyen thi hong ngoc,21-3-2000,An Giang,Truyen thong va Mang may tinh,P@ssword135
+41022267,nguyen thi luyen,8-9-2000,Tuyen Quang,Tai chinh ngan hang,P@ssword135
+41022272,vo ngoc may thao,6-4-2000,Ba Ria - Vung Tau,Quan tri kinh doanh,P@ssword135
+41022273,pham thi chinh,18-2-2000,Hai Duong,He thong thong tin quan ly,P@ssword135
+41022274,ho thi thuy hang,15-5-2000,Lao Cai,Quan tri nhan luc,P@ssword135
+41022278,truong my an,9-1-2000,An Giang,Kinh doanh quoc te,P@ssword135
+41022279,pham thi y nhi,20-7-2000,Lam Dong,Truyen thong va Mang may tinh,P@ssword135
+41022280,nguyen thi le,13-10-2000,An Giang,Toan ung dung,P@ssword135
+41022281,nguyen quang hieu,18-10-2000,Hai Phong,Truyen thong va Mang may tinh,P@ssword135
+41022285,nguyen thi thuy trang,23-10-1999,Binh Duong,Cong nghe thong tin,P@ssword135
+41022286,nguyen duong minh tu,25-8-2000,Ben Tre,Quan ly Tai nguyen va moi truong,P@ssword135
+41022288,do thi nguyet hang,20-1-2000,Quang Ninh,Do hoa Multimedia,P@ssword135
+41022292,huynh thi thu nghia,25-11-2000,Binh Duong,Quan tri Du Lich & Lu hanh,P@ssword135
+41022293,duong tien huy,30-10-2000,Kien Giang,Marketing,P@ssword135
+41022294,nguyen huy hoang,1-10-2000,Can Tho,Kinh doanh quoc te,P@ssword135
+41022295,ta phuong bac,8-6-2000,Dong Thap,Truyen thong va Mang may tinh,P@ssword135
+41022299,pham minh thuan,1-1-2000,Long An,Tai chinh ngan hang,P@ssword135
+41022300,ngo le thi,15-5-1999,Ha Tinh,Quan ly Tai nguyen va moi truong,P@ssword135
+41022301,nguyen huynh nha kha,10-6-2000,Ha Noi,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41022302,vu ngoc nhu quynh,10-5-1999,Nam Dinh,Thiet ke thoi trang,P@ssword135
+41022307,truong minh nguyet,3-6-2000,Ben Tre,Ngon ngu Anh,P@ssword135
+41022308,hoang le nguyet ha,12-11-2000,Binh Duong,Ke toan,P@ssword135
+41022309,lam co quoc vuong,7-8-2000,Quang Ninh,Quan ly Tai nguyen va moi truong,P@ssword135
+41022315,chu thi lien,16-2-1997,Ba Ria - Vung Tau,Thu ky y khoa,P@ssword135
+41022316,tran thuy tuong vy,24-7-1999,Tien Giang,Quan tri nhan luc,P@ssword135
+41022320,tran thanh huy,23-8-2000,Hai Phong,Anh van thuong mai,P@ssword135
+41022321,nguyen thi bich ngoc,20-6-2000,Thai Binh,Thiet ke noi that,P@ssword135
+41022323,nguyen hoang vuong,13-2-2000,Dak Lak,Thiet ke thoi trang,P@ssword135
+41022327,tran nguyen hoang vi,14-9-2000,Ha Nam,Quan tri nhan luc,P@ssword135
+41022328,tran gia huy,23-1-2000,Dong Thap,Truyen thong va Mang may tinh,P@ssword135
+41022329,duong tran an hong,24-4-2000,Lang Son,Truyen thong va Mang may tinh,P@ssword135
+41022330,nguyen nu thanh lan,12-6-2000,Hai Duong,Quan tri van phong,P@ssword135
+41022334,nguyen linh duy,9-12-2000,Bac Giang,Ky thuat phan mem,P@ssword135
+41022335,huynh phu hao,12-7-2000,Ba Ria - Vung Tau,Marketing,P@ssword135
+41022336,than thanh thao,11-1-2000,Hung Yen,Quan ly Tai nguyen va moi truong,P@ssword135
+41022337,nguyen thi thuy phuong,9-4-2000,Hai Duong,Thiet ke do hoa,P@ssword135
+41022342,phan anh thu,11-1-1998,An Giang,Toan ung dung,P@ssword135
+41022343,tran thi thao nguyen,29-5-2000,Long An,He thong thong tin quan ly,P@ssword135
+41022344,nguyen thi my linh,7-10-2000,Tra Vinh,Quan tri nhan luc,P@ssword135
+41022350,duong bui thu ai,23-3-2000,Tay Ninh,Ky thuat phan mem,P@ssword135
+41022358,nguyen thi my le,11-12-2000,Thua Thien - Hue,Ke toan,P@ssword135
+41022362,nguyen thi bich quyen,27-6-2000,Dong Thap,Marketing,P@ssword135
+41022363,tran phan cam tu,31-12-1999,Quang Nam,Kinh doanh quoc te,P@ssword135
+41022364,pham thi hien,14-10-2000,Nghe An,Thiet ke do hoa,P@ssword135
+41022365,le vo thien nhan,25-6-2000,Bac Ninh,Marketing,P@ssword135
+41022369,truong thi thuong duyen,9-7-2000,Ninh Binh,Quan ly Tai nguyen va moi truong,P@ssword135
+41022371,nguyen khac tan tai,17-7-2000,Thai Nguyen,Thu ky y khoa,P@ssword135
+41022372,tran quoc huy,7-10-2000,Lai Chau,Quan tri kinh doanh,P@ssword135
+41022376,nguyen thi thuy van,11-4-2000,Bac Lieu,Toan ung dung,P@ssword135
+41022377,hoang thi huong,13-2-2000,Bac Giang,Quan tri Du Lich & Lu hanh,P@ssword135
+41022378,le dinh quan,7-2-2000,Ha Giang,Quan tri nhan luc,P@ssword135
+41022379,hoang thi quynh nhu,9-9-2000,Bac Ninh,Quan tri Du Lich & Lu hanh,P@ssword135
+41022383,tran thi nhung,4-9-2000,Nam Dinh,Anh van thuong mai,P@ssword135
+41022384,nguyen thi minh hieu,11-8-2000,Dong Nai,Thiet ke noi that,P@ssword135
+41022385,nguyen thi toan,18-6-2000,Son La,Thiet ke do hoa,P@ssword135
+41022386,luu yen binh,29-7-1999,Lai Chau,Tai chinh ngan hang,P@ssword135
+41022391,le thi thanh thao,16-9-2000,Thua Thien - Hue,Quan ly Tai nguyen va moi truong,P@ssword135
+41022392,nguyen thi hai van,11-1-2000,Quang Binh,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41022393,bui thanh huy,10-6-2000,Lang Son,Quan tri van phong,P@ssword135
+41022397,ngo thi minh nu,31-10-2000,Can Tho,Ngon ngu Anh,P@ssword135
+41022399,tran thanh thao quyen,22-7-2000,Tra Vinh,Ke toan,P@ssword135
+41022400,nguyen hai ha,7-9-2000,Bac Kan,Thu ky van phong,P@ssword135
+41022404,nguyen vo nguyet thanh,11-8-2000,Binh Dinh,Thiet ke do hoa,P@ssword135
+41022405,luc le lien,26-11-2000,Hai Duong,Marketing,P@ssword135
+41022407,vo duc minh,6-2-2000,Thai Nguyen,Truyen thong va Mang may tinh,P@ssword135
+41022411,le nguyen hoang huy,8-3-2000,Gia Lai,Quan ly Tai nguyen va moi truong,P@ssword135
+41022412,trinh thi thu ha,8-12-2000,Bac Giang,Toan ung dung,P@ssword135
+41022413,tran vu phuong trinh,17-10-2000,Cao Bang,Ky thuat phan mem,P@ssword135
+41022414,phan thao linh,13-9-2000,Ba Ria - Vung Tau,Thiet ke thoi trang,P@ssword135
+41022418,ngo thai quyen,31-1-2000,Ba Ria - Vung Tau,Marketing,P@ssword135
+41022419,nguyen tran thanh diem,7-7-2000,Yen Bai,Do hoa Multimedia,P@ssword135
+41022420,hoang dinh ha,9-5-2000,Hoa Binh,Truyen thong va Mang may tinh,P@ssword135
+41022421,ha manh dat,9-1-2000,Binh Duong,Ky thuat phan mem,P@ssword135
+41022425,le minh nhat,17-2-2000,Yen Bai,Quan tri Khach San,P@ssword135
+41022426,nguyen thuy minh huyen,5-4-2000,Tien Giang,Toan ung dung,P@ssword135
+41022427,tran bao duong,9-12-2000,Ha Tinh,Cong nghe thong tin,P@ssword135
+41022428,nguyen duyen tuan,31-12-1999,Ha Tinh,Quan tri nhan luc,P@ssword135
+41022432,nguyen thanh nhan,4-8-2000,Ha Tinh,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41022433,tu luong my minh,24-1-2000,Lang Son,Do hoa Multimedia,P@ssword135
+41022434,duong thuy bao han,9-8-2000,Tuyen Quang,Ngon ngu Anh,P@ssword135
+41022435,do thi thanh nha,31-12-1999,Gia Lai,Marketing,P@ssword135
+41022439,le thi my duyen,13-8-2000,Soc Trang,Thu ky van phong,P@ssword135
+41022440,thai thi thuy ngan,12-6-2000,Tuyen Quang,Truyen thong va Mang may tinh,P@ssword135
+41022441,le thi thuy trang,23-2-2000,Ca Mau,Quan tri Du Lich & Lu hanh,P@ssword135
+41022442,nguyen huynh thu truc,17-5-2000,Ha Giang,He thong thong tin quan ly,P@ssword135
+41022446,do hong tuyen,31-10-2000,Thanh Hoa,Tai chinh ngan hang,P@ssword135
+41022447,ho thanh phuong,25-7-2000,Lai Chau,Toan ung dung,P@ssword135
+41022448,dao duy long,31-3-2000,Dak Nong,Anh van thuong mai,P@ssword135
+41022449,ho ngoc minh vu,25-11-2000,Nghe An,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41022454,le nguyen kim ngan,29-2-2000,Son La,Toan ung dung,P@ssword135
+41022460,le dinh khanh,14-7-2000,Dien Bien,Do hoa Multimedia,P@ssword135
+41022462,pham thi ngoc oanh,16-8-2000,Hai Phong,Quan tri Khach San,P@ssword135
+41022463,ngo nhu quynh,5-8-2000,Ninh Thuan,Truyen thong va Mang may tinh,P@ssword135
+41022467,bui thi phi do,22-6-2000,Lang Son,Anh van thuong mai,P@ssword135
+41022468,phung minh anh,5-8-2000,Dong Nai,Quan ly Tai nguyen va moi truong,P@ssword135
+41022469,pham phuong thuy,2-1-2000,Binh Thuan,Quan tri cong nghe truyen thong,P@ssword135
+41022474,nguyen thi my duyen,24-10-2000,Quang Tri,Anh van thuong mai,P@ssword135
+41022476,do thanh dat,21-11-1999,Quang Ninh,Toan ung dung,P@ssword135
+41022477,luu thi huong,22-7-2000,Tay Ninh,Quan tri nhan luc,P@ssword135
+41022481,hoang thi bich tram,31-12-1999,Ba Ria - Vung Tau,Anh van thuong mai,P@ssword135
+41022482,bui van nam,5-8-2000,Nghe An,Anh van thuong mai,P@ssword135
+41022483,vu thi thu thuy,6-2-2000,Ha Noi,Kinh doanh quoc te,P@ssword135
+41022484,le dai phuoc,16-5-2000,Binh Duong,Quan tri kinh doanh,P@ssword135
+41022488,tran quynh nhu,9-8-2000,Lam Dong,Thiet ke noi that,P@ssword135
+41022491,vo thi cam tu,25-2-2000,Phu Yen,Quan tri Khach San,P@ssword135
+41022496,phan xuan tan,27-12-2000,Binh Duong,Truyen thong va Mang may tinh,P@ssword135
+41022497,dang le hoang trinh,23-7-2000,Hai Phong,Cong nghe thong tin,P@ssword135
+41022498,cao thi thuy hang,7-4-1997,Lam Dong,Toan ung dung,P@ssword135
+41022502,mai vo nhat quynh,6-11-2000,Lao Cai,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41022503,vo thi hien,8-1-2000,Phu Tho,Thu ky y khoa,P@ssword135
+41022504,vu thi ha,27-7-1999,Yen Bai,Quan tri Du Lich & Lu hanh,P@ssword135
+41022505,duong hoa trinh,5-2-2000,Cao Bang,Quan tri kinh doanh,P@ssword135
+41022510,truong do thanh ngan,24-4-2000,Cao Bang,Tai chinh ngan hang,P@ssword135
+41022512,nguyen thi ngoc anh,21-1-2000,Nghe An,Toan ung dung,P@ssword135
+41022516,le dang ha an,24-11-2000,An Giang,Anh van thuong mai,P@ssword135
+41022517,le thi ngoc bich,16-9-2000,Thai Binh,Ke toan,P@ssword135
+41022519,do thi hong tram,11-8-1999,Ninh Binh,Ky thuat phan mem,P@ssword135
+41022523,nguyen thi thu hue,8-4-2000,Bac Ninh,Thu ky van phong,P@ssword135
+41022524,le thi thuy dung,11-2-2000,Tien Giang,Thu ky van phong,P@ssword135
+41022525,nguyen ngoc ngan,17-4-2000,Vinh Phuc,Toan ung dung,P@ssword135
+41022526,pham thi thu hong bach,12-12-2000,Khanh Hoa,Thiet ke noi that,P@ssword135
+41022531,vu thuy hong ngoc,20-9-2000,Dak Nong,Ky thuat phan mem,P@ssword135
+41022532,nguyen thi luong,12-2-2000,Ha Giang,Quan tri kinh doanh,P@ssword135
+41022533,le thi ai ly,1-11-1998,Bac Giang,Thu ky van phong,P@ssword135
+41022537,huynh thu hien,5-6-2000,Bac Giang,Quan ly Tai nguyen va moi truong,P@ssword135
+41022539,nguyen thi cam tien,27-5-2000,Thai Nguyen,Ngon ngu Anh,P@ssword135
+41022540,to nguyen tuan kiet,3-11-2000,Quang Ninh,Marketing,P@ssword135
+41022544,nguyen thi tien,1-8-1999,Quang Ngai,Quan tri nhan luc,P@ssword135
+41022545,tran nguyen phuong giao,14-2-2000,Vinh Long,Thiet ke noi that,P@ssword135
+41022546,phan thi quynh my,23-4-2000,Hai Duong,Quan tri van phong,P@ssword135
+41022547,le chau quynh nhu,14-9-2000,Binh Thuan,Quan tri Du Lich & Lu hanh,P@ssword135
+41022551,tran duc thinh,23-8-2000,Hai Phong,Quan tri cong nghe truyen thong,P@ssword135
+41022553,nguyen thi thanh tien,7-4-2000,Ha Giang,Tai chinh ngan hang,P@ssword135
+41022554,ta quang vinh,6-10-2000,TP. Ho Chi Minh,Ngon ngu Anh,P@ssword135
+41022558,truong nhu lieu,24-10-2000,Yen Bai,Cong nghe thong tin,P@ssword135
+41022559,tran thi thuy duong,26-6-1999,Kien Giang,Thu ky van phong,P@ssword135
+41022561,vu hai thanh,29-6-2000,Ca Mau,Toan ung dung,P@ssword135
+41022565,nguyen thi thuy vy,28-9-2000,Binh Phuoc,Ngon ngu Anh,P@ssword135
+41022566,vo anh thu,15-4-2000,Lang Son,Thu ky y khoa,P@ssword135
+41022567,nguyen thi my linh,13-9-2000,Binh Duong,Toan ung dung,P@ssword135
+41022568,duong ngoc tram,13-12-2000,Tien Giang,Thu ky y khoa,P@ssword135
+41022573,nguyen kim khanh ha,28-12-2000,Quang Ninh,Thiet ke thoi trang,P@ssword135
+41022574,vo chau khanh hoai,9-4-2000,Bac Giang,Anh van thuong mai,P@ssword135
+41022579,cao tri thanh,21-12-1997,Tra Vinh,Quan tri Khach San,P@ssword135
+41022580,huynh thi thanh tuyet,7-9-2000,Lang Son,Thiet ke thoi trang,P@ssword135
+41022581,chu thi ngoc anh,3-9-2000,Phu Tho,Quan tri nhan luc,P@ssword135
+41022582,nguyen thuy vien,8-2-2000,Thua Thien - Hue,Thu ky y khoa,P@ssword135
+41022586,nguyen hung cuong,15-7-2000,Phu Tho,Thu ky y khoa,P@ssword135
+41022587,nguyen thi tram anh,22-10-1997,Nghe An,Truyen thong va Mang may tinh,P@ssword135
+41022588,pham ha duy,13-11-2000,Bac Kan,Ky thuat phan mem,P@ssword135
+41022589,nguyen lam thao huong,26-5-2000,Hoa Binh,Marketing,P@ssword135
+41022593,hoang thi thanh yen,19-4-1999,Ninh Thuan,Tai chinh ngan hang,P@ssword135
+41022594,vo ngoc loan anh,21-7-2000,Can Tho,Quan tri van phong,P@ssword135
+41022595,duong hoang quyen,6-6-2000,Thanh Hoa,Quan ly Tai nguyen va moi truong,P@ssword135
+41022596,huynh tan hao,11-2-1998,TP. Ho Chi Minh,Cong nghe thong tin,P@ssword135
+41022600,le thi thanh nga,23-2-2000,Tra Vinh,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41022602,nguyen thi thanh huyen,8-2-2000,Thai Nguyen,Quan tri nhan luc,P@ssword135
+41022603,nguyen hung dang phuong,9-8-2000,Binh Thuan,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41022607,truong hoai nam,24-9-1998,Phu Tho,Thu ky van phong,P@ssword135
+41022608,phan huynh duc,23-9-2000,Hoa Binh,Quan ly Tai nguyen va moi truong,P@ssword135
+41022610,le thi ngoc hiep,3-4-1996,Dak Nong,Ky thuat phan mem,P@ssword135
+41022614,dao thi quynh nhu,3-2-2000,Thai Nguyen,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41022615,ngo phuc yen nhi,28-7-2000,Gia Lai,Ke toan,P@ssword135
+41022616,pham ngoc to linh,3-8-2000,Kon Tum,Thu ky y khoa,P@ssword135
+41022617,lam huu phuoc,11-1-2000,Ca Mau,Marketing,P@ssword135
+41022621,nguyen thi tuyet dung,13-10-2000,Dien Bien,Ky thuat phan mem,P@ssword135
+41022622,tran thi ngoc,3-8-1999,Lai Chau,Marketing,P@ssword135
+41022623,tran tuan huy,5-4-2000,Bac Lieu,He thong thong tin quan ly,P@ssword135
+41022624,tran thi phuong xuan,27-11-2000,Son La,Quan tri cong nghe truyen thong,P@ssword135
+41022628,tran minh chau,18-4-2000,TP. Ho Chi Minh,Quan tri nhan luc,P@ssword135
+41022629,ha thi my chuyen,17-1-2000,Hung Yen,Truyen thong va Mang may tinh,P@ssword135
+41022631,dau nhat minh,18-3-2000,Tien Giang,Thu ky van phong,P@ssword135
+41022635,dao thi thu uyen,13-7-1996,Tra Vinh,Toan ung dung,P@ssword135
+41022638,bui dang quang,7-8-2000,Binh Phuoc,Cong nghe thong tin,P@ssword135
+41022642,nguyen thi hong ngoc,3-11-1999,Can Tho,Quan tri Du Lich & Lu hanh,P@ssword135
+41022645,le thi thu van,6-2-2000,Son La,Quan tri cong nghe truyen thong,P@ssword135
+41022649,huynh duc huy,2-5-2000,Quang Binh,Kinh doanh quoc te,P@ssword135
+41022650,nguyen thi mai sinh,19-3-2000,TP. Ho Chi Minh,Do hoa Multimedia,P@ssword135
+41022651,vu dong thao,6-11-2000,Dak Nong,Kinh doanh quoc te,P@ssword135
+41022652,nguyen thi phi hai,2-2-2000,Hung Yen,Thu ky van phong,P@ssword135
+41022657,ha gia quyen,19-4-2000,Tien Giang,Cong nghe thong tin,P@ssword135
+41022658,pham thanh tra,27-9-2000,Hung Yen,Toan ung dung,P@ssword135
+41022659,le ngoc anh,19-11-2000,Ben Tre,Thu ky y khoa,P@ssword135
+41022663,vuong khanh minh duc,19-6-2000,Binh Dinh,Thu ky y khoa,P@ssword135
+41022664,nguyen thanh huyen,6-4-2000,Ninh Binh,Quan tri Du Lich & Lu hanh,P@ssword135
+41022665,pham ngoc khue,23-11-2000,Yen Bai,Toan ung dung,P@ssword135
+41022670,phan thanh thu ha,8-2-2000,Quang Binh,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41022671,ngo thi thu trang,2-7-2000,Quang Tri,Thu ky y khoa,P@ssword135
+41022672,bui duy hung,5-3-2000,Vinh Phuc,Quan tri nhan luc,P@ssword135
+41022678,nguyen hoang dan thanh,12-9-2000,Binh Thuan,Anh van thuong mai,P@ssword135
+41022679,huynh thi kim trinh,8-7-2000,Son La,Ngon ngu Anh,P@ssword135
+41022680,truong thi hong dao,25-11-1999,Ca Mau,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41022684,nguyen thi thanh tuyen,22-11-1999,Lam Dong,He thong thong tin quan ly,P@ssword135
+41022685,ho thi kim thoa,11-3-1997,Kien Giang,Quan tri kinh doanh,P@ssword135
+41022686,huynh thi thao nguyen,3-7-2000,Cao Bang,Anh van thuong mai,P@ssword135
+41022687,luu hoang truc nhi,15-11-2000,Yen Bai,He thong thong tin quan ly,P@ssword135
+41022691,tran nguyen mong thuy,30-4-2000,Lai Chau,Truyen thong va Mang may tinh,P@ssword135
+41022692,nguyen duc hoang lam,3-5-2000,Dong Nai,Thu ky y khoa,P@ssword135
+41022698,nguyen thiet duy,23-2-2000,Quang Nam,Quan ly Tai nguyen va moi truong,P@ssword135
+41022701,pham thi kim duyen,14-3-1998,Ha Giang,Anh van thuong mai,P@ssword135
+41022705,le thi tuyet trinh,20-10-2000,Dien Bien,Thiet ke noi that,P@ssword135
+41022706,ho nguyen quoc thanh,16-3-2000,Bac Kan,Truyen thong va Mang may tinh,P@ssword135
+41022707,diep thanh tuyen,14-10-1997,Bac Giang,Quan ly Tai nguyen va moi truong,P@ssword135
+41022708,vo thi thao nguyen,22-11-2000,Bac Kan,Tai chinh ngan hang,P@ssword135
+41022712,nguyen thi phuong my,20-2-2000,Thua Thien - Hue,Quan tri cong nghe truyen thong,P@ssword135
+41022714,dang thi trang,24-7-2000,Quang Ngai,Thu ky y khoa,P@ssword135
+41022715,duong cam tu,27-3-2000,Phu Tho,Tai chinh ngan hang,P@ssword135
+41022719,ho ngoc quynh nhu,23-12-1997,Dak Nong,Ke toan,P@ssword135
+41022720,nguyen dang thanh truc,19-1-2000,Thua Thien - Hue,Quan tri kinh doanh,P@ssword135
+41022721,pham ngoc thuy tien,10-6-2000,Binh Thuan,Ke toan,P@ssword135
+41022722,nguyen thi bich khoa,8-9-2000,Hai Duong,Truyen thong va Mang may tinh,P@ssword135
+41022726,nguyen thi kim vi,6-1-2000,Can Tho,Thiet ke noi that,P@ssword135
+41022728,doan nguyet quynh,21-5-2000,Binh Dinh,Thu ky y khoa,P@ssword135
+41022729,bui huy hung,22-10-2000,Cao Bang,Thu ky van phong,P@ssword135
+41022733,bui thu thao,8-6-2000,Ha Giang,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41022734,le bach thanh thao,8-4-2000,Khanh Hoa,Anh van thuong mai,P@ssword135
+41022735,phan thi kim thoa,22-2-2000,Khanh Hoa,Do hoa Multimedia,P@ssword135
+41022736,le hoang phu,7-9-2000,Binh Thuan,Tai chinh ngan hang,P@ssword135
+41022740,dinh sy bao,5-1-2000,Dong Nai,Quan tri Du Lich & Lu hanh,P@ssword135
+41022741,tran thi vinh sang,16-7-2000,Bac Kan,Quan tri nhan luc,P@ssword135
+41022742,do thi thanh huyen,18-1-2000,Bac Giang,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41022743,nguyen thi thao,21-3-2000,Khanh Hoa,He thong thong tin quan ly,P@ssword135
+41022747,ho nguyen le hang,7-4-2000,Thai Binh,Quan tri kinh doanh,P@ssword135
+41022750,nguyen ngoc hien,28-1-2000,Quang Ngai,Do hoa Multimedia,P@ssword135
+41022754,tang thi cam hoang,18-12-1998,Binh Duong,Ky thuat phan mem,P@ssword135
+41022755,nguyen hoang phuong uyen,2-6-2000,Tra Vinh,Quan tri cong nghe truyen thong,P@ssword135
+41022756,nguyen thi hoang lam,6-11-2000,Yen Bai,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41022757,nguyen hoang quynh,12-11-2000,Quang Nam,Ke toan,P@ssword135
+41022761,pham thi mai phuong,16-2-2000,Quang Nam,Ngon ngu Anh,P@ssword135
+41022762,tran thi hanh dung,28-3-2000,Bac Lieu,Tai chinh ngan hang,P@ssword135
+41022763,tran thanh tu,29-12-2000,Binh Duong,Thu ky y khoa,P@ssword135
+41022764,tran thien gia huy,23-5-2000,Phu Tho,Quan tri nhan luc,P@ssword135
+41022768,dang quynh giao,31-8-2000,Lai Chau,Quan tri van phong,P@ssword135
+41022770,vuong tu hoa,29-4-2000,Dak Nong,Quan ly Tai nguyen va moi truong,P@ssword135
+41022775,nguyen ngoc thao vy,22-2-2000,Nghe An,Kinh doanh quoc te,P@ssword135
+41022776,do thi bich diem,9-9-1999,Long An,Ke toan,P@ssword135
+41022777,phan hai quang,19-8-2000,Yen Bai,Quan tri Khach San,P@ssword135
+41022778,ly gia han,27-4-2000,Tra Vinh,Kinh doanh quoc te,P@ssword135
+41022782,hoang kim chi,17-4-2000,Binh Thuan,Cong nghe thong tin,P@ssword135
+41022783,pham van tuan,6-1-1994,Bac Ninh,Cong nghe thong tin,P@ssword135
+41022784,luong hoang lan anh,23-5-2000,Ninh Thuan,Quan tri Du Lich & Lu hanh,P@ssword135
+41022785,nguyen thi thao nguyen,10-11-2000,Soc Trang,Thiet ke thoi trang,P@ssword135
+41022789,vo thi ngoc nhung,16-11-2000,Tuyen Quang,Thiet ke do hoa,P@ssword135
+41022790,tran thi thu thao,28-9-2000,Ben Tre,He thong thong tin quan ly,P@ssword135
+41022791,phan thi hai yen,16-2-1997,Bac Giang,Quan tri Du Lich & Lu hanh,P@ssword135
+41022792,bui thi tin,19-9-2000,Vinh Phuc,Quan tri cong nghe truyen thong,P@ssword135
+41022796,nguyen phuc thien chinh,5-12-2000,Dien Bien,Anh van thuong mai,P@ssword135
+41022797,nguyen xuan quy,11-7-2000,Hai Duong,Quan tri kinh doanh,P@ssword135
+41022798,huynh kim bao,5-8-1999,Thua Thien - Hue,Quan tri van phong,P@ssword135
+41022799,nguyen thi khanh linh,21-12-2000,Phu Tho,Cong nghe thong tin,P@ssword135
+41022804,ton that phi dung,18-11-1997,Ba Ria - Vung Tau,Ky thuat phan mem,P@ssword135
+41022805,pham ngoc phuong thanh,26-11-1999,Phu Tho,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41022810,nguyen thi phuong dung,7-12-1999,Bac Ninh,Quan tri kinh doanh,P@ssword135
+41022811,tran ha my,25-10-2000,Dak Nong,Thu ky y khoa,P@ssword135
+41022812,nguyen ngoc thai binh,4-9-2000,Bac Kan,Quan tri Khach San,P@ssword135
+41022813,pham thi ngoc huyen,7-10-2000,Dong Nai,He thong thong tin quan ly,P@ssword135
+41022817,dang quang minh,7-12-2000,Phu Yen,Quan tri van phong,P@ssword135
+41022818,tran thi ngoc tham,6-4-2000,Ca Mau,Quan tri Du Lich & Lu hanh,P@ssword135
+41022819,ho lam khanh vi,9-12-2000,Ha Nam,Anh van thuong mai,P@ssword135
+41022820,nguyen tuong vi,24-10-2000,Ha Giang,Quan tri kinh doanh,P@ssword135
+41022826,nguyen thi ly,18-12-2000,Gia Lai,Anh van thuong mai,P@ssword135
+41022827,le nhu quynh,5-6-2000,Bac Ninh,Quan tri Khach San,P@ssword135
+41022831,phan phoi ngoc,1-2-2000,Vinh Long,Quan ly Tai nguyen va moi truong,P@ssword135
+41022833,doan xuan phu,11-3-2000,Lao Cai,Tai chinh ngan hang,P@ssword135
+41022834,pham van ben,27-10-2000,Binh Dinh,Tai chinh ngan hang,P@ssword135
+41022838,dang le bao tran,16-6-2000,Nghe An,Thu ky y khoa,P@ssword135
+41022839,vu thi my,25-1-1998,Lao Cai,Quan tri kinh doanh,P@ssword135
+41022840,nguyen ngoc anh thu,21-3-2000,Tuyen Quang,Thiet ke noi that,P@ssword135
+41022841,tran le que thanh,5-11-2000,Nam Dinh,Thu ky van phong,P@ssword135
+41022845,nguyen cam nhung,14-1-2000,Ca Mau,Thu ky van phong,P@ssword135
+41022846,nguyen thanh binh,6-1-2000,Kon Tum,Cong nghe thong tin,P@ssword135
+41022847,tran ngoc dan vy,19-4-1999,Bac Lieu,Thiet ke do hoa,P@ssword135
+41022848,nguyen chau my han,5-4-2000,Kon Tum,Thiet ke thoi trang,P@ssword135
+41022852,ho my linh,6-8-2000,Lao Cai,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41022853,nguyen thi thanh thuy,5-9-2000,Yen Bai,Ky thuat phan mem,P@ssword135
+41022854,le thi thao nguyen,22-10-2000,Ha Noi,Toan ung dung,P@ssword135
+41022855,le tran anh thu,9-10-2000,Tay Ninh,Thu ky van phong,P@ssword135
+41022859,huynh thi bich trinh,24-7-2000,Bac Ninh,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41022860,luong thi hong tham,10-7-2000,Dak Nong,Thiet ke thoi trang,P@ssword135
+41022861,do thi tu trinh,1-4-2000,Lam Dong,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41022866,le thi huong thao,9-10-2000,Quang Nam,Thu ky van phong,P@ssword135
+41022867,nguyen ngoc phuong dung,15-10-1999,Nam Dinh,Thiet ke thoi trang,P@ssword135
+41022869,truong huy hoang,1-8-2000,Quang Ninh,Cong nghe thong tin,P@ssword135
+41022873,vu thi ngoc anh,17-12-2000,Thua Thien - Hue,Thu ky van phong,P@ssword135
+41022874,bui thi hien trang,8-9-2000,TP. Ho Chi Minh,Thu ky van phong,P@ssword135
+41022875,tran thi hoai nhu,20-9-2000,Son La,Marketing,P@ssword135
+41022876,ngo thi hoang oanh,5-3-2000,Lang Son,Thu ky van phong,P@ssword135
+41022880,luu nguyen hoan phong,8-12-2000,Vinh Long,Quan ly Tai nguyen va moi truong,P@ssword135
+41022881,banh thien an,20-1-2000,TP. Ho Chi Minh,Quan tri van phong,P@ssword135
+41022882,truong thanh huyen,2-2-2000,An Giang,Do hoa Multimedia,P@ssword135
+41022883,tran quoc dat,14-12-2000,Bac Ninh,Quan tri Du Lich & Lu hanh,P@ssword135
+41022888,nguyen hoang duy,1-10-1999,Thanh Hoa,Ke toan,P@ssword135
+41022889,nguyen thi nha truc,15-1-2000,Quang Ninh,Thiet ke do hoa,P@ssword135
+41022894,nguyen phan thien ngoc,21-10-2000,Ha Noi,Tai chinh ngan hang,P@ssword135
+41022895,doan thi van khanh,11-12-2000,Dong Thap,Quan ly Tai nguyen va moi truong,P@ssword135
+41022896,nguyen thi cam nhung,15-11-2000,Tra Vinh,Truyen thong va Mang may tinh,P@ssword135
+41022897,nguyen thi thanh tam,11-5-2000,Quang Ninh,Quan tri kinh doanh,P@ssword135
+41022901,ngo thi minh tam,5-7-2000,Quang Tri,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41022902,nguyen thi thao nguyen,6-7-1995,Tay Ninh,Anh van thuong mai,P@ssword135
+41022903,vo thi minh nhi,24-6-1998,Tay Ninh,Toan ung dung,P@ssword135
+41022904,dang thanh tri,25-8-2000,Kon Tum,Anh van thuong mai,P@ssword135
+41022908,doan thi phuong thao,4-5-2000,Dak Nong,Ky thuat phan mem,P@ssword135
+41022909,gia minh thi,26-11-2000,Ha Noi,Thiet ke do hoa,P@ssword135
+41022911,nguyen thi ngoc quy,26-8-2000,Phu Tho,Quan tri cong nghe truyen thong,P@ssword135
+41022915,bui trung hieu,30-11-1999,Cao Bang,Toan ung dung,P@ssword135
+41022916,nguyen quoc dung,4-9-2000,Bac Kan,Thu ky van phong,P@ssword135
+41022918,lam duy duc,25-3-2000,Vinh Long,Thu ky y khoa,P@ssword135
+41022922,le thi thuy trang,26-11-2000,Dong Nai,Toan ung dung,P@ssword135
+41022923,nguyen vu thuy duyen,31-1-1999,Quang Ngai,Truyen thong va Mang may tinh,P@ssword135
+41022925,nguyen tran khanh vy,17-12-2000,Lao Cai,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41022930,nguyen thi ngoc tram,24-11-2000,Lang Son,Quan tri nhan luc,P@ssword135
+41022931,le phan thuy linh,12-7-2000,Gia Lai,Quan tri cong nghe truyen thong,P@ssword135
+41022932,phan vu bao ngan,19-12-2000,Dong Nai,Quan tri kinh doanh,P@ssword135
+41022936,ngo van quang,13-11-2000,Tien Giang,Quan tri Khach San,P@ssword135
+41022937,thai bich tran,17-12-2000,Long An,Do hoa Multimedia,P@ssword135
+41022938,dinh thi hong sang,28-6-2000,Yen Bai,Tai chinh ngan hang,P@ssword135
+41022943,nguyen mai thuong uyen,1-1-1999,Bac Kan,Anh van thuong mai,P@ssword135
+41022945,le thi hong tuoi,5-2-1999,Ba Ria - Vung Tau,Thu ky y khoa,P@ssword135
+41022950,nguyen thi thanh hien,9-10-2000,Cao Bang,Thu ky y khoa,P@ssword135
+41022951,ngo thi my nga,17-8-2000,Lang Son,Quan tri nhan luc,P@ssword135
+41022952,bui thi my duyen,28-2-2000,Bac Giang,Quan ly Tai nguyen va moi truong,P@ssword135
+41022953,tran thi phuong thao,1-3-2000,Hai Duong,Thiet ke do hoa,P@ssword135
+41022957,nguyen quoc dung,24-2-2000,Dong Thap,Quan ly Tai nguyen va moi truong,P@ssword135
+41022958,nguyen huynh nhu thao,20-10-2000,Ninh Thuan,Do hoa Multimedia,P@ssword135
+41022959,pham thanh thuy,5-5-2000,Soc Trang,Quan tri kinh doanh,P@ssword135
+41022960,hua hoang ha vy,7-2-2000,Lang Son,Thiet ke noi that,P@ssword135
+41022964,nguyen thi thao,9-7-2000,Long An,Ky thuat phan mem,P@ssword135
+41022965,le thi hang,15-6-1999,Cao Bang,Ngon ngu Anh,P@ssword135
+41022967,tran thi thien thanh,4-7-2000,Nam Dinh,Thu ky y khoa,P@ssword135
+41022971,pham nguyen truc linh,17-4-2000,Thua Thien - Hue,Marketing,P@ssword135
+41022973,bui linh da,9-7-2000,Bac Lieu,Thiet ke thoi trang,P@ssword135
+41022974,nguyen thi my linh,28-9-2000,Hai Duong,Kinh doanh quoc te,P@ssword135
+41022978,dinh thi thu thuy,4-2-2000,Tay Ninh,Thiet ke thoi trang,P@ssword135
+41022980,tran thi my hong,21-8-2000,Lam Dong,Quan tri Du Lich & Lu hanh,P@ssword135
+41022985,nguyen my tam thy,16-1-2000,Dak Nong,Quan tri cong nghe truyen thong,P@ssword135
+41022986,le thi hien,2-12-2000,Hai Phong,Quan ly Tai nguyen va moi truong,P@ssword135
+41022987,tang ngoc linh,14-6-2000,Kon Tum,Quan ly Tai nguyen va moi truong,P@ssword135
+41022988,vo thi cam ha,7-5-2000,Lao Cai,Thu ky van phong,P@ssword135
+41022992,phan nguyen tuong vy,17-2-2000,TP. Ho Chi Minh,Truyen thong va Mang may tinh,P@ssword135
+41022993,nguyen thi my nu,4-2-2000,An Giang,Ke toan,P@ssword135
+41022994,truong thu huong,25-11-2000,Nam Dinh,Cong nghe thong tin,P@ssword135
+41022995,le gia han,1-2-2000,Kon Tum,Thiet ke do hoa,P@ssword135
+41022999,tran nguyen hieu phong,26-5-1999,Binh Thuan,Kinh doanh quoc te,P@ssword135
+41023000,truong thi my huong,8-6-2000,Tay Ninh,Quan tri nhan luc,P@ssword135
+41023001,nguyen thi hong van,2-1-2000,Binh Dinh,Cong nghe thong tin,P@ssword135
+41023002,truong thi thuy tien,15-2-1999,Long An,Thiet ke noi that,P@ssword135
+41023006,nguyen vu kim hoang,27-1-2000,Ben Tre,Quan tri Du Lich & Lu hanh,P@ssword135
+41023007,duong hoang minh tan,4-8-2000,Binh Phuoc,Quan tri van phong,P@ssword135
+41023009,dang ngoc canh,7-4-2000,Ben Tre,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41023015,nguyen thi hoang uyen,4-1-2000,Ha Nam,Truyen thong va Mang may tinh,P@ssword135
+41023016,ngo dieu minh,1-2-1994,Son La,Cong nghe thong tin,P@ssword135
+41023021,huynh khanh linh,17-11-2000,Ha Giang,Cong nghe thong tin,P@ssword135
+41023022,lam thi dung,23-4-2000,Thai Nguyen,Thiet ke noi that,P@ssword135
+41023023,le thi minh trang,28-11-2000,Tien Giang,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41023028,dang hoang anh mai,7-4-2000,Binh Dinh,Quan tri cong nghe truyen thong,P@ssword135
+41023029,dang thi ly ly,8-11-2000,Dak Lak,Quan tri Khach San,P@ssword135
+41023030,phan thi dan mach,18-11-2000,Bac Kan,Ky thuat phan mem,P@ssword135
+41023034,bui quoc huy,19-1-1998,Can Tho,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41023035,luong hoang huy dang,23-7-2000,Lam Dong,Kinh doanh quoc te,P@ssword135
+41023036,vo thi yen,19-2-2000,Quang Binh,Quan tri Du Lich & Lu hanh,P@ssword135
+41023037,dien minh nhat,9-5-2000,Dien Bien,Truyen thong va Mang may tinh,P@ssword135
+41023042,nguyen thi my nhung,28-12-2000,Lai Chau,Do hoa Multimedia,P@ssword135
+41023043,ho van loc,12-5-2000,Vinh Phuc,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41023044,nguyen thi nhu quynh,15-4-1998,Kien Giang,Thiet ke thoi trang,P@ssword135
+41023048,pham van ban,5-11-2000,Hai Phong,Thu ky van phong,P@ssword135
+41023049,nguyen thuy van,6-3-2000,Binh Dinh,Toan ung dung,P@ssword135
+41023050,tran man ky,17-8-2000,Tra Vinh,Quan tri cong nghe truyen thong,P@ssword135
+41023055,nguyen thi huyen,6-3-2000,Quang Ngai,Do hoa Multimedia,P@ssword135
+41023056,chau ngoc bao,15-12-2000,Can Tho,Quan tri cong nghe truyen thong,P@ssword135
+41023057,nguyen huu cong thanh,11-4-2000,Quang Ninh,Cong nghe thong tin,P@ssword135
+41023058,dao ngoc cam tu,27-3-1996,Kien Giang,Cong nghe thong tin,P@ssword135
+41023062,vo trong hau,19-2-2000,Ha Giang,Thiet ke thoi trang,P@ssword135
+41023063,nguyen cong thanh,15-1-2000,Vinh Phuc,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41023064,pham hoai thu,15-7-2000,Lai Chau,Quan tri nhan luc,P@ssword135
+41023069,nguyen thi thu trang,8-7-1994,Yen Bai,Thiet ke noi that,P@ssword135
+41023071,tran thi kieu,11-1-2000,Dong Nai,Kinh doanh quoc te,P@ssword135
+41023072,hoang thi thuy trinh,7-9-1999,Long An,Quan ly Tai nguyen va moi truong,P@ssword135
+41023076,pham thuy lien,11-8-2000,Bac Giang,Tai chinh ngan hang,P@ssword135
+41023077,luu ngoc minh chau,19-1-2000,Thai Nguyen,Quan tri cong nghe truyen thong,P@ssword135
+41023079,tran my loc,19-10-2000,Long An,Ky thuat phan mem,P@ssword135
+41023083,nguyen tran khanh duy,10-5-2000,Binh Phuoc,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41023084,nguyen pham minh thy,23-1-2000,Tien Giang,Quan tri nhan luc,P@ssword135
+41023085,lam thi ngoc duyen,22-12-1997,Ben Tre,Quan tri van phong,P@ssword135
+41023086,do thi my hien,15-8-2000,Vinh Phuc,Ke toan,P@ssword135
+41023090,luong thi be,15-10-1999,Nam Dinh,Quan tri Du Lich & Lu hanh,P@ssword135
+41023093,tran thi hong van,19-11-2000,Dong Nai,Toan ung dung,P@ssword135
+41023097,duong thanh loi,26-4-2000,Quang Ngai,Ke toan,P@ssword135
+41023098,huynh trung hau,28-1-2000,Ha Noi,Quan tri kinh doanh,P@ssword135
+41023099,vo dinh tinh,28-1-2000,Quang Tri,Kinh doanh quoc te,P@ssword135
+41023100,nguyen thi thuy tien,21-11-2000,Ninh Binh,Tai chinh ngan hang,P@ssword135
+41023107,truong the quang,6-10-2000,Binh Thuan,Anh van thuong mai,P@ssword135
+41023111,nguyen lam tram anh,1-12-2000,Tuyen Quang,Thiet ke thoi trang,P@ssword135
+41023113,nguyen thai phi,22-10-2000,Ha Giang,Toan ung dung,P@ssword135
+41023114,duong thanh khuong,21-6-2000,Bac Lieu,Ky thuat phan mem,P@ssword135
+41023118,pham minh hai,24-8-2000,Thai Binh,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41023119,huynh diep cam tien,6-10-2000,Ba Ria - Vung Tau,Quan tri Du Lich & Lu hanh,P@ssword135
+41023121,lu thi kim hien,3-3-2000,Dong Nai,Thiet ke noi that,P@ssword135
+41023125,tran thi kim lan,16-2-2000,Ha Giang,Quan tri cong nghe truyen thong,P@ssword135
+41023126,vo thi cam giang,20-11-2000,Ca Mau,He thong thong tin quan ly,P@ssword135
+41023128,trinh thi thu huyen,8-4-2000,Nam Dinh,Quan tri nhan luc,P@ssword135
+41023132,nguyen tan tai,6-4-2000,Vinh Long,Tai chinh ngan hang,P@ssword135
+41023133,hang thi xuan kieu,2-11-1999,Dak Lak,Ky thuat phan mem,P@ssword135
+41023134,tran thi canh giang,17-3-2000,Cao Bang,Thiet ke noi that,P@ssword135
+41023135,nguyen hoang thuy vi,31-12-1999,Bac Lieu,He thong thong tin quan ly,P@ssword135
+41023140,bui dinh quoc duy,19-10-2000,Ha Giang,Cong nghe thong tin,P@ssword135
+41023141,nguyen thi hoang anh,12-10-2000,Ben Tre,Quan tri nhan luc,P@ssword135
+41023142,do thi minh hai,20-12-2000,Ha Noi,Quan tri Du Lich & Lu hanh,P@ssword135
+41023146,ngo van phu,25-2-2000,Long An,Thiet ke noi that,P@ssword135
+41023147,ngo my nu,11-12-2000,Ba Ria - Vung Tau,Cong nghe thong tin,P@ssword135
+41023148,pham thi phuong hoa,4-9-2000,Ben Tre,Toan ung dung,P@ssword135
+41023149,pham quoc cong,19-11-2000,Kien Giang,Quan tri Khach San,P@ssword135
+41023153,tran thi ngoc thuy,21-9-2000,Tra Vinh,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41023154,nguyen thi lan,31-7-2000,Thai Binh,Kinh doanh quoc te,P@ssword135
+41023156,nguyen thanh cong,19-6-2000,Nam Dinh,Ke toan,P@ssword135
+41023160,than hoang vu,23-9-2000,Phu Yen,Quan tri kinh doanh,P@ssword135
+41023161,truong anh phuoc,6-12-1998,Bac Lieu,Toan ung dung,P@ssword135
+41023162,huynh ngoc phuong,9-9-2000,Son La,Anh van thuong mai,P@ssword135
+41023163,vo thi y nhi,17-11-2000,Lao Cai,Thu ky van phong,P@ssword135
+41023167,nguyen thi hong hanh,6-11-2000,Thua Thien - Hue,Quan tri Du Lich & Lu hanh,P@ssword135
+41023168,vu thi khanh ha,16-2-2000,Lao Cai,Ngon ngu Anh,P@ssword135
+41023169,huynh ngoc thao,11-12-2000,Ninh Thuan,Thiet ke noi that,P@ssword135
+41023170,pham nguyen khoi,29-12-2000,Tay Ninh,Marketing,P@ssword135
+41023174,hoang nhat ha,14-4-2000,Phu Tho,Quan tri nhan luc,P@ssword135
+41023175,pham thi thu,27-4-2000,Soc Trang,Cong nghe thong tin,P@ssword135
+41023176,le viet thanh,20-11-2000,Lang Son,Marketing,P@ssword135
+41023177,le thanh que tram,8-12-2000,Dien Bien,Quan tri kinh doanh,P@ssword135
+41023181,ly tran tho ai,31-12-1999,Tuyen Quang,Quan tri cong nghe truyen thong,P@ssword135
+41023182,nguyen hoai khanh linh,31-5-2000,Binh Phuoc,Thiet ke thoi trang,P@ssword135
+41023183,nguyen thi hoang yen,8-4-2000,Lang Son,Do hoa Multimedia,P@ssword135
+41023184,nguyen bach ngan,18-1-2000,Can Tho,Quan tri kinh doanh,P@ssword135
+41023188,le hoang bao tram,23-5-1998,Phu Tho,Quan tri van phong,P@ssword135
+41023189,tran thien nhan,13-11-1999,Ha Tinh,Truyen thong va Mang may tinh,P@ssword135
+41023191,truong dinh khanh,15-8-2000,Soc Trang,He thong thong tin quan ly,P@ssword135
+41023196,ton nu minh trang,1-4-2000,Vinh Long,He thong thong tin quan ly,P@ssword135
+41023202,tran thi le bich,9-4-2000,Thua Thien - Hue,Thiet ke do hoa,P@ssword135
+41023203,dang thi huong giang,15-6-2000,Dong Nai,Ky thuat phan mem,P@ssword135
+41023205,nguyen tan vi,25-6-1999,Quang Tri,Marketing,P@ssword135
+41023209,tran thi bao ngoc,14-8-2000,Lao Cai,Kinh doanh quoc te,P@ssword135
+41023210,nguyen ngoc quynh thy,16-4-2000,Ha Giang,Quan tri Du Lich & Lu hanh,P@ssword135
+41023211,cao thi hien,3-10-2000,Ninh Thuan,Ky thuat phan mem,P@ssword135
+41023212,tram khac su,23-4-2000,Hung Yen,Thu ky y khoa,P@ssword135
+41023216,do ha to uyen,7-6-2000,Nghe An,Truyen thong va Mang may tinh,P@ssword135
+41023217,ngo thi minh trang,11-1-2000,Vinh Phuc,Thu ky van phong,P@ssword135
+41023223,nguyen thi hong nhung,13-7-2000,Son La,Thu ky van phong,P@ssword135
+41023224,nguyen duc liem,7-1-2000,Dak Nong,Ngon ngu Anh,P@ssword135
+41023225,do thi anh,2-10-2000,Ha Giang,Ngon ngu Anh,P@ssword135
+41023226,bui ngoc bich tram,10-4-1999,Tay Ninh,Quan tri cong nghe truyen thong,P@ssword135
+41023230,le cong tuan,14-11-2000,Tay Ninh,Thiet ke do hoa,P@ssword135
+41023232,le thi hong hanh,9-5-2000,Binh Phuoc,Truyen thong va Mang may tinh,P@ssword135
+41023233,nguyen huy khoi,4-10-2000,Thai Binh,Quan tri nhan luc,P@ssword135
+41023237,cung trong hau,16-9-2000,Lang Son,Anh van thuong mai,P@ssword135
+41023238,tran bao nhien,17-12-2000,Long An,He thong thong tin quan ly,P@ssword135
+41023239,ha nhuan cam,29-9-2000,Son La,Thiet ke noi that,P@ssword135
+41023240,nguyen ngoc anh thu,23-7-2000,Hai Phong,Do hoa Multimedia,P@ssword135
+41023244,le ngo bao tram,2-6-1996,Quang Nam,Ke toan,P@ssword135
+41023245,cao nguyen phuong thanh,26-4-2000,Ninh Thuan,Ky thuat phan mem,P@ssword135
+41023246,phan thi thanh thuy,27-2-1999,Can Tho,Thiet ke do hoa,P@ssword135
+41023247,hong khac bach long,26-11-2000,Ba Ria - Vung Tau,Quan tri nhan luc,P@ssword135
+41023253,nguyen hoang y,30-11-2000,Thanh Hoa,Quan tri kinh doanh,P@ssword135
+41023254,nguyen van hai,4-1-2000,Ha Nam,Ky thuat phan mem,P@ssword135
+41023258,tran le ngoc doanh,7-2-2000,Ninh Thuan,Ke toan,P@ssword135
+41023259,truong thi lan trinh,1-11-2000,Soc Trang,Ky thuat phan mem,P@ssword135
+41023260,pham minh tri,7-11-2000,Tien Giang,Ngon ngu Anh,P@ssword135
+41023261,tran thi my quyen,1-1-2000,Quang Tri,Tai chinh ngan hang,P@ssword135
+41023266,pham hoang a tien,7-9-2000,Hoa Binh,Cong nghe thong tin,P@ssword135
+41023267,phan viet khai,9-9-1996,Gia Lai,Quan ly Tai nguyen va moi truong,P@ssword135
+41023268,mai thi thanh kieu,27-4-2000,Kien Giang,Marketing,P@ssword135
+41023272,le nhat phuong,1-9-1996,Ben Tre,Quan tri kinh doanh,P@ssword135
+41023273,ho thi mai ly,25-8-1999,An Giang,Kinh doanh quoc te,P@ssword135
+41023274,vu thi cam van,20-4-2000,Bac Ninh,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41023275,nguyen thi thoa,5-5-2000,Hai Phong,Quan tri van phong,P@ssword135
+41023279,le thanh dat,7-9-2000,Bac Lieu,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41023280,dinh thi hong hanh,19-11-2000,Dak Nong,Truyen thong va Mang may tinh,P@ssword135
+41023281,thai thi hong phu,5-4-2000,Binh Thuan,Marketing,P@ssword135
+41023282,nguyen le nhu van,29-4-2000,Nam Dinh,Thiet ke do hoa,P@ssword135
+41023287,phan thi thu mai,9-10-2000,Hai Duong,Quan tri cong nghe truyen thong,P@ssword135
+41023289,tran gia hoang kim,19-8-2000,Ca Mau,Cong nghe thong tin,P@ssword135
+41023293,nguyen thi trinh,26-3-2000,Ninh Binh,Quan tri nhan luc,P@ssword135
+41023294,pham thi xuyen,26-12-2000,Ha Noi,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41023295,nguyen thi minh ngoc,28-1-1997,Bac Lieu,Cong nghe thong tin,P@ssword135
+41023296,nguyen hoang phuc nguyen,16-11-2000,Ba Ria - Vung Tau,Quan tri van phong,P@ssword135
+41023300,le thi thanh phuong,24-7-2000,Nam Dinh,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41023301,phan huy khoi,9-11-2000,Tien Giang,Do hoa Multimedia,P@ssword135
+41023303,tran ngoc thao nguyen,24-12-2000,Tuyen Quang,Quan tri kinh doanh,P@ssword135
+41023307,phan minh tung,11-7-2000,Hoa Binh,Quan tri Khach San,P@ssword135
+41023308,ta le phuong trinh,5-10-1999,Cao Bang,Thiet ke thoi trang,P@ssword135
+41023309,tran thi trang,19-7-2000,Cao Bang,Thu ky van phong,P@ssword135
+41023310,le pham bao tran,13-6-2000,Quang Ninh,Kinh doanh quoc te,P@ssword135
+41023314,pham le quynh nhu,21-3-2000,Ba Ria - Vung Tau,Quan tri cong nghe truyen thong,P@ssword135
+41023315,hoang van trong,25-12-2000,Ha Tinh,Ke toan,P@ssword135
+41023316,doan dien long,5-10-2000,Kon Tum,Thiet ke noi that,P@ssword135
+41023317,ho ngoc le han,31-7-2000,Tay Ninh,Do hoa Multimedia,P@ssword135
+41023321,nguyen duy vu hoang,30-11-2000,Nam Dinh,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41023323,phan thi nhut quynh,12-2-2000,Thanh Hoa,He thong thong tin quan ly,P@ssword135
+41023328,nguyen thuy trang,29-12-2000,Ben Tre,Cong nghe thong tin,P@ssword135
+41023329,ngo quoc truong,9-9-2000,Tra Vinh,Do hoa Multimedia,P@ssword135
+41023330,bui thi binh nghi,22-7-2000,Ha Noi,Thiet ke noi that,P@ssword135
+41023335,tran tan loi,6-12-2000,Long An,Thiet ke thoi trang,P@ssword135
+41023336,nguyen thi huong ly,20-6-2000,Quang Nam,Quan tri van phong,P@ssword135
+41023337,do thuy trang,13-1-2000,TP. Ho Chi Minh,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41023338,nguyen tuong an,15-8-1999,Dong Thap,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41023343,nguyen vo van anh,9-11-2000,Gia Lai,Quan tri cong nghe truyen thong,P@ssword135
+41023344,do gia hao,22-2-2000,Long An,Thu ky van phong,P@ssword135
+41023345,le hong duc,15-10-2000,Thanh Hoa,Thiet ke thoi trang,P@ssword135
+41023349,nguyen minh tien,30-5-2000,Can Tho,Ngon ngu Anh,P@ssword135
+41023352,cao thi chau loan,15-2-2000,Dong Thap,Quan tri Du Lich & Lu hanh,P@ssword135
+41023356,ngo chan co,11-5-2000,Quang Binh,Ky thuat phan mem,P@ssword135
+41023357,dao ngoc trong,28-11-2000,Quang Tri,Cong nghe thong tin,P@ssword135
+41023358,nguyen quang huy,1-9-2000,Lang Son,Ky thuat phan mem,P@ssword135
+41023359,tran thi quynh nga,2-2-1999,Ben Tre,Ky thuat phan mem,P@ssword135
+41023364,nguyen doan gia ngoc,8-11-2000,Ba Ria - Vung Tau,Tai chinh ngan hang,P@ssword135
+41023365,luu gia han,3-3-2000,Hung Yen,Truyen thong va Mang may tinh,P@ssword135
+41023366,nguyen van anh,17-5-2000,Son La,He thong thong tin quan ly,P@ssword135
+41023370,nguyen hoang tuan anh,16-12-2000,Tuyen Quang,Truyen thong va Mang may tinh,P@ssword135
+41023371,nguyen tran thanh hue,26-6-2000,Hung Yen,He thong thong tin quan ly,P@ssword135
+41023372,trinh ngoc khanh,29-12-2000,Thai Binh,Kinh doanh quoc te,P@ssword135
+41023373,nguyen thi dieu hien,4-6-1998,Long An,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41023377,nguyen thi quyen quyen,23-7-2000,Dong Thap,Quan ly Tai nguyen va moi truong,P@ssword135
+41023378,vu duc thien,23-1-1998,Long An,Kinh doanh quoc te,P@ssword135
+41023384,ho thi hong huyen,1-10-2000,Lai Chau,He thong thong tin quan ly,P@ssword135
+41023385,vuong thi quyen,16-10-2000,Ha Noi,Quan tri van phong,P@ssword135
+41023386,nguyen thi tuong vi,15-1-1999,Dak Lak,Quan tri Khach San,P@ssword135
+41023387,au le tu,5-3-2000,Nghe An,Toan ung dung,P@ssword135
+41023391,le phuong kim ngoc,9-12-2000,Hung Yen,Thiet ke do hoa,P@ssword135
+41023392,hoang nguyen trong nam,28-2-2000,Bac Lieu,He thong thong tin quan ly,P@ssword135
+41023394,pham thi phuong linh,30-11-2000,Dien Bien,Anh van thuong mai,P@ssword135
+41023398,do tan dat,9-12-2000,Binh Duong,Anh van thuong mai,P@ssword135
+41023399,vo nguyen thao,27-10-2000,Ben Tre,Quan tri nhan luc,P@ssword135
+41023400,nguyen van bang,15-12-2000,Khanh Hoa,Do hoa Multimedia,P@ssword135
+41023401,nguyen hung thien phuoc,19-1-2000,Ca Mau,Quan tri kinh doanh,P@ssword135
+41023407,le minh son,22-1-1999,Quang Ninh,Quan tri Khach San,P@ssword135
+41023412,lau gia hao,27-6-2000,Yen Bai,Tai chinh ngan hang,P@ssword135
+41023413,doan nguyen kha quynh,31-8-2000,Tra Vinh,Quan tri Du Lich & Lu hanh,P@ssword135
+41023414,duong thi thu binh,22-9-2000,Can Tho,Toan ung dung,P@ssword135
+41023415,dinh ha my duyen,27-11-2000,Hoa Binh,Anh van thuong mai,P@ssword135
+41023419,nguyen thi bich yen,14-8-2000,Dak Lak,Ngon ngu Anh,P@ssword135
+41023420,phan vo tuyet nhi,30-3-2000,Thua Thien - Hue,Quan ly Tai nguyen va moi truong,P@ssword135
+41023421,nguyen thi diem thi,31-8-2000,Binh Phuoc,Truyen thong va Mang may tinh,P@ssword135
+41023426,tran le anh thu,1-9-2000,Ha Tinh,Quan ly Tai nguyen va moi truong,P@ssword135
+41023427,nguyen hanh quyen,9-4-2000,Lao Cai,Tai chinh ngan hang,P@ssword135
+41023428,tang hieu dat,3-11-2000,Gia Lai,Thiet ke thoi trang,P@ssword135
+41023429,pham ngoc quynh tram,13-2-1999,Thanh Hoa,Ky thuat phan mem,P@ssword135
+41023433,nguyen thi thanh lam,16-5-2000,Can Tho,Do hoa Multimedia,P@ssword135
+41023436,phung cam thuy,20-10-2000,Binh Phuoc,Thu ky van phong,P@ssword135
+41023440,nham the son,2-8-2000,Ben Tre,Quan tri kinh doanh,P@ssword135
+41023441,pham le diem hang,25-6-2000,Ha Giang,Anh van thuong mai,P@ssword135
+41023442,nguyen phuc hoang,21-10-1999,Dien Bien,Thiet ke do hoa,P@ssword135
+41023443,phan doan kim loc,14-10-2000,Ben Tre,He thong thong tin quan ly,P@ssword135
+41023447,luong trung hieu,24-5-2000,Vinh Long,Thu ky van phong,P@ssword135
+41023448,nguyen viet le,21-2-2000,Quang Ngai,Quan tri cong nghe truyen thong,P@ssword135
+41023449,vuong ngoc hoang,9-10-2000,Ha Nam,Toan ung dung,P@ssword135
+41023450,nguyen vo thanh dat,5-5-1999,Tuyen Quang,Quan tri kinh doanh,P@ssword135
+41023454,le quoc minh,21-11-1999,Binh Thuan,He thong thong tin quan ly,P@ssword135
+41023455,phan thi tuyen,20-4-2000,Vinh Phuc,Ky thuat phan mem,P@ssword135
+41023456,huynh cong danh,8-8-2000,Thanh Hoa,Truyen thong va Mang may tinh,P@ssword135
+41023457,tran thi thu truyen,17-9-1999,Bac Kan,Quan tri van phong,P@ssword135
+41023461,nguyen hoang nguyen,2-6-2000,Thai Nguyen,Thu ky y khoa,P@ssword135
+41023462,truong buu tai,31-3-2000,Bac Giang,Ky thuat phan mem,P@ssword135
+41023463,dang tien anh,6-12-2000,Ninh Binh,He thong thong tin quan ly,P@ssword135
+41023468,tran thi thu dieu,9-7-2000,Tuyen Quang,He thong thong tin quan ly,P@ssword135
+41023469,nguyen cat loc,30-7-1999,Ca Mau,Quan tri Khach San,P@ssword135
+41023470,phan thi loc,17-1-2000,Quang Binh,Ngon ngu Anh,P@ssword135
+41023471,nguyen hong to nguyen,31-7-2000,Binh Thuan,Ky thuat phan mem,P@ssword135
+41023478,vo thanh an,13-3-2000,Bac Lieu,Ky thuat phan mem,P@ssword135
+41023482,le thi tri,11-2-2000,Lao Cai,Quan tri cong nghe truyen thong,P@ssword135
+41023483,le thi muoi,25-4-2000,Dong Nai,Thu ky van phong,P@ssword135
+41023485,ngo thi kim chi,19-5-2000,Yen Bai,Quan tri cong nghe truyen thong,P@ssword135
+41023489,pham chi thinh,28-8-2000,Ha Tinh,Marketing,P@ssword135
+41023491,doan ngoc tai,11-5-1999,Gia Lai,Ky thuat phan mem,P@ssword135
+41023492,vo ngoc phuong minh,3-10-1998,Thanh Hoa,Do hoa Multimedia,P@ssword135
+41023496,huynh le anh quoc,6-5-2000,Yen Bai,Thiet ke noi that,P@ssword135
+41023498,ho trong tin,16-3-2000,Ca Mau,Tai chinh ngan hang,P@ssword135
+41023499,pham hong lien,8-7-2000,Thai Nguyen,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41023503,mai thi hue,11-11-2000,Ninh Binh,Thu ky y khoa,P@ssword135
+41023504,dinh nguyen hoang hieu,10-11-2000,Hoa Binh,Quan tri kinh doanh,P@ssword135
+41023505,nguyen van thoai,27-7-2000,Tuyen Quang,Marketing,P@ssword135
+41023506,nguyen ky quan,11-1-2000,Lang Son,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41023510,hoang trong duy,4-6-2000,Thanh Hoa,Thiet ke do hoa,P@ssword135
+41023511,nguyen le hoai phuong,11-9-2000,Quang Ngai,Quan tri nhan luc,P@ssword135
+41023512,hoang thuy duong,31-8-2000,Binh Thuan,Quan tri Du Lich & Lu hanh,P@ssword135
+41023518,le hai linh,21-5-2000,Quang Binh,Quan tri Du Lich & Lu hanh,P@ssword135
+41023519,bui mai quynh ly,11-4-2000,Dong Nai,Quan tri Khach San,P@ssword135
+41023520,hoang sy luan,14-5-1998,Cao Bang,Ke toan,P@ssword135
+41023524,le thi quynh huong,13-1-2000,Quang Ninh,Quan ly Tai nguyen va moi truong,P@ssword135
+41023527,tran thi to uyen,25-7-2000,Thai Binh,Thiet ke thoi trang,P@ssword135
+41023532,do nguyen gia huy,29-4-1999,Phu Tho,Quan tri cong nghe truyen thong,P@ssword135
+41023533,duong thuc trinh,10-5-2000,Dong Nai,Thiet ke thoi trang,P@ssword135
+41023538,tran thi le huong,29-9-1999,Vinh Long,He thong thong tin quan ly,P@ssword135
+41023539,mai ngoc tuyen,26-6-2000,Cao Bang,Truyen thong va Mang may tinh,P@ssword135
+41023540,bui quynh trang,2-12-2000,Phu Yen,Kinh doanh quoc te,P@ssword135
+41023541,nguyen thi trang,16-2-1999,Hai Phong,Anh van thuong mai,P@ssword135
+41023545,nguyen dinh hai,1-10-2000,Ba Ria - Vung Tau,Cong nghe thong tin,P@ssword135
+41023546,tran duy tien,14-5-2000,Ninh Thuan,Toan ung dung,P@ssword135
+41023547,phan thanh huy,20-7-1999,Kien Giang,Tai chinh ngan hang,P@ssword135
+41023548,bui the son,9-7-1998,Ha Giang,Ky thuat phan mem,P@ssword135
+41023552,nguyen xuan bich loan,6-1-2000,Kien Giang,Tai chinh ngan hang,P@ssword135
+41023553,tran thi duong thanh,27-7-2000,Ha Giang,Thiet ke noi that,P@ssword135
+41023554,tran bui mong yen,31-12-1999,Quang Ninh,Ky thuat phan mem,P@ssword135
+41023555,tran thi tuyet suong,20-2-2000,Yen Bai,Thiet ke noi that,P@ssword135
+41023559,do thi quynh truc,26-4-2000,Thai Binh,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41023560,tran van khang,11-6-2000,Hai Duong,Quan tri Khach San,P@ssword135
+41023562,truong thi ha,4-4-2000,Tien Giang,Ke toan,P@ssword135
+41023566,do thi kim anh,14-12-2000,Bac Giang,Quan tri van phong,P@ssword135
+41023567,lam ngoc bich diem,19-11-1999,Nam Dinh,Ky thuat phan mem,P@ssword135
+41023568,nguyen thi nhu y,5-3-2000,Thanh Hoa,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41023569,nguyen phu gia,18-12-2000,Lam Dong,Ky thuat phan mem,P@ssword135
+41023573,nguyen truc vi,12-8-2000,Bac Lieu,Quan tri Khach San,P@ssword135
+41023574,truong thi diem my,27-1-2000,Quang Ninh,Ke toan,P@ssword135
+41023575,vo minh ky duyen,5-11-2000,Gia Lai,Anh van thuong mai,P@ssword135
+41023576,le my linh thanh,23-8-2000,Nghe An,Thiet ke thoi trang,P@ssword135
+41023581,van thi nhu quyen,3-7-2000,TP. Ho Chi Minh,Quan tri Khach San,P@ssword135
+41023582,nguyen thi lien,25-12-1998,An Giang,Ky thuat phan mem,P@ssword135
+41023588,vu ngoc quynh nhu,18-4-2000,Ha Nam,Anh van thuong mai,P@ssword135
+41023589,huynh thi thanh nguyet,7-8-2000,Hoa Binh,Ky thuat phan mem,P@ssword135
+41023590,nguyen thi kieu khanh,6-3-2000,Dien Bien,Toan ung dung,P@ssword135
+41023594,duong tan dat,2-9-2000,Ca Mau,Quan tri Khach San,P@ssword135
+41023595,huynh hai dang,30-8-2000,Phu Tho,Thiet ke noi that,P@ssword135
+41023596,cao thi my duyen,11-2-2000,Dong Thap,Do hoa Multimedia,P@ssword135
+41023601,tran hung thinh,15-8-2000,Dak Nong,Thiet ke do hoa,P@ssword135
+41023603,nguyen van thuc,17-5-2000,Ca Mau,Quan ly Tai nguyen va moi truong,P@ssword135
+41023604,trinh thi bich phuong,5-2-2000,Can Tho,Tai chinh ngan hang,P@ssword135
+41023608,le thi thuy trang,16-11-2000,Hoa Binh,Ky thuat phan mem,P@ssword135
+41023609,tran kim hai,23-10-2000,Dong Nai,Do hoa Multimedia,P@ssword135
+41023610,ngo hoai thuong,24-8-2000,Dak Lak,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41023611,pham thi yen binh,2-1-1997,Thua Thien - Hue,Thiet ke do hoa,P@ssword135
+41023615,tran thi ngoc mai,27-2-2000,Quang Tri,Quan tri van phong,P@ssword135
+41023616,nguyen thi hoang quyen,11-1-2000,Hoa Binh,He thong thong tin quan ly,P@ssword135
+41023617,thieu thi thu thao,26-7-1999,Binh Thuan,Cong nghe thong tin,P@ssword135
+41023618,huynh diem trinh,23-1-2000,Ben Tre,Quan tri cong nghe truyen thong,P@ssword135
+41023623,nguyen van phu,28-11-1999,Hai Duong,Tai chinh ngan hang,P@ssword135
+41023624,vu duc hoang,21-7-2000,Soc Trang,He thong thong tin quan ly,P@ssword135
+41023625,nguyen binh phuong anh,7-9-2000,Thai Nguyen,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41023629,ho thi na,15-6-1999,Dong Nai,He thong thong tin quan ly,P@ssword135
+41023630,pham thi thao trang,15-8-2000,Dien Bien,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41023631,phan thi ngoc tram,29-7-2000,Quang Tri,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41023632,le sy hoan,9-2-2000,Bac Ninh,Ky thuat phan mem,P@ssword135
+41023636,le bao chau,15-4-1997,Khanh Hoa,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41023637,duong lan thuyen,10-7-2000,Ca Mau,He thong thong tin quan ly,P@ssword135
+41023638,nguyen tuong duy,17-5-2000,Thai Binh,Thiet ke thoi trang,P@ssword135
+41023639,nguyen thi tuong van,23-4-2000,Binh Duong,Anh van thuong mai,P@ssword135
+41023643,nguyen ngoc hung,14-8-2000,TP. Ho Chi Minh,Thiet ke thoi trang,P@ssword135
+41023644,nguyen quang minh,10-4-2000,Tuyen Quang,Do hoa Multimedia,P@ssword135
+41023646,nguyen thi thu ha,23-9-2000,Binh Phuoc,Quan tri Khach San,P@ssword135
+41023650,nguyen thi my linh,2-4-2000,Hung Yen,Cong Nghe Ky Thuat Moi Truong,P@ssword135
+41023651,nguyen tran thanh loc,28-2-2000,Hai Phong,Marketing,P@ssword135
+41023652,pham hong thai,23-6-2000,Quang Ninh,Marketing,P@ssword135
+41023653,nguyen duc viet,26-4-2000,Bac Ninh,Quan tri Khach San,P@ssword135
+41023657,nguyen van anh tu,11-11-2000,An Giang,Quan tri Nha hang va Dich vu an uong,P@ssword135
+41023658,ly vinh quyen,17-11-1999,Long An,Ke toan,P@ssword135
+41023659,tran thi thu huyen,31-5-2000,Ha Noi,Ky thuat phan mem,P@ssword135
+41023660,lam gia khang,2-7-1999,Quang Ngai,Truyen thong va Mang may tinh,P@ssword135
+41023664,nguyen toan thien trinh,28-2-2000,Bac Kan,Ke toan,P@ssword135
+41023665,nguyen dinh tai,9-1-2000,Ha Nam,Quan tri nhan luc,P@ssword135
+41023667,aun vutha,1-11-1999,Tay Ninh,Quan tri Du Lich & Lu hanh,P@ssword135
+91020814,nguyen minh khoi,20-1-2000,Phu Tho,Quan tri kinh doanh,P@ssword135
+91022277,pham tien phat,22-9-2000,TP. Ho Chi Minh,Truyen thong va Mang may tinh,P@ssword135
+91024323,kieu vu kim ngan,11-4-2000,Binh Phuoc,Ky thuat phan mem,P@ssword135
